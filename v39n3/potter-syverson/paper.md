@@ -48,7 +48,6 @@ We compare the RSMeans and Turner and Townsend data for seven major US cities in
 
 <span id="page-4-0"></span>*Table 1* **Comparison of RSMeans and Turner and Townsend Construction Cost Indexes across Cities**
 
-|---------------------------------------|-----------|----------------------------------------|------------------------------------------|---------|
 |                                       | Townhouse | High-rise apartment                    | RSMeans                                  |         |
 |---------------------------------------|-----------|----------------------------------------|------------------------------------------|---------|
 | Panel A. 2024 (normalized to Houston) |           |                                        |                                          |         |
@@ -58,9 +57,7 @@ We compare the RSMeans and Turner and Townsend data for seven major US cities in
 | San Francisco                         | 1.85      | 2.25                                   | 1.48                                     |         |
 | New York                              | 1.87      | 2.29                                   | 1.47                                     |         |
 | Correlation                           | 0.70      | 0.88                                   |                                          |         |
-|---------------------------------------|-----------|----------------------------------------|------------------------------------------|---------|
-|                                       | Townhouse | Single-family home<br>(medium quality) | Single-family home<br>(prestige quality) | RSMeans |
-|---------------------------------------|-----------|----------------------------------------|------------------------------------------|---------|
+| RSMeans                            | Townhouse | Single-family home<br>(medium quality) | Single-family home<br>(prestige quality) | 
 | Panel B. 2019 (normalized to Houston) |           |                                        |                                          |         |
 | Houston                               | 1.00      | 1.00                                   | 1.00                                     | 1.00    |
 | Phoenix                               | 1.02      | 1.02                                   | 1.02                                     | 1.04    |
@@ -70,7 +67,7 @@ We compare the RSMeans and Turner and Townsend data for seven major US cities in
 | New York                              | 1.93      | 2.15                                   | 1.43                                     | 1.57    |
 | San Francisco                         | 2.45      | 2.09                                   | 1.52                                     | 1.52    |
 | Correlation                           | 0.82      | 0.86                                   | 0.97                                     |         |
-|---------------------------------------|-----------|----------------------------------------|------------------------------------------|---------|
+
 
 *Note:* This table compares RSMeans data and the Turner and Townsend International Construction Market Survey data across cities. We use each dataset to produce cost estimates expressed in dollars, which we then normalize into an index by setting it equal to 1 for Houston, the lowest-cost city in both indexes. Further details can be found in the Supplemental Appendix.
 
