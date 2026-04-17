@@ -57,7 +57,8 @@ We compare the RSMeans and Turner and Townsend data for seven major US cities in
 | San Francisco                         | 1.85      | 2.25                                   | 1.48                                     |         |
 | New York                              | 1.87      | 2.29                                   | 1.47                                     |         |
 | Correlation                           | 0.70      | 0.88                                   |                                          |         |
-| RSMeans                            | Townhouse | Single-family home<br>(medium quality) | Single-family home<br>(prestige quality) | 
+|                             | Townhouse | Single-family home<br>(medium quality) | Single-family home<br>(prestige quality) | RSMeans |
+|---------------------------------------|-----------|----------------------------------------|------------------------------------------|---------|
 | Panel B. 2019 (normalized to Houston) |           |                                        |                                          |         |
 | Houston                               | 1.00      | 1.00                                   | 1.00                                     | 1.00    |
 | Phoenix                               | 1.02      | 1.02                                   | 1.02                                     | 1.04    |
