@@ -1,0 +1,304 @@
+<PAPER>
+<TITLE>Building Costs and House Prices</TITLE>
+<AUTHORS>Brian Potter, Chad Syverson</AUTHORS>
+<PUBLICATION_DATE>2025-07-01</PUBLICATION_DATE>
+
+<PLAINTEXT>
+Housing prices have surged across America, transforming what were once isolated coastal phenomena into a nationwide crisis. The natural culprit seems obvious: if it costs more to build houses, houses should cost more to buy. After all, construction accounts for roughly two-thirds of bringing a new home to market. But a sweeping analysis of nearly 75 years of data reveals a more troubling reality. Building costs and house prices have been steadily divorcing since the 1970s, and the relationship has grown particularly weak since 2000. In cities like San Francisco and Los Angeles, house prices have soared to multiples of construction costs, while in places like Chicago and Minneapolis, prices have actually fallen below what the building costs would predict. The disconnect suggests that America's housing crisis isn't primarily about expensive lumber or costly labor—it's about something more fundamental. When markets work properly, the price of existing houses should roughly track the cost of building new ones, because buyers can always choose between the two. But increasingly, that choice is being constrained by zoning laws, permitting delays, and land-use restrictions that prevent new construction from responding to demand. The result is a housing market where prices are set less by the economics of construction and more by the politics of permission.
+</PLAINTEXT>
+
+High and increasing housing prices are an active and sometimes heated topic of policy debate (for instance, <CITATION ref="cite_1" title="Housing Supply: A Growing Deficit" authors="US GAO" year="2023" journal="Government Accountability Office">US GAO 2023</CITATION>; <CITATION ref="cite_2" title="Why are home prices so high?" authors="Hal Bundrick" year="2024" journal="Yahoo! Finance">Bundrick 2024</CITATION>; <CITATION ref="cite_3" title="The Housing Market Is Weird and Ugly" authors="Ben Casselman" year="2024" journal="New York Times">Casselman 2024</CITATION>). In the United States, what were once a collection of metro-specific housing price outliers have recently morphed into widespread price surges. A broadly similar pattern holds in many other countries as well. For example, implied housing price-to-rent ratios in some other countries like Canada are multiples of their US counterparts, even with the latter at historical highs (<CITATION ref="cite_4" title="The House-Price Supercycle Is Just Getting Going" authors="Economist" year="2024" journal="The Economist">Economist 2024</CITATION>).
+
+<a href="#fig1">Figure 1</a> compares housing prices and building costs across a selected group of US cities since 1950. Across-city variations in the gap between price and cost growth are visually obvious. Some cities see price growth adhering closely to building cost growth throughout the period. Others experience modest divergences for five- or ten-year periods (often recently), and still others see early and enormous separation of local house prices from the estimated cost of constructing them. Most notable is the extreme rise in housing prices compared to costs of large coastal metros, including the major cities in California (Los Angeles and San Francisco), Seattle, New York, and Boston. These cities have historically been perceived as failing to build sufficient housing to keep up with demand (<CITATION ref="cite_5" title="The Housing Shortage Isn't Just a Coastal Crisis Anymore" authors="Emily Badger, Eve Washington" year="2022" journal="New York Times">Badger and Washington 2022</CITATION>), reflected here as a large cost-price disconnect. Cities that have historically built housing in large volumes, such as Dallas, Houston, Atlanta, and Phoenix (<CITATION ref="cite_6" title="60 Years of Homebuilding" authors="Brian Potter" year="2021" journal="Construction Physics">Potter 2021</CITATION>), show a much smaller difference between price and cost. However, over the last ten years many of these cities have seen house prices rise dramatically faster than costs.
+
+<FIGURE ref="fig1">
+<IMAGE src="figures/figure1.png"/>
+<CAPTION>Selected City-Level RSMeans Housing Cost and FHFA Housing Price Indexes</CAPTION>
+</FIGURE>
+
+The sources of high house prices are of obvious policy and intellectual interest. A natural candidate explanation is that they reflect high building costs, by which we mean the costs of actually constructing the building itself apart from land acquisition costs. After all, building costs on average account for an estimated 60–70 percent of the full cost of bringing a new house to market in a land-unconstrained area (<CITATION ref="cite_7" title="The Economic Implications of Housing Supply" authors="Edward Glaeser, Joseph Gyourko" year="2018" journal="Journal of Economic Perspectives">Glaeser and Gyourko 2018</CITATION>; <CITATION ref="cite_8" title="Cost of Constructing a Home—2022" authors="Eric Lynch" year="2023" journal="National Association of Home Builders">Lynch 2023</CITATION>). Moreover, the construction sector's poor productivity growth over the past several decades has raised the salience of high and rising building costs in the housing market (<CITATION ref="cite_9" title="Why Has Construction Productivity Stagnated? The Role of Land-Use Regulation" authors="Leonardo D'Amico, Edward L. Glaeser, Joseph Gyourko, William R. Kerr, Giacomo A. M. Ponzetto" year="2024" journal="NBER Working Paper">D'Amico et al. 2024</CITATION>; <CITATION ref="cite_10" title="The Strange and Awful Path of Productivity in the US Construction Sector" authors="Austan Goolsbee, Chad Syverson" year="2024" journal="Technology, Productivity, and Economic Growth">Goolsbee and Syverson 2024</CITATION>; <CITATION ref="cite_11" title="Reexamining Lackluster Productivity Growth in Construction" authors="Daniel Garcia, Raven Molloy" year="2025" journal="Regional Science and Urban Economics">Garcia and Molloy 2025</CITATION>). Yet the divergences in <a href="#fig1">Figure 1</a> suggest that other factors may often be in play.
+
+In this article we take a long, broad, and theoretically agnostic view toward the connection between building costs and house prices in the US housing market. Our intent is to lay out some facts, drawing connections and tentative conclusions when warranted. We hope this essay will serve as an input into future research on cost-price differences in this highly relevant and interesting market.
+
+Perhaps the clearest conclusion of our analysis is that building costs have limited explanatory power over US housing prices, and even the imperfect correlations of the past have weakened further in recent decades along multiple dimensions. This thesis has a clear conceptual antecedent in <CITATION ref="cite_7" title="The Economic Implications of Housing Supply" authors="Edward Glaeser, Joseph Gyourko" year="2018" journal="Journal of Economic Perspectives">Glaeser and Gyourko (2018)</CITATION>, published in this journal. They used straightforward but powerful economic theory to organize discussion and interpretation of the connection between housing prices and costs in recent decades. We also explore this connection, but we differ by taking an empirical view that is longer (going back three-fourths of a century) and on some dimensions broader in the cross section. Zooming out in this way highlights a pattern that threads itself through our results in multiple ways; namely, that to the extent construction costs explain house price patterns—already tenuous in certain markets as documented by <CITATION ref="cite_7" title="The Economic Implications of Housing Supply" authors="Edward Glaeser, Joseph Gyourko" year="2018" journal="Journal of Economic Perspectives">Glaeser and Gyourko (2018)</CITATION>—they are explaining less than they used to.
+
+<SECTION ref="sec_costs">How to Measure Housing Construction Costs</SECTION>
+
+The core of our empirical analysis compares metrics of house construction costs to house prices. For construction costs, we rely on the Housing Cost database from RSMeans, a company that has been supplying cost estimate data to the construction industry since the mid-twentieth century. RSMeans describes its cost estimates—which capture the costs and margins associated with actually constructing a building, but exclude ancillary and land acquisition costs—as being compiled "through a combination of field research, industry surveys, cost modeling, and partnerships with construction professionals and suppliers." The validity of the RSMeans data are reflected in part in their extensive use in the construction and building materials industries. Researchers have used them too. For example, <CITATION ref="cite_7" title="The Economic Implications of Housing Supply" authors="Edward Glaeser, Joseph Gyourko" year="2018" journal="Journal of Economic Perspectives">Glaeser and Gyourko (2018)</CITATION>, <CITATION ref="cite_12" title="Jobs and Housing (Im)balance in the San Francisco Bay Area" authors="Venoo Kakar, Gerald Daniels, Aditi Grossman" year="2018" journal="Center for Applied Housing Research Working Paper">Kakar, Daniels, and Grossman (2018)</CITATION>, and <CITATION ref="cite_13" title="Urban Growth and Its Aggregate Implications" authors="Gilles Duranton, Diego Puga" year="2023" journal="Econometrica">Duranton and Puga (2023)</CITATION> use RSMeans data to measure construction costs.<FOOTNOTE ref="fn1">RSMeans data are available for general purchase from the Gordian company. See https://www.rsmeans.com/ for more details.</FOOTNOTE> Our version of the data contains detailed building cost estimates and indexes for various US cities.
+
+To better understand how well RSMeans data track actual construction costs, we compare them to two other widely known indexes of housing construction costs.
+
+First, the Census Single-Family Houses under Construction price index tracks the change in cost in single-family homes using home price data from the Census Bureau's Survey of Construction. The Survey measures housing construction activity by sampling from several hundred local permit-issuing offices, as well as canvassing land areas that do not issue permits. The values under construction exclude the cost of land, and thus track actual house construction costs while avoiding potentially confounding land scarcity effects.
+
+<a href="#fig2">Figure 2</a> plots the two series together (we normalize the Census index's 1965 start to the contemporaneous level of the RSMeans index). They track each other closely, with the price volatility around the housing boom and bust in the late 2000s being the times of the greatest departures.
+
+<FIGURE ref="fig2">
+<IMAGE src="figures/figure2.png"/>
+<CAPTION>Census Single-Family Houses under Construction Price Index and RSMeans Cost Index, 1940–2024</CAPTION>
+</FIGURE>
+
+The Census comparison is a useful verification that the RSMeans data track nationwide changes in construction costs, but it would also be worthwhile to compare the RSMeans data for individual cities. For this comparison, we use the Turner and Townsend International Construction Market Survey, which tracks construction costs across a range of building types in major cities around the world.<FOOTNOTE ref="fn2">This data are available from the Turner and Townsend website at https://www.turnerandtownsend.com/insights/international-construction-market-survey-2024/.</FOOTNOTE>
+
+We compare the RSMeans and Turner and Townsend data for seven major US cities in 2019 and five major US cities in 2024. Turner and Townsend construct their data through a multi-input process similar to that used by RSMeans. Here is how we build this comparison: We use each dataset to produce cost estimates expressed in dollars, which we then normalize into an index by setting it equal to 1 for Houston, the lowest-cost city in both indexes. The data are in <a href="#tbl1">Table 1</a>. There are high cross-city correlations between the two measures, ranging from 0.70 to 0.97, though RSMeans indicates somewhat lower costs than Turner and Townsend for the very high-cost cities of New York and San Francisco. While tempered by the fact that the number of comparable cities is small, we take this correspondence as indicating RSMeans data usefully reflect building cost differences across geographies as well.
+
+<TABLE ref="tbl1">
+<thead>
+<tr><th>Townhouse</th><th>High-rise apartment</th><th>RSMeans</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="3"><strong>Panel A. 2024 (normalized to Houston)</strong></td></tr>
+<tr><td>Houston</td><td>1.00</td><td>1.00</td><td>1.00</td></tr>
+<tr><td>Chicago</td><td>1.06</td><td>1.42</td><td>1.38</td></tr>
+<tr><td>Los Angeles</td><td>1.80</td><td>1.60</td><td>1.32</td></tr>
+<tr><td>San Francisco</td><td>1.85</td><td>2.25</td><td>1.48</td></tr>
+<tr><td>New York</td><td>1.87</td><td>2.29</td><td>1.47</td></tr>
+<tr><td>Correlation</td><td>0.70</td><td>0.88</td><td/></tr>
+<tr><td colspan="4"><strong>Panel B. 2019 (normalized to Houston)</strong></td></tr>
+<tr><td>Houston</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr>
+<tr><td>Phoenix</td><td>1.02</td><td>1.02</td><td>1.02</td><td>1.04</td></tr>
+<tr><td>Atlanta</td><td>1.04</td><td>1.04</td><td>1.04</td><td>1.04</td></tr>
+<tr><td>Chicago</td><td>1.19</td><td>1.20</td><td>1.40</td><td>1.41</td></tr>
+<tr><td>Seattle</td><td>1.68</td><td>1.73</td><td>1.33</td><td>1.25</td></tr>
+<tr><td>New York</td><td>1.93</td><td>2.15</td><td>1.43</td><td>1.57</td></tr>
+<tr><td>San Francisco</td><td>2.45</td><td>2.09</td><td>1.52</td><td>1.52</td></tr>
+<tr><td>Correlation</td><td>0.82</td><td>0.86</td><td>0.97</td><td/></tr>
+</tbody>
+</TABLE>
+
+We begin exploring the connection between homebuilding costs and house prices with a look at long-run trends. <a href="#fig3">Figure 3</a> shows multiple price indexes over the last three-fourths of a century. In addition to the RSMeans house building cost index already discussed and the Consumer Price Index from the Bureau of Labor Statistics, it also includes several other indexes. The "construction sector gross output price index" is from the Bureau of Economic Analysis (BEA) industry accounts, which the BEA builds to capture the evolution of prices for all of the sector's outputs (including houses, other buildings, and public works). <CITATION ref="cite_10" title="The Strange and Awful Path of Productivity in the US Construction Sector" authors="Austan Goolsbee, Chad Syverson" year="2024" journal="Technology, Productivity, and Economic Growth">Goolsbee and Syverson (2024)</CITATION> employ this index in their study of construction sector productivity, for example. The housing price index produced by the Federal Housing Finance Agency (FHFA) is constructed from transaction data from Fannie Mae and Freddie Mac using repeat sales or refinancings of the same house. In so doing, it adjusts more thoroughly than cross-sectional samples for quality changes in the housing stock. For examples of research using this index, useful starting points are <CITATION ref="cite_14" title="Endogenous Gentrification and Housing Price Dynamics" authors="Veronica Guerrieri, Daniel Hartley, Erik Hurst" year="2013" journal="Journal of Public Economics">Guerrieri, Hartley, and Hurst (2013)</CITATION>, <CITATION ref="cite_15" title="Housing Booms and Busts, Labor Market Opportunities, and College Attendance" authors="Kerwin Kofi Charles, Erik Hurst, Matthew J. Notowidigdo" year="2018" journal="American Economic Review">Charles, Hurst, and Notowidigdo (2018)</CITATION>, and <CITATION ref="cite_16" title="America's Housing Supply Problem: The Closing of the Suburban Frontier?" authors="Edward L. Glaeser, Joseph Gyourko" year="2025" journal="NBER Working Paper">Glaeser and Gyourko (2025)</CITATION>. We further include the Shiller home price index, which is a composite of Census-division-level single-family home price indices. Like the FHFA index, this is also calculated based on previous sales of the same home. Examples of its use in research include <CITATION ref="cite_17" title="Is There a Bubble in the Housing Market?" authors="Karl E. Case, Robert J. Shiller" year="2003" journal="Brookings Papers on Economic Activity">Case and Shiller (2003)</CITATION>, <CITATION ref="cite_18" title="The Consequences of Mortgage Credit Expansion: Evidence from the US Mortgage Default Crisis" authors="Atif Mian, Amir Sufi" year="2009" journal="Quarterly Journal of Economics">Mian and Sufi (2009)</CITATION>, and <CITATION ref="cite_19" title="Can Cheap Credit Explain the Housing Boom?" authors="Edward L. Glaeser, Joshua D. Gottlieb, Joseph Gyourko" year="2013" journal="Housing and the Financial Crisis">Glaeser, Gottlieb, and Gyourko (2013)</CITATION>.
+
+<FIGURE ref="fig3">
+<IMAGE src="figures/figure3.png"/>
+<CAPTION>Comparison of Price Indexes since 1950 (relative to the GDP deflator)</CAPTION>
+</FIGURE>
+
+Each of these indexes has already been normalized by the GDP deflator over the entire period. As such, they reflect trends relative to that deflator. Clearly, each grew faster than the GDP deflator over the period.
+
+Several patterns are apparent here. First, construction-related prices of all sorts—whether captured by building costs, construction output deflators, or house prices—grew faster than the other consumer-related prices in the Consumer Price Index. While the CPI saw cumulative growth of about 20 percent relative to the GDP deflator, construction sector gross output prices almost doubled, and housing construction costs and prices both more than doubled. This outsized growth, at least in the latter two-thirds of the sample period, is consistent with the aforementioned productivity underperformance of the sector relative to the rest of the economy post-1970 (<CITATION ref="cite_9" title="Why Has Construction Productivity Stagnated? The Role of Land-Use Regulation" authors="Leonardo D'Amico, Edward L. Glaeser, Joseph Gyourko, William R. Kerr, Giacomo A. M. Ponzetto" year="2024" journal="NBER Working Paper">D'Amico et al. 2024</CITATION>; <CITATION ref="cite_10" title="The Strange and Awful Path of Productivity in the US Construction Sector" authors="Austan Goolsbee, Chad Syverson" year="2024" journal="Technology, Productivity, and Economic Growth">Goolsbee and Syverson 2024</CITATION>; <CITATION ref="cite_11" title="Reexamining Lackluster Productivity Growth in Construction" authors="Daniel Garcia, Raven Molloy" year="2025" journal="Regional Science and Urban Economics">Garcia and Molloy 2025</CITATION>).
+
+Second, for much of the early period, cumulative growth in construction costs, as reflected in the RSMeans data, outpaced housing prices. In fact, cumulative growth in the Shiller house price index over 1950–1975 was 30 percent less than comparable change in the RSMeans building cost index. In the late 1970s, however, house prices started rising faster than construction costs. Within the time horizon of the figure, cumulative price growth finally caught up to and surpassed cost growth in the late 1990s.
+
+Third, there were two separate periods where post-1950 cumulative growth in housing prices was notably above the same for building costs: the mid-2000s, during the run-up to the subprime mortgage lending–driven financial crisis; and most recently, from the mid-2010s to the present. While the mid-2000s house price spike did not coincide with a similar acceleration in building costs, this is less true for the contemporaneous bout of price growth. House prices and building costs alike have recently risen substantially faster than their prior growth rates, though housing prices have risen more quickly.
+
+Ultimately, over the entire sweep of the data, house prices cumulatively rose only modestly more than the increase in building costs: about 25 percent more using the Shiller housing price index, and only 10 percent more if we splice the Federal Housing Finance Agency index to the Shiller index in 1975. If we focus on the trends since 1975, however, the differences are starker. Cumulative house price growth using the FHFA index outpaced building costs by over 60 percent; the difference using the Shiller housing index is 80 percent.<FOOTNOTE ref="fn3">For graphical illustration of these points, see Supplemental Appendix Figures A1a and A1b.</FOOTNOTE> This pattern of increasingly divergent building costs and house prices in recent decades will repeat itself in our discussion below. Note, interestingly, that this divergence occurs throughout a period where construction productivity growth was very poor. That is, while building cost inflation may well have contributed to high house price growth in recent years, other factors must have made an additional and substantial contribution.
+
+<SECTION ref="sec_panel">Relationships between Cost and Price Growth in a City Panel</SECTION>
+
+We next drill below the aggregates to look at patterns of house price and building cost growth at the city level. We match city-specific building cost indexes, using the RSMeans data, with housing price indexes, using the Federal Housing Finance Agency indexes at the level of metropolitan statistical areas.
+
+RSMeans data are not always reported at the level of an entire Census-defined metropolitan statistical area. For instance, there are separate indexes for Boston and Fall River in Massachusetts, despite both being part of the same metropolitan statistical area. Another example includes the separate indexes for New York City, New York, and Jersey City, New Jersey, again in the same metropolitan statistical area. In these cases, we use the index corresponding to the center city. The number of cities covered in the Federal Housing Finance Agency data on housing prices is quite small early in the panel. Only 13 cities are covered from 1975 to 1980. (Earlier in the paper, <a href="#fig1">Figure 1</a> offered illustrations of the cost and price comparison for some of those cities plus others whose series began in 1980.) Coverage increases considerably to 128 cities from 1980 to 1985 and to 178 cities by the 1995–2000 period, where the number of covered cities stabilizes.<FOOTNOTE ref="fn4">We previously noted in the comparison to the Turner and Townsend data that RSMeans might underestimate construction costs in very expensive metros, but in most cases the large price-cost gap in coastal cities remains even if we adjust for this. Specifically, even if we increase the cost index by 50 percent in large coastal cities shown earlier in Figure 1, the normalized price-cost ratio is still above 2.0 in San Francisco, Los Angeles, and Seattle, and it is roughly 1.5 in Atlanta, Phoenix, and Houston.</FOOTNOTE>
+
+As a basis for a broader examination, <a href="#tbl2">Table 2</a> reports summary statistics of building cost and house price growth (showing compound annual growth rates over the respective periods) for our entire panel. We noted above that the aggregates indicate house prices began to systematically outgrow building costs after 1975. This is observed at the city level as well. For seven of the ten five-year periods (the last period is shortened to 2020–2024 given data availability), average city-level house price growth rates exceeded average city-level building cost growth rates. The exceptional periods where building costs outstripped price growth were 1980–1985, 2005–2010, and 2010–2015, with low price growth in the latter two periods driven by home price declines following the global financial crisis. The only time in which any of the annual growth rates were negative was for house prices during 2005–2010.
+
+<TABLE ref="tbl2">
+<thead>
+<tr><th>Period</th><th>N</th><th>RSMeans mean</th><th>RSMeans standard deviation</th><th>FHFA mean</th><th>FHFA standard deviation</th></tr>
+</thead>
+<tbody>
+<tr><td>1975–1980</td><td>13</td><td>6.84%</td><td>1.03</td><td>13.26%</td><td>4.38</td></tr>
+<tr><td>1980–1985</td><td>128</td><td>5.83</td><td>0.78</td><td>3.90</td><td>3.12</td></tr>
+<tr><td>1985–1990</td><td>155</td><td>2.31</td><td>0.48</td><td>4.76</td><td>4.17</td></tr>
+<tr><td>1990–1995</td><td>174</td><td>2.24</td><td>0.53</td><td>3.00</td><td>2.81</td></tr>
+<tr><td>1995–2000</td><td>178</td><td>2.37</td><td>0.61</td><td>4.04</td><td>1.77</td></tr>
+<tr><td>2000–2005</td><td>178</td><td>4.21</td><td>0.47</td><td>7.15</td><td>4.20</td></tr>
+<tr><td>2005–2010</td><td>178</td><td>4.55</td><td>0.51</td><td>−0.61</td><td>3.49</td></tr>
+<tr><td>2010–2015</td><td>178</td><td>2.68</td><td>0.59</td><td>1.45</td><td>2.06</td></tr>
+<tr><td>2015–2020</td><td>178</td><td>2.68</td><td>0.58</td><td>4.78</td><td>1.89</td></tr>
+<tr><td>2020–2024</td><td>178</td><td>6.27</td><td>0.52</td><td>10.11</td><td>2.01</td></tr>
+</tbody>
+</TABLE>
+
+Just as aggregate house price growth has been more volatile over time than aggregate building cost growth, price growth is substantially more variable in the cross section as well. The typical standard deviation across cities of house price growth rates ranges from 2 to 4 percentage points per year, while for building costs it ranges from 0.5 to 1 percentage points. There is very little skewness across cities in the building cost distribution, but a little more among house prices.<FOOTNOTE ref="fn5">The patterns here are not solely a function of a few highly divergent cities; the medians (not shown here) show similar patterns. Another way of making this point is that the median for compound aggregate growth rates in housing costs and prices do not differ substantially from the means. For details, see the Supplemental Appendix.</FOOTNOTE>
+
+We dig into the cross-sectional correlation of growth rates by running separate cross-sectional regressions for each of these five-year periods. The results are in <a href="#tbl3">Table 3</a>. Looking down along the <MATH>R^2</MATH> of regressions, we observe—at the city level—an increasing divergence of building costs and house prices over time. The ability of building cost growth to predict price growth in the cross section falls throughout our panel. In fact, there is a notable step down in 2000 from modest explanatory power to very little, if any, explanatory power (single-digit <MATH>R^2</MATH> values). The coefficients vary a fair amount from year to year. In fact, from 1990 to 1995—a period where cost growth still explains over 10 percent of price growth—the relationship is negative, hardly the direction implied by simple economic theory.<FOOTNOTE ref="fn6">Supplemental Appendix Table A1 shows a version of Table 3 where we also control for city population growth over the period. This matters little for most of the sample; we cannot reject equality of the coefficients on the construction cost growth rate with and without population growth included for all periods through 2010–2015. However, we can reject equality for the 2015–2020 and 2020–2024 periods. For those periods, controlling for population growth roughly doubles the partial correlation between building cost and house price growth across cities. However, even in those cases, costs have little additional explanatory power over prices. The increase in R² when adding cost growth to a regression of price growth on population growth is 0.001 in both 2015–2020 and 2020–2024.</FOOTNOTE>
+
+<TABLE ref="tbl3">
+<thead>
+<tr><th>Period</th><th>N</th><th><MATH>R^2</MATH></th><th>Coefficient</th></tr>
+</thead>
+<tbody>
+<tr><td>1975–1980</td><td>13</td><td>0.641</td><td>3.420<br/>(0.374)</td></tr>
+<tr><td>1980–1985</td><td>128</td><td>0.182</td><td>1.705<br/>(0.386)</td></tr>
+<tr><td>1985–1990</td><td>155</td><td>0.329</td><td>4.990<br/>(0.629)</td></tr>
+<tr><td>1990–1995</td><td>174</td><td>0.110</td><td>−1.750<br/>(0.344)</td></tr>
+<tr><td>1995–2000</td><td>178</td><td>0.000</td><td>0.060<br/>(0.203)</td></tr>
+<tr><td>2000–2005</td><td>178</td><td>0.009</td><td>0.851<br/>(0.569)</td></tr>
+<tr><td>2005–2010</td><td>178</td><td>0.015</td><td>0.831<br/>(0.511)</td></tr>
+<tr><td>2010–2015</td><td>178</td><td>0.035</td><td>−0.658<br/>(0.241)</td></tr>
+<tr><td>2015–2020</td><td>178</td><td>0.011</td><td>0.347<br/>(0.197)</td></tr>
+<tr><td>2020–2024</td><td>178</td><td>0.020</td><td>0.551<br/>(0.298)</td></tr>
+</tbody>
+</TABLE>
+
+<SECTION ref="sec_divergence">Which Cities See the Biggest Divergence between Housing Prices and Building Costs?</SECTION>
+
+The cities that saw the largest gaps between house price and building cost growth have changed over time. <a href="#tbl4">Table 4</a> lists the five cities that saw the largest and smallest price growth in excess of building costs during each five-year time period of our sample.<FOOTNOTE ref="fn7">We do not report values for 1975–1980 due to the small number of cities in the panel.</FOOTNOTE>
+
+During 1980–1985, Massachusetts cities and those in the New York City region dominated the cities whose house prices most exceeded cost growth. Boston was the highest, with annual price growth 7.7 percent higher than local building cost growth. Excess price growth moved west for the late 1980s, with coastal California cities and Honolulu on top (the last experiencing annual price growth 14 percent higher than costs). The most divergent prices shifted to Utah and the Pacific Northwest for 1990–1995. A mishmash of cities experienced fast relative price growth from 1995 to 2000. During 2000–2005, California cities, including some inland, see excess growth to the tune of 14 percent per year. As housing prices collapsed in the latter half of the 2000s, only one city in the country (!) saw price growth above building cost growth: Odessa, Texas, in the midst of a fracking-driven oil and gas boom. Other cities in Texas, plus Huntsville, Alabama, rounded out the top five from 2005 to 2010, though these all exhibited house price declines as a result of the global financial crisis. California cities lead the house price rebound from 2010 to 2015, and the Pacific Northwest (now including Boise, Idaho) saw the fastest relative price growth from 2015 to 2020. The post-Covid price run-up was led by Miami and saw cities from Tennessee, Georgia, and Maine enter the mix for the first time.
+
+<TABLE ref="tbl4">
+<thead>
+<tr><th colspan="2">1980–1985</th><th colspan="2">1985–1990</th><th colspan="2">1990–1995</th></tr>
+<tr><th>City</th><th>%ΔPrice − %ΔCost</th><th>City</th><th>%ΔPrice − %ΔCost</th><th>City</th><th>%ΔPrice − %ΔCost</th></tr>
+</thead>
+<tbody>
+<tr><td>Boston, MA</td><td>7.7</td><td>Honolulu, HI</td><td>14.1</td><td>Salt Lake City, UT</td><td>9.0</td></tr>
+<tr><td>Worcester, MA</td><td>6.9</td><td>San Francisco, CA</td><td>12.2</td><td>Ogden, UT</td><td>6.9</td></tr>
+<tr><td>Springfield, MA</td><td>5.3</td><td>Los Angeles, CA</td><td>11.4</td><td>Spokane, WA</td><td>6.3</td></tr>
+<tr><td>New York, NY</td><td>4.9</td><td>Oxnard, CA</td><td>10.9</td><td>Portland, OR</td><td>6.2</td></tr>
+<tr><td>Newark, NJ</td><td>3.3</td><td>Anaheim, CA</td><td>9.8</td><td>Eugene, OR</td><td>5.9</td></tr>
+<tr><td>Eugene, OR</td><td>−6.7</td><td>San Antonio, TX</td><td>−4.9</td><td>Manchester, NH</td><td>−5.8</td></tr>
+<tr><td>Detroit, MI</td><td>−6.8</td><td>Oklahoma City, OK</td><td>−5.5</td><td>Oxnard, CA</td><td>−5.8</td></tr>
+<tr><td>Davenport, IA</td><td>−6.9</td><td>Odessa, TX</td><td>−6.3</td><td>New Haven, CT</td><td>−6.6</td></tr>
+<tr><td>Waterloo, IA</td><td>−7.9</td><td>Anchorage, AK</td><td>−7.0</td><td>Los Angeles, CA</td><td>−6.6</td></tr>
+<tr><td>Peoria, IL</td><td>−8.7</td><td>Austin, TX</td><td>−7.1</td><td>Hartford, CT</td><td>−7.0</td></tr>
+</tbody>
+</TABLE>
+
+<TABLE ref="tbl4_cont">
+<thead>
+<tr><th colspan="2">1995–2000</th><th colspan="2">2000–2005</th><th colspan="2">2005–2010</th></tr>
+<tr><th>City</th><th>%ΔPrice − %ΔCost</th><th>City</th><th>%ΔPrice − %ΔCost</th><th>City</th><th>%ΔPrice − %ΔCost</th></tr>
+</thead>
+<tbody>
+<tr><td>San Francisco, CA</td><td>9.6</td><td>Santa Barbara, CA</td><td>14.4</td><td>Odessa, TX</td><td>2.7</td></tr>
+<tr><td>Boston, MA</td><td>7.2</td><td>Riverside, CA</td><td>14.3</td><td>Austin, TX</td><td>−0.5</td></tr>
+<tr><td>Charleston, SC</td><td>6.6</td><td>Fresno, CA</td><td>14.1</td><td>Beaumont, TX</td><td>−0.6</td></tr>
+<tr><td>Denver, CO</td><td>6.0</td><td>Los Angeles, CA</td><td>13.5</td><td>El Paso, TX</td><td>−0.8</td></tr>
+<tr><td>Seattle, WA</td><td>5.8</td><td>Bakersfield, CA</td><td>13.4</td><td>Huntsville, AL</td><td>−0.8</td></tr>
+<tr><td>Buffalo, NY</td><td>−1.6</td><td>Decatur, IL</td><td>−1.2</td><td>Riverside, CA</td><td>−13.8</td></tr>
+<tr><td>Camden, NJ</td><td>−1.7</td><td>Charleston, WV</td><td>−1.4</td><td>Reno, NV</td><td>−14.5</td></tr>
+<tr><td>Springfield, IL</td><td>−1.7</td><td>Springfield, IL</td><td>−1.5</td><td>Vallejo, CA</td><td>−16.2</td></tr>
+<tr><td>Utica, NY</td><td>−2.0</td><td>Memphis, TN</td><td>−1.8</td><td>Las Vegas, NV</td><td>−17.9</td></tr>
+<tr><td>Honolulu, HI</td><td>−5.0</td><td>Sioux City, IA</td><td>−3.0</td><td>Stockton, CA</td><td>−17.9</td></tr>
+</tbody>
+</TABLE>
+
+<TABLE ref="tbl4_cont2">
+<thead>
+<tr><th colspan="2">2010–2015</th><th colspan="2">2015–2020</th><th colspan="2">2020–2024</th></tr>
+<tr><th>City</th><th>%ΔPrice − %ΔCost</th><th>City</th><th>%ΔPrice − %ΔCost</th><th>City</th><th>%ΔPrice − %ΔCost</th></tr>
+</thead>
+<tbody>
+<tr><td>Stockton, CA</td><td>5.3</td><td>Boise, ID</td><td>8.9</td><td>Miami, FL</td><td>8.6</td></tr>
+<tr><td>San Francisco, CA</td><td>5.1</td><td>Spokane, WA</td><td>7.1</td><td>Knoxville, TN</td><td>8.1</td></tr>
+<tr><td>Vallejo, CA</td><td>4.9</td><td>Tacoma, WA</td><td>7.0</td><td>Camden, NJ</td><td>8.0</td></tr>
+<tr><td>Denver, CO</td><td>4.4</td><td>Tampa, FL</td><td>6.5</td><td>Savannah, GA</td><td>7.5</td></tr>
+<tr><td>Reno, NV</td><td>4.1</td><td>Las Vegas, NV</td><td>6.1</td><td>Lewiston, ME</td><td>7.3</td></tr>
+<tr><td>Columbia, SC</td><td>−4.6</td><td>Decatur, IL</td><td>−1.1</td><td>Baton Rouge, LA</td><td>−1.2</td></tr>
+<tr><td>Tuscaloosa, AL</td><td>−4.7</td><td>Shreveport, LA</td><td>−1.1</td><td>Shreveport, LA</td><td>−1.8</td></tr>
+<tr><td>Mobile, AL</td><td>−5.2</td><td>Lawton, OK</td><td>−1.3</td><td>New Orleans, LA</td><td>−1.9</td></tr>
+<tr><td>Rockford, IL</td><td>−5.4</td><td>Springfield, IL</td><td>−1.5</td><td>Odessa, TX</td><td>−2.5</td></tr>
+<tr><td>Montgomery, AL</td><td>−5.7</td><td>Peoria, IL</td><td>−1.5</td><td>Lake Charles, LA</td><td>−2.8</td></tr>
+</tbody>
+</TABLE>
+
+As for the locations seeing the slowest relative price growth (which in all cases is negative, meaning that house prices grew more slowly than building costs did) during 1980–1985, they were in deindustrializing Midwestern cities and Eugene, Oregon. Texas, Oklahoma, and Alaska bore the brunt of the oil price collapse from 1985 to 1990. Smaller New England cities and Greater Los Angeles, following the social unrest there in 1992, saw big relative price declines over 1990–1995. In all these cases, the fastest-declining relative price cities saw prices fall some 6 or 7 percent per year relative to building costs. The 1995–2000 and 2000–2005 periods saw an assortment of cities from various regions experiencing the largest relative price declines, though they were smaller drops in magnitude than those of earlier periods. Of course 2005–2010 was a banner period for falling prices, with cities in Nevada and inland California seeing annual price drops of 14 to 18 percent relative to costs, reversing gains of the prior half decade. The 2010–2015 and 2015–2020 periods saw a variety of cities in Illinois and Alabama experience the largest relative price drops, and the COVID-influenced period from 2020–2024 was dominated by Louisiana cities along with Odessa, Texas.
+
+While some cities appear in the top or bottom five multiple times, there is a considerable turnover across periods. This suggests relative price-cost growth in a city is not highly persistent. Indeed, formal tests do indeed indicate mean reversion in cities' housing price-cost ratios; that is, faster relative price growth in one period predicts slower relative price growth in the following period, tempering cumulative differences between house prices and building costs. Though as we see below, these differences can still become quite large. If we break this growth rate difference into its price and building cost components, both exhibit mean reversion.<FOOTNOTE ref="fn8">Supplemental Appendix Table A2 shows that regressing a city's five-year difference between housing price and building cost growth on the same variable computed five years earlier while including city and period fixed effects yields a coefficient of −0.329 (standard error = 0.027). Looking at housing price growth and cost growth separately, five-year price growth regressed on its lag yields a coefficient of −0.288 (standard error = 0.030). The same specification using building cost growth results in a coefficient on lagged cost growth of −0.157 (standard error = 0.028). Details are available in the Supplemental Appendix.</FOOTNOTE>
+
+We can of course add up these period-specific growth differences to obtain a measure of the cumulative gap between building costs and house prices in a city. We compute the ratio of cumulative house price growth to cumulative building cost growth in the city since 1980, and then plot the density of this ratio across cities for the 126 cities that we observe from 1980 to the present in <a href="#fig4">Figure 4</a>. Values above 1 indicate more cumulative growth since 1980 in house prices than in building costs.
+
+<FIGURE ref="fig4">
+<IMAGE src="figures/figure4.png"/>
+<CAPTION>Across-City Density of Cumulative Housing Prices to Costs Ratio Level Ratio</CAPTION>
+</FIGURE>
+
+Some interesting patterns emerge from inspecting these distributions. Despite the average and median growth rate patterns discussed above, several cities experienced lower cumulative house price growth than building cost growth—as is shown by any values below 1. This is true even at the sample's end in 2024: from 1980 to 2024, 33 of the 128 cities saw faster housing cost growth than price growth. Near the start of the time period, the distributions are relatively condensed; for example, the two curves with the highest density peaks are those for 1985 and 1990. Over time, the distributions became quite skewed. The distribution with the biggest rightward skews is for the average price spike of 2005, but the next three curves most skewed to the right are 2024, 2020, and 2015. For instance, in 2024, the 90th percentile cumulative price-cost ratio was 1.90. It was even larger during the price spike of 2005, at 2.21.
+
+<SECTION ref="sec_materials">Material versus Installation Costs for Cities</SECTION>
+
+Since 2007, the RSMeans Index provides separate indexes for "material" and "installation" indexes, which together comprise the overall building cost index. The material index summarizes the prices of building materials: concrete, lumber, drywall, plumbing fixtures, and so on. The installation index reflects costs tied to the assembly of materials into finished buildings, including some kinds of building-related overhead, but not "soft costs" like legal and engineering fees, financing costs, and land acquisition. The index therefore mostly captures costs tied to labor-centered services dominated by the wages of contractors and construction crews.
+
+We can compare the growth rates of these two cost components to see if there have been systematic differences in the sources of building cost inflation since 2010. The top panel of <a href="#tbl5">Table 5</a> reports the compound annual growth rates of the total RSMeans index along with its materials and installation components.<FOOTNOTE ref="fn9">Unlike the US-wide index used in Figure 2, these components do not report a US overall average, but rather separate indexes for a large number of local areas. We construct US overall versions of each as follows. We first restrict the sample to the 30 cities that RSMeans uses to calculate the US average. (We verified that the across-city mean of the total cost index does in fact equal the reported US aggregate.) Then, for each of the 30 cities, we calculate the material and installation shares of total cost. We take the mean of the shares over these 30 cities for each year. (Over 2010–2024, installation accounts for 43 percent and materials for 57 percent of total building costs.) Finally, we multiply the RSMeans historical cost index for the US average by the material and installation shares for each year to create material and installation specific cost indexes.</FOOTNOTE>
+
+<TABLE ref="tbl5">
+<thead>
+<tr><th>Total Cost</th><th>Material</th><th>Installation</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="3"><strong>Panel A. US average</strong></td></tr>
+<tr><td>2010–2015</td><td>2.35%</td><td>1.99%</td><td>2.83%</td></tr>
+<tr><td>2015–2020</td><td>2.81</td><td>3.30</td><td>2.16</td></tr>
+<tr><td>2020–2024</td><td>5.98</td><td>8.05</td><td>2.95</td></tr>
+<tr><td colspan="3"><strong>Panel B. City-level</strong></td></tr>
+<tr><td/><td>Material mean</td><td>Material standard deviation</td><td>Installation mean</td><td>Installation standard deviation</td></tr>
+<tr><td>2010–2015</td><td>2.51%</td><td>0.38</td><td>3.67%</td><td>2.18</td></tr>
+<tr><td>2015–2020</td><td>2.53</td><td>0.33</td><td>3.45</td><td>1.92</td></tr>
+<tr><td>2020–2024</td><td>5.98</td><td>0.53</td><td>5.32</td><td>1.21</td></tr>
+</tbody>
+</TABLE>
+
+In the early 2010s, installation cost growth outpaced growth in material costs by roughly one percentage point per year. This pattern flipped in the latter half of the decade, with materials cost growth outpacing installation cost growth by about the same amount, and an overall acceleration in cost growth of about half a percentage point per year. The overall cost inflation rate doubled in the Covid and post-Covid periods. While both components saw price acceleration, inflation in materials far outpaced installation costs, consistent with the well-documented supply chain frictions and the accompanying inflation in goods relative to services (for example, <CITATION ref="cite_20" title="Global Supply Chain Pressures, International Trade, and Inflation" authors="Julian di Giovanni, Şebnem Kalemli-Özcan, Alvaro Silva, Muhammed A. Yildirim" year="2022" journal="NBER Working Paper">di Giovanni et al. 2022</CITATION>; <CITATION ref="cite_21" title="Supply Chain Constraints and Inflation" authors="Diego A. Comin, Robert C. Johnson, Callum J. Jones" year="2024" journal="NBER Working Paper">Comin, Johnson, and Jones 2024</CITATION>).
+
+We can also compare these separate indexes for cities during this period since 2010. The bottom panel of <a href="#tbl5">Table 5</a> shows the mean and standard deviation of each index across the cities in our RSMeans data. The means of the city-level distribution look much like the aggregate growth rates, with a few differences.<FOOTNOTE ref="fn10">Again, the median growth rates, not shown in Table 5, are quite close to the means, showing that the patterns are not driven by outliers.</FOOTNOTE>
+
+During 2010–2015, the city-level means see the same pattern as in the aggregates of installation cost growth outpacing material cost growth by about one percentage point. From 2015 to 2020, rather than reversing this pattern as the aggregates do, city-level (unweighted) average installation costs continue to grow faster than material costs. As with the aggregates, inflation in both components accelerates in the post-Covid period, and more so for materials. However, the difference between average city-level materials and installation cost growth is smaller than for the aggregates.
+
+An interesting pattern in the city-level numbers that was hidden in the aggregates is the difference in the standard deviations of the cost component growth rates. Installation cost growth varies much more across cities than material cost growth. Before Covid, the ratio of the two components' standard deviations is almost 6. This falls quite a bit after Covid, to around 2 (perhaps because supply chain disruption effects were heterogeneous across geographies), but a clear difference remains.
+
+The greater variance of installation costs may reflect the relative goods intensity of the material index, as opposed to the labor intensity of the installation cost index. Goods are more tradeable, which creates an arbitrage incentive that reduces cross-sectional dispersion in prices. Labor for construction, on the other hand, is a much more local market with higher spatial adjustment costs, and as such it may be easier to for greater price dispersion to arise. It also suggests the primary source of any cross-sectional correlation between building costs and house prices—which again we show above is already rather weak, especially in this latter period—is likely to be because of labor costs.
+
+<SECTION ref="sec_levels">Across-City Housing Cost and Price Level Comparisons</SECTION>
+
+Having used the RSMeans housing cost index to look at cross-sectional relationships between building cost and house price growth, we now use data to explore cross-sectional relationships in building cost and price levels. In this case, of course, we cannot compare indexes, so we need different data. For building costs, we stick with RSMeans data products and use their construction cost estimator, which reports the expected building cost in dollars of a home with a particular set of attributes in a particular city. Specifically, we use a two-story home of average building quality, with stucco on wood frame walls/frame and floorspace of 2,000 square feet. Because the prices of different house types are highly correlated across cities, using a different set of attributes would likely yield similar results. For house price data, we use the Zillow median house price reported by city. We use data for 2024 and obtain building cost and house price measures for the 100 largest metro areas.<FOOTNOTE ref="fn11">Zillow data can be downloaded from https://www.zillow.com/research/data/. We use Median Sale Price (Nowcast, All Homes, Monthly), New Construction Median Sale Price (Raw, All Homes, Monthly), and New Construction Median Sale Price per Square Foot (Raw, All Homes, Monthly), all at the Metro and US-geography level. We then take the mean over all months in 2024 for each city to get the 2024 values. To further check data quality, we also gathered house price data from realtor.com (https://www.realtor.com/research/data) on metro-level median list prices and list prices per square foot. We download their monthly historical metro data and take the mean over all months in 2024 for each city. These are highly correlated with the Zillow data. The log of prices in the realtor.com and Zillow have a correlation coefficient of 0.97. Their per-square-foot counterparts have a correlation of 0.93.</FOOTNOTE>
+
+<a href="#fig5">Figure 5</a>, panel A, plots the log of the Zillow median house price against the log of the RSMeans building cost estimate. Costs and prices are positively correlated, with the slope from regressing log prices on log costs yielding a coefficient of 1.57 (standard error = 0.33) and an <MATH>R^2</MATH> of 0.24. As with the correlations in growth rates across cities throughout our panel, costs have explanatory power, but the majority of variation is explained by other factors.<FOOTNOTE ref="fn12">For details of the calculation, see Supplemental Appendix Table A3. This correlation reflects the relationships between RSMeans cost levels for a city and the median price of all houses in the city. If there is a systematic difference between new construction and the existing housing stock, RSMeans costs for a standardized house might not strongly correlate with overall prices, even if they predict the prices of new construction well. We can check for this possibility, as Zillow also reports median prices for new construction housing for 78 of the metros in our sample. Regressing logged prices on logged building costs in this case yields a coefficient of 2.00 (SE = 0.31) and an R² of 0.53. The corresponding scatterplot is shown in Supplemental Appendix Figure A2. Building costs thus do a better job explaining new construction prices than prices of existing housing. Flipped on its head, this relative inability to explain the prices of existing housing is yet another facet of the generally weak price-cost relationship.</FOOTNOTE>
+
+<FIGURE ref="fig5">
+<IMAGE src="figures/figure5a.png"/>
+<IMAGE src="figures/figure5b.png"/>
+<CAPTION>Across-City Comparisons of Housing Prices and Building Costs</CAPTION>
+</FIGURE>
+
+As one further check on the housing cost-price relationship, we note our RSMeans dollar cost levels for every city are for a house with standardized attributes, including size. If the size of median homes differs systematically across cities, this could be another reason for a wedge between prices and building costs. To check this, we compare both Zillow prices (though just for new construction) and RSMeans cost estimates in terms of dollars per square foot for 74 of the 100 cities in our original sample. The regression coefficient of prices on costs using this per-unit-area data is 2.16 (SE = 0.33), with an <MATH>R^2</MATH> of 0.59. The corresponding scatter plot is shown in <a href="#fig5">Figure 5</a>, panel B. Adjusting for the fact that RSMeans cost estimates focus on new construction and for differences in house sizes across metros substantially raises the ability of building costs to explain house prices.
+
+That said, even in this best case, almost half of the variation in housing prices remains unexplained. <a href="#tbl6">Table 6</a> lists the top and bottom ten cities (of 74 in the sample) in terms of the residual of regressing the median per-square-foot price of newly constructed houses on the estimated building costs per square foot. Cities with positive residuals have high prices relative to those predicted by building costs, while cities with negative residuals have low prices relative to those predicted by building costs.
+
+<TABLE ref="tbl6">
+<thead>
+<tr><th>City</th><th>House price residual (%)</th><th>Price Rank (of 74)</th><th>Cost Rank (of 74)</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="4"><strong>Top ten</strong></td></tr>
+<tr><td>Miami, FL</td><td>98.2</td><td>7</td><td>46</td></tr>
+<tr><td>San Jose, CA</td><td>88.5</td><td>1</td><td>3</td></tr>
+<tr><td>Los Angeles, CA</td><td>69.5</td><td>3</td><td>7</td></tr>
+<tr><td>San Francisco, CA</td><td>54.5</td><td>2</td><td>2</td></tr>
+<tr><td>Seattle, WA</td><td>45.2</td><td>6</td><td>11</td></tr>
+<tr><td>Denver, CO</td><td>38.7</td><td>12</td><td>35</td></tr>
+<tr><td>Boston, MA</td><td>31.2</td><td>5</td><td>6</td></tr>
+<tr><td>Colorado Springs, CO</td><td>27.3</td><td>21</td><td>56</td></tr>
+<tr><td>Sarasota, FL</td><td>22.2</td><td>27</td><td>60</td></tr>
+<tr><td>Durham, NC</td><td>21.1</td><td>31</td><td>66</td></tr>
+<tr><td colspan="4"><strong>Bottom ten</strong></td></tr>
+<tr><td>El Paso, TX</td><td>−19.1</td><td>69</td><td>38</td></tr>
+<tr><td>Augusta, GA</td><td>−20.6</td><td>73</td><td>47</td></tr>
+<tr><td>Indianapolis, IN</td><td>−24.6</td><td>70</td><td>33</td></tr>
+<tr><td>Columbia, SC</td><td>−25.1</td><td>74</td><td>54</td></tr>
+<tr><td>Omaha, NE</td><td>−25.5</td><td>54</td><td>21</td></tr>
+<tr><td>Baton Rouge, LA</td><td>−27.3</td><td>71</td><td>32</td></tr>
+<tr><td>Greenville, SC</td><td>−27.9</td><td>72</td><td>31</td></tr>
+<tr><td>Philadelphia, PA</td><td>−31.6</td><td>17</td><td>5</td></tr>
+<tr><td>Minneapolis, MN</td><td>−33.7</td><td>38</td><td>10</td></tr>
+<tr><td>Chicago, IL</td><td>−48.0</td><td>39</td><td>4</td></tr>
+</tbody>
+</TABLE>
+
+The highest relative house price cites are in coastal California, the Front Range of Colorado, and Florida, as well as Seattle and Boston. Miami is the highest, with prices per square foot are some 98 percent above what would be predicted by local construction costs.
+
+It is interesting to compare the price and cost ranks of these high-residual cities among the 74 cities in our data. Most of the cities with high price-cost residuals exhibit high house prices overall. The seven highest-residual cities are among the twelve highest-price cities. However, with the exception of Miami and Denver, none of these cities have particularly low building costs. San Jose and San Francisco (second- and fourth-highest house price residuals) actually have the second- and third-highest estimated building costs among all cities, and Boston, Los Angeles, and Seattle are not far behind. These cities therefore have a large price residual despite their building costs, not because of them. The remainder of the top ten—Colorado Springs, Colorado, Sarasota, Florida, and Durham, North Carolina, have prices out of the top ten but above the median. Their high price-cost residual reflects a large gap between their price and cost ranks rather than astronomical prices per se.
+
+The lowest relative price cities are various locations in the Midwest and South as well as Philadelphia. Chicago has the smallest residual of all cities in our data, indicating its house prices are 48 percent less than predicted by building costs, notably larger than Minneapolis's second-lowest residual pointing to prices 34 percent less than that implied by costs.
+
+Looking at these lowest-residual cities' price and cost ranks, we see a range of patterns. Some cities, like Augusta, Georgia, and Columbia, South Carolina, have very low house prices but also below-median costs—just not as low as their prices, obviously. Others have a negative residual not so much because of low prices, but rather quite high costs: Philadelphia, Minneapolis, and Chicago all have cost ranks in the top ten. Chicago's large negative residual is much more due to high costs than low prices.
+
+<SECTION ref="sec_conclusion">Conclusion</SECTION>
+
+Looking at nearly 75 years of RSMeans data has allowed us to examine housing construction cost growth over a long period and across many different metro areas. Comparing this with various measures of housing prices offers insights into the relationship between construction costs and housing prices. Despite construction costs being a very large fraction of the costs of new construction, overall construction costs are not a particularly strong predictor of housing prices overall, especially in the very highest-cost metros and in more recent periods. We observe this across a variety of measures, from the increasing divergence in construction costs and housing prices across major metros, to the larger dispersion of installation costs than material costs in building costs, to contemporary Zillow home price data on both new construction and existing houses.
+
+Patterns in both aggregates and in the cross section suggest the cost-price relationship is weakening over time, particularly post-2000. Moreover, some of the relationship that does exist may be due to the circular effects of high housing costs driving up the costs of local labor, a major input to construction costs.
+
+But while the stagnation (or worse, recession) of construction productivity and its concomitant high building costs in general can only add to high housing prices, these factors are mostly and increasingly overshadowed by other effects on house price. The decoupling of house price and replacement cost may have several drivers, including increasingly binding restrictions that prevent housing supply expansion in high-demand areas.
+
+</PAPER>
