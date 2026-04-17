@@ -120,7 +120,6 @@ Table 1 reports the results, using data from the advanced economies in the Human
 
 <span id="page-12-0"></span>*Table 1* **Decomposition of Fertility Decline: Childlessness versus Fewer Children among the Parous in Advanced Economies**
 
-|-------------------------------------------------|----------------------------|------------------------|
 |                                                 | Most recent cohort         | Cohort 20 years before |
 |-------------------------------------------------|----------------------------|------------------------|
 | Panel A. Sample means                           |                            |                        |
@@ -135,7 +134,7 @@ Table 1 reports the results, using data from the advanced economies in the Human
 | Difference in childlessness:                    |                4.4 percentage points                |
 | Difference due to childlessness:                |             0.09 births, or 37% of gap              |
 | Difference due to fertility among parous        |             0.16 births, or 63% of gap              |
-|-------------------------------------------------|----------------------------|------------------------|
+
 *Note:* Decomposition compares cohorts separated by 20 years in 19 countries in the Human Fertility Database. Each observation is a country-cohort in the HFD, unweighted. The sample is smaller than in Figure 5 because a country must have two cohort-observations 20 years apart to be included. Some fractions may not add to one due to rounding. Full calculations are available in Geruso and Spears (2025b), which also lists the countries and cohorts included.
 
 
