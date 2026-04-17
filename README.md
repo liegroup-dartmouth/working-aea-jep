@@ -7,7 +7,7 @@ This repository contains LLM-friendly companion files for articles published in 
 ### Volume 39, Number 3 (Summer 2025)
 - [Potter and Syverson: Building Costs and House Prices](v39n3/potter-syverson/llms.txt)
 ## Folder Structure
-The folder structure would be:
+```
 working-aea-jep/
   index.json			# root index (~50 words per article = ~50K total)
   v40n1/
@@ -48,3 +48,4 @@ working-aea-jep/
         figure5a.csv
         figure5b.png
         figure5b.csv
+```
