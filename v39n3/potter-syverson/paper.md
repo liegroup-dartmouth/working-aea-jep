@@ -58,7 +58,6 @@ We compare the RSMeans and Turner and Townsend data for seven major US cities in
 | New York                              | 1.87      | 2.29                                   | 1.47                                     |         |
 | Correlation                           | 0.70      | 0.88                                   |                                          |         |
 |                             | Townhouse | Single-family home<br>(medium quality) | Single-family home<br>(prestige quality) | RSMeans |
-|---------------------------------------|-----------|----------------------------------------|------------------------------------------|---------|
 | Panel B. 2019 (normalized to Houston) |           |                                        |                                          |         |
 | Houston                               | 1.00      | 1.00                                   | 1.00                                     | 1.00    |
 | Phoenix                               | 1.02      | 1.02                                   | 1.02                                     | 1.04    |
@@ -102,7 +101,6 @@ RSMeans data are not always reported at the level of an entire Census-defined me
 
 <span id="page-7-1"></span>*Table 2* **Summary Statistics for City-Level Building Cost and House Price (in Percent, Showing Compound Annual Growth Rates by Time Period)**
 
-|-----------|-----|-----------------|-------------------------------|-----------|----------------------------|
 | Period    | N   | RSMeans<br>mean | RSMeans standard<br>deviation | FHFA mean | FHFA standard<br>deviation |
 |-----------|-----|-----------------|-------------------------------|-----------|----------------------------|
 | 1975–1980 | 13  | 6.84%           | 1.03                          | 13.26%    | 4.38                       |
@@ -115,7 +113,6 @@ RSMeans data are not always reported at the level of an entire Census-defined me
 | 2010–2015 | 178 | 2.68            | 0.59                          | 1.45      | 2.06                       |
 | 2015–2020 | 178 | 2.68            | 0.58                          | 4.78      | 1.89                       |
 | 2020–2024 | 178 | 6.27            | 0.52                          | 10.11     | 2.01                       |
-|-----------|-----|-----------------|-------------------------------|-----------|----------------------------|
 
 *Note: N* is the number of cities in the data for each time period.
 
@@ -124,7 +121,6 @@ As a basis for a broader examination, [Table 2](#page-7-1) reports summary stati
 
 <span id="page-8-1"></span>*Table 3* **Cross-Sectional Regressions of Compound Average Growth Rates for House Price on Construction Costs**
 
-|-----------|-----|-------|-------------|
 | Period    | N   | R2    | Coefficient |
 |-----------|-----|-------|-------------|
 | 1975–1980 | 13  | 0.641 | 3.420       |
@@ -147,8 +143,7 @@ As a basis for a broader examination, [Table 2](#page-7-1) reports summary stati
 |           |     |       | (0.197)     |
 | 2020–2024 | 178 | 0.020 | 0.551       |
 |           |     |       | (0.298)     |
-|           |     |       |             |
-|-----------|-----|-------|-------------|
+
 
 *Note:* House price data are the FHFA metro-specific indexes, and building costs are from RSMeans. Each row is a separate calculation, using data across cities for that time period. Details are available the Supplemental Appendix.
 
@@ -167,8 +162,7 @@ As for the locations seeing the slowest relative price growth (which in all case
 
 <span id="page-10-0"></span>*Table 4* **Top and Bottom Five Cities' House-Price-to-Building-Cost Growth, by Period**
 
-|-------------------|---------------------|-------------------|---------------------|--------------------|---------------------|
-| 1980–1985                               | 1985–1990                               | 1990–1995                                |
+| 1980–1985         |                      | 1985–1990         |                      | 1990–1995         |                       |
 |-------------------|---------------------|-------------------|---------------------|--------------------|---------------------|
 | City              | %ΔPrice −<br>%ΔCost | City              | %ΔPrice −<br>%ΔCost | City               | %ΔPrice −<br>%ΔCost |
 | Boston, MA        | 7.7                 | Honolulu, HI      | 14.1                | Salt Lake City, UT | 9.0                 |
@@ -181,11 +175,10 @@ As for the locations seeing the slowest relative price growth (which in all case
 | Davenport, IA     | −6.9                | Odessa, TX        | −6.3                | New Haven, CT      | −6.6                |
 | Waterloo, IA      | −7.9                | Anchorage, AK     | −7.0                | Los Angeles, CA    | −6.6                |
 | Peoria, IL        | −8.7                | Austin, TX        | −7.1                | Hartford, CT       | −7.0                |
-|-------------------|---------------------|-------------------|---------------------|--------------------|---------------------|
-| 1995–2000                               |2000–2005                                |2005–2010                                 |
+
+| 1995–2000         |                      |2000–2005         |                       |2005–2010          |                       |
 |-------------------|---------------------|-------------------|---------------------|--------------------|---------------------|
 | City              | %ΔPrice −<br>%ΔCost | City              | %ΔPrice −<br>%ΔCost | City               | %ΔPrice −<br>%ΔCost |
-|-------------------|---------------------|-------------------|---------------------|--------------------|---------------------|
 | San Francisco, CA | 9.6                 | Santa Barbara, CA | 14.4                | Odessa, TX         | 2.7                 |
 | Boston, MA        | 7.2                 | Riverside, CA     | 14.3                | Austin, TX         | −0.5                |
 | Charleston, SC    | 6.6                 | Fresno, CA        | 14.1                | Beaumont, TX       | −0.6                |
@@ -196,11 +189,10 @@ As for the locations seeing the slowest relative price growth (which in all case
 | Springfield, IL   | −1.7                | Springfield, IL   | −1.5                | Vallejo, CA        | −16.2               |
 | Utica, NY         | −2.0                | Memphis, TN       | −1.8                | Las Vegas, NV      | −17.9               |
 | Honolulu, HI      | −5.0                | Sioux City, IA    | −3.0                | Stockton, CA       | −17.9               |
-|-------------------|---------------------|-------------------|---------------------|--------------------|---------------------|
-| 2010–2015                               | 2015–2020                               | 2020–2024                                |
+
+| 2010–2015         |                      | 2015–2020        |                       | 2020–2024       |                         |
 |-------------------|---------------------|-------------------|---------------------|--------------------|---------------------|
 | City              | %ΔPrice −<br>%ΔCost | City              | %ΔPrice −<br>%ΔCost | City               | %ΔPrice −<br>%ΔCost |
-|-------------------|---------------------|-------------------|---------------------|--------------------|---------------------|
 | Stockton, CA      | 5.3                 | Boise, ID         | 8.9                 | Miami, FL          | 8.6                 |
 | San Francisco, CA | 5.1                 | Spokane, WA       | 7.1                 | Knoxville, TN      | 8.1                 |
 | Vallejo, CA       | 4.9                 | Tacoma, WA        | 7.0                 | Camden, NJ         | 8.0                 |
@@ -211,7 +203,7 @@ As for the locations seeing the slowest relative price growth (which in all case
 | Mobile, AL        | −5.2                | Lawton, OK        | −1.3                | New Orleans, LA    | −1.9                |
 | Rockford, IL      | −5.4                | Springfield, IL   | −1.5                | Odessa, TX         | −2.5                |
 | Montgomery, AL    | −5.7                | Peoria, IL        | −1.5                | Lake Charles, LA   | −2.8                |
-|-------------------|---------------------|-------------------|---------------------|--------------------|---------------------|
+
 
 *Note:* House price data are the FHFA metro-specific indexes, and building costs are from RSMeans. Details are available in the Supplemental Appendix.
 
@@ -238,21 +230,17 @@ We can compare the growth rates of these two cost components to see if there hav
 In the early 2010s, installation cost growth outpaced growth in material costs by roughly one percentage point per year. This pattern flipped in the latter half of the decade, with materials cost growth outpacing installation cost growth by about the same amount, and an overall acceleration in cost growth of about half a percentage point per year. The overall cost inflation rate doubled in the Covid and post-Covid periods. While both components saw price acceleration, inflation in materials far outpaced installation costs, consistent with the well-documented supply chain frictions and the accompanying inflation in goods relative to services (for example, di Giovanni et al. 2022; Comin, Johnson, and Jones 2024).
 
 
-|---------------------|------------------|--------------------------------|----------------------|------------------------------------|
 |                     | Total Cost       | Material                       | Installation         |                                    |
 |---------------------|------------------|--------------------------------|----------------------|------------------------------------|
 | Panel A. US average |                  |                                |                      |                                    |
 | 2010–2015           | 2.35%            | 1.99%                          | 2.83%                |                                    |
 | 2015–2020           | 2.81             | 3.30                           | 2.16                 |                                    |
 | 2020–2024           | 5.98             | 8.05                           | 2.95                 |                                    |
-|---------------------|------------------|--------------------------------|----------------------|------------------------------------|
 |                     | Material<br>mean | Material<br>standard deviation | Installation<br>mean | Installation<br>standard deviation |
-|---------------------|------------------|--------------------------------|----------------------|------------------------------------|
 | Panel B. City-level |                  |                                |                      |                                    |
 | 2010–2015           | 2.51%            | 0.38                           | 3.67%                | 2.18                               |
 | 2015–2020           | 2.53             | 0.33                           | 3.45                 | 1.92                               |
 |                     | 5.98             | 0.53                           | 5.32                 | 1.21                               |
-|---------------------|------------------|--------------------------------|----------------------|------------------------------------|
 
 <span id="page-13-0"></span>*Table 5* **RSMeans Material and Installation Cost Components Compound Annual Growth Rates, 2010–2024**
 
@@ -288,7 +276,6 @@ That said, even in this best case, almost half of the variation in housing price
 
 <span id="page-16-0"></span>*Table 6* **Top Ten and Bottom Ten Residuals from Regressing City's Logged Median House Price per Square Foot on Logged RSMeans Building Cost per Square Foot Estimates, and Ranks of Price and Cost**
 
-|----------------------|--------------------------|--------------------|-------------------|
 | City                 | House price residual (%) | Price Rank (of 74) | Cost Rank (of 74) |
 |----------------------|--------------------------|--------------------|-------------------|
 | Top ten              |                          |                    |                   |
@@ -313,7 +300,6 @@ That said, even in this best case, almost half of the variation in housing price
 | Philadelphia, PA     | −31.6                    | 17                 | 5                 |
 | Minneapolis, MN      | −33.7                    | 38                 | 10                |
 | Chicago, IL          | −48.0                    | 39                 | 4                 |
-|----------------------|--------------------------|--------------------|-------------------|
 
 *Note:* The residuals are calculated from regressing the median per-square-foot price of newly constructed houses, using the Zillow data, on the estimated building costs per square foot, from the RSMeans data. The sample has 74 cities. For details, see Potter and Syverson (2025). The residuals were estimated in log points and then converted to percentages for this table.
 
