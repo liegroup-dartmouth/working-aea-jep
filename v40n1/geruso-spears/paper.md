@@ -21,7 +21,7 @@ Global change could come rapidly if birth rates remain low. In [Figure 1](#page-
 
 <span id="page-2-0"></span>*Figure 1* **The Peak in Annual Births Is in the Pasts**
 
-![](figure1.png)
+![](figures/figure1.png)
 
 *Source:* Historical data through 1949 are replicated from Spears et al. (2024) (see Weston 2024), which itself draws on sources compiled by Our World in Data (Mathieu and Rodés-Guirao 2022). Data from 1950 to 2100 are estimates and projections from the 2024 UN World Population Prospects (United Nations 2024). Beyond 2100 are cohort-component projections from Spears et al. (2024) that extend the UN Medium projection in a scenario in which the global average total fertility rate converges to 1.5. *Note:* The figure displays the worldwide count of annual births.
 
@@ -32,7 +32,7 @@ At the start of Figure 1, in 1700, there were perhaps about 30 million births an
 
 <span id="page-3-0"></span>*Figure 2* **Global Fertility Has Been Declining to Below-Replacement Levels**
 
-![](figure2.png)
+![](figures/figure2.png)
 
 *Source:* Data are from the UN World Population Prospects 2024 (United Nations 2024). *Note:* Figure displays, for 1950 to 2023, the worldwide period total fertility rate (left axis) and the fraction of the world population residing in a country with a fertility rate below 2 (right axis). We follow the UN World Population Prospects convention of including UN member states as well as territories, regions, and other designations, such as Taiwan.
 
@@ -76,7 +76,7 @@ Recent popular and research attention has focused on the role of childlessness i
 
 <span id="page-7-0"></span>*Figure 3* **Period Total Fertility Often Varies More Than Completed Cohort Fertility**
 
-![](figure3.png)
+![](figures/figure3.png)
 
 *Source:* TFR data are from the UN World Population Prospects 2024 (United Nations 2024). Completed cohort fertility data are from the Human Fertility Database (Human Fertility Database 2023). *Note:* Figure displays period total fertility rates (TFRs) and completed cohort fertility (CCF) for a select group of countries where sufficient CCF data were available. Cohorts are plotted at their date of birth plus 30 years. For example, the CCF for the 1970 birth cohort is plotted at 2000. We plot the full range of available cohort years from the HFD, which differ by country.
 
@@ -91,7 +91,7 @@ Our analysis of data from India focuses on a single pooled cohort (born 1980– 
 
 <span id="page-9-1"></span>*Figure 4* **Cohort Childlessness Varies Widely Conditional on Cohort Average Fertility**
 
-![](figure4.png)
+![](figures/figure4.png)
 
 *Source:* Human Fertility Database (2023) and IIPS and ICF (2021).
 
@@ -106,7 +106,7 @@ As Figure 5 shows, average cohort fertility among parous women is highly correla
 
 <span id="page-11-0"></span>*Figure 5* **Below-Replacement Average Cohort Fertility Is Found Even within Parous Subcohorts**
 
-![](figure5.png)
+![](figures/figure5.png)
 
 *Source:* Data in panel A are from the Human Fertility Database (HFD); data in panel B are from India's 2019–2021 Demographic and Health Survey.
 
@@ -157,7 +157,7 @@ A total fertility rate that is substantially below replacement is new to the Uni
 
 <span id="page-14-0"></span>*Figure 6* **Completed Cohort Fertility Is at or near All-Time Lows**
 
-![](figure6.png)
+![](figures/figure6.png)
 
 *Source:* Data are from the Human Fertility Database (HFD). 
 *Note:* Each datapoint is a country.
@@ -190,7 +190,7 @@ To illustrate this challenge of measurement and inference, [Figure 7](#page-18-0
 
 <span id="page-18-0"></span>*Figure 7* **Period Rates Can Overstate Policy Impacts: Romanian Total Fertility Rate and Completed Cohort Fertility**
 
-![](figure7.png)
+![](figures/figure7.png)
 
 *Source:* TFR estimates are from the 2024 UN World Population Prospects (United Nations 2024). Completed cohort fertility estimates for Bulgaria are from the HFD, and for Romania are from Gheţău (1997).
 
