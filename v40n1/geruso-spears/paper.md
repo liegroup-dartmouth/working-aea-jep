@@ -7,7 +7,6 @@ authors:
     affiliation: University of Texas at Austin; IZA, Bonn
 journal: Journal of Economic Perspectives
 issn: 0895-3309
-journal_url: https://www.aeaweb.org/journals/jep
 publisher: American Economic Association
 publisher_location: Nashville, TN
 volume: 40
@@ -18,6 +17,7 @@ document_type: Symposium
 doi: 10.1257/jep.20251463
 article_url: https://www.aeaweb.org/articles?id=10.1257/jep.20251463
 issue_url: https://www.aeaweb.org/issues/836
+journal_url: https://www.aeaweb.org/journals/jep
 dataset: https://doi.org/10.3886/E239496V1
 abstract: >
   For the world as a whole, average birth rates have been falling for decades—from
