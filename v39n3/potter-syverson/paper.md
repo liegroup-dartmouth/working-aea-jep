@@ -13,7 +13,7 @@ issue: 3
 season: Summer 2025
 pages: 67–86
 doi: 10.1257/jep.20241432
-url: https://www.aeaweb.org/articles?id=10.1257/jep.20241432
+article_url: https://www.aeaweb.org/articles?id=10.1257/jep.20241432
 issue_url: https://www.aeaweb.org/issues/814
 journal_url: https://www.aeaweb.org/journals/jep
 dataset: https://doi.org/10.3886/E234046V1
@@ -32,10 +32,6 @@ keywords:
   - zoning and land-use regulation
   - RSMeans
   - cost-price disconnect
-jel_relevant_topics:
-  - R31 (Housing Supply and Markets)
-  - R21 (Urban Housing Demand)
-  - L74 (Construction)
 ---
 # Building Costs and House Prices
 
