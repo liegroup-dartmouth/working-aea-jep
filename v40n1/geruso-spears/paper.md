@@ -1,3 +1,53 @@
+
+---
+title: "The Likelihood of Persistently Low Global Fertility"
+authors:
+  - name: Michael Geruso
+    affiliation: University of Texas at Austin
+  - name: Dean Spears
+    affiliation: University of Texas at Austin; IZA, Bonn
+journal: Journal of Economic Perspectives
+issn: 0895-3309
+journal_url: https://www.aeaweb.org/journals/jep
+publisher: American Economic Association
+publisher_location: Nashville, TN
+volume: 40
+issue: 1
+season: Winter 2026
+pages: 3–26
+document_type: Symposium
+doi: 10.1257/jep.20251463
+article_url: https://www.aeaweb.org/articles?id=10.1257/jep.20251463
+issue_url: https://www.aeaweb.org/issues/836
+dataset: https://doi.org/10.3886/E239496V1
+abstract: >
+  For the world as a whole, average birth rates have been falling for decades—from
+  about 5 in 1950 to a little above 2 today. Two-thirds of people today live in a
+  country where the birth rate is below an average of two children per two adults,
+  which means below the fertility level needed to sustain population sizes (without
+  net migration). In this paper, we assess whether low fertility is likely to persist
+  as a global phenomenon. We distinguish cohort birth rates, which matter for
+  generation-to-generation population change, from period birth rates, which present
+  a snapshot of birth rates at a point in time, but may offer less insight on
+  longer-run possibilities. Where cohort birth rates have fallen low, they have not
+  subsequently rebounded. We show that both increasing rates of lifetime childlessness
+  and smaller family sizes among parents have contributed to falling cohort birth
+  rates. Pronatal policies, we discuss, can have large effects on the annual fertility
+  data without substantially changing the average number of children women have over
+  their lifetimes. Although future birth rates remain uncertain, we conclude from the
+  evidence that, over a long horizon, persistent low fertility is a likely future.
+keywords:
+  - fertility decline
+  - total fertility rate
+  - cohort fertility
+  - period fertility
+  - population decline
+  - demographic transition
+  - pronatal policy
+  - childlessness
+  - below-replacement fertility
+  - global demography
+---
 # The Likelihood of Persistently Low Global Fertility
 
 ## Michael Geruso and Dean Spears
