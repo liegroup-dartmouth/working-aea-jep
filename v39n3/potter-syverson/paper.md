@@ -1,3 +1,42 @@
+---
+title: "Building Costs and House Prices"
+authors:
+  - name: Brian Potter
+    affiliation: Institute for Progress, Washington, DC
+  - name: Chad Syverson
+    affiliation: University of Chicago Booth School of Business, Chicago, IL
+journal: Journal of Economic Perspectives
+issn: 0895-3309
+publisher: American Economic Association (Nashville, TN)
+volume: 39
+issue: 3
+season: Summer 2025
+pages: 67–86
+doi: 10.1257/jep.20241432
+url: https://www.aeaweb.org/articles?id=10.1257/jep.20241432
+issue_url: https://www.aeaweb.org/issues/814
+journal_url: https://www.aeaweb.org/journals/jep
+dataset: https://doi.org/10.3886/E234046V1
+document_type: Symposium
+abstract: >
+  We take a long, broad, and theoretically agnostic view toward the connection
+  between building costs and house prices in the US housing market. We find that
+  building costs have never had all that much explanatory power over US housing
+  prices, but even the imperfect correlations of the past have weakened further
+  in recent decades along multiple dimensions.
+keywords:
+  - housing prices
+  - building costs
+  - construction costs
+  - housing supply
+  - zoning and land-use regulation
+  - RSMeans
+  - cost-price disconnect
+jel_relevant_topics:
+  - R31 (Housing Supply and Markets)
+  - R21 (Urban Housing Demand)
+  - L74 (Construction)
+---
 # Building Costs and House Prices
 
 ## Brian Potter and Chad Syverson
