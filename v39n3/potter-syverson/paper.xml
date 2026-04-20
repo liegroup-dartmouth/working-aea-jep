@@ -1,47 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+METADATA
+  title: Building Costs and House Prices
+  authors: Brian Potter (Institute for Progress, Washington, DC), Chad Syverson (University of Chicago)
+  journal: Journal of Economic Perspectives
+  issn: 0895-3309
+  journal_url: https://www.aeaweb.org/journals/jep
+  publisher: American Economic Association
+  publisher_location: Nashville, TN
+  volume: 39
+  issue: 3
+  season: Summer 2025
+  pages: 67-86
+  document_type: Symposium
+  doi: 10.1257/jep.20241432
+  article_url: https://www.aeaweb.org/articles?id=10.1257/jep.20241432
+  issue_url: https://www.aeaweb.org/issues/814
+  dataset: https://doi.org/10.3886/E234046V1
+  abstract: We take a long, broad, and theoretically agnostic view toward the connection between building costs and house prices in the US housing market. We find that building costs have never had all that much explanatory power over US housing prices, but even the imperfect correlations of the past have weakened further in recent decades along multiple dimensions.
+  keywords: housing prices, building costs, construction costs, housing supply, zoning and land-use regulation, cost-price disconnect, US housing market
+-->
 <PAPER>
-<METADATA>
-  <TITLE>Building Costs and House Prices</TITLE>
-  <AUTHORS>
-    <AUTHOR>
-      <NAME>Brian Potter</NAME>
-      <AFFILIATION>Institute for Progress, Washington, DC</AFFILIATION>
-    </AUTHOR>
-    <AUTHOR>
-      <NAME>Chad Syverson</NAME>
-      <AFFILIATION>University of Chicago Booth School of Business, Chicago, IL</AFFILIATION>
-    </AUTHOR>
-  </AUTHORS>
-  <JOURNAL>Journal of Economic Perspectives</JOURNAL>
-  <ISSN>0895-3309</ISSN>
-  <PUBLISHER>American Economic Association</PUBLISHER>
-  <PUBLISHER_LOCATION>Nashville, TN</PUBLISHER_LOCATION>
-  <VOLUME>39</VOLUME>
-  <ISSUE>3</ISSUE>
-  <SEASON>Summer 2025</SEASON>
-  <PAGES first="67" last="86"/>
-  <DOI>10.1257/jep.20241432</DOI>
-  <URL>https://www.aeaweb.org/articles?id=10.1257/jep.20241432</URL>
-  <ISSUE_URL>https://www.aeaweb.org/issues/814</ISSUE_URL>
-  <JOURNAL_URL>https://www.aeaweb.org/journals/jep</JOURNAL_URL>
-  <DATASET_URL>https://doi.org/10.3886/E234046V1</DATASET_URL>
-  <DOCUMENT_TYPE>Symposium</DOCUMENT_TYPE>
-  <ABSTRACT>We take a long, broad, and theoretically agnostic view toward the connection between building costs and house prices in the US housing market. We find that building costs have never had all that much explanatory power over US housing prices, but even the imperfect correlations of the past have weakened further in recent decades along multiple dimensions.</ABSTRACT>
-  <KEYWORDS>
-    <KEYWORD>housing prices</KEYWORD>
-    <KEYWORD>building costs</KEYWORD>
-    <KEYWORD>construction costs</KEYWORD>
-    <KEYWORD>housing supply</KEYWORD>
-    <KEYWORD>zoning and land-use regulation</KEYWORD>
-    <KEYWORD>RSMeans</KEYWORD>
-    <KEYWORD>cost-price disconnect</KEYWORD>
-  </KEYWORDS>
-  <JEL_CODES>
-    <JEL code="R31">Housing Supply and Markets</JEL>
-    <JEL code="R21">Urban Housing Demand</JEL>
-    <JEL code="L74">Construction</JEL>
-  </JEL_CODES>
-</METADATA>
-
 <PLAINTEXT>
 Housing prices have surged across America, transforming what were once isolated coastal phenomena into a nationwide crisis. The natural culprit seems obvious: if it costs more to build houses, houses should cost more to buy. After all, construction accounts for roughly two-thirds of bringing a new home to market. But a sweeping analysis of nearly 75 years of data reveals a more troubling reality. Building costs and house prices have been steadily divorcing since the 1970s, and the relationship has grown particularly weak since 2000. In cities like San Francisco and Los Angeles, house prices have soared to multiples of construction costs, while in places like Chicago and Minneapolis, prices have actually fallen below what the building costs would predict. The disconnect suggests that America's housing crisis isn't primarily about expensive lumber or costly labor—it's about something more fundamental. When markets work properly, the price of existing houses should roughly track the cost of building new ones, because buyers can always choose between the two. But increasingly, that choice is being constrained by zoning laws, permitting delays, and land-use restrictions that prevent new construction from responding to demand. The result is a housing market where prices are set less by the economics of construction and more by the politics of permission.
 </PLAINTEXT>
