@@ -1,0 +1,65 @@
+## The Likelihood of Persistently Low Global Fertility
+
+## What This Paper Is About
+This paper asks whether below-replacement fertility is likely to persist as a global phenomenon and, if so, what the implications are for long-term population decline. The authors distinguish period birth rates (total fertility rate in a given year) from completed cohort fertility (lifetime births to a birth cohort), decompose cohort fertility decline into childlessness versus smaller family sizes among parents, and evaluate the historical record of reversals and the effectiveness of pronatal policies, drawing on data from 25 advanced economies and Indian districts. They conclude that persistent low fertility is a likely future: cohort fertility has never rebounded to replacement once it falls below that threshold, both rising childlessness and fewer children among parents contribute to the decline, and pronatal policies have shown large effects on period fertility but little impact on lifetime birth rates.
+
+## Key Concepts
+ - Total fertility rate (TFR): A period measure that captures the number of children a representative woman would have over her lifetime if she experienced the age-specific birth rates observed in a single calendar year.
+ - Completed cohort fertility (CCF): The average number of children actually born over a lifetime to women in a specific birth cohort, capturing lifetime rather than snapshot fertility.
+ - Replacement-level fertility: The fertility rate needed to sustain population size without net migration, approximately 2.05 to 2.1 depending on female mortality rates.
+ - Tempo effects: Shifts in the timing of childbearing across cohorts that can cause period TFR to rise or fall without any change in the number of children women ultimately have.
+ - Childlessness (lifetime nulliparity): The share of women in a cohort who never have any children, one of two components in the decomposition of cohort fertility decline.
+ - Fertility among the parous: The average number of children born to women who do have at least one child, the other component in the decomposition of cohort fertility decline.
+ - Kitagawa decomposition: A method for decomposing a change in a weighted average into the portion due to changing group weights (childlessness) and the portion due to changing within-group means (fertility among parents).
+ - Pronatal policies: Government policies intended to raise birth rates, including childcare subsidies, paid parental leave, tax credits, and cash transfers to families.
+
+## Setting
+ - Geographic areas: Global; 25 countries in the Human Fertility Database (Europe, North America, Japan, Taiwan); 707 Indian districts; Romania and Bulgaria as a case study
+ - Time frame: 1700 to 2300 (for birth projections); 1950 to 2023 (for period TFR data); birth cohorts 1935 to 1979 (for completed cohort fertility)
+
+## Core Findings
+ - The global average TFR fell from 4.85 in 1950 to 2.25 in 2023, and 67 percent of the world population now lives in a country with a TFR below 2.
+ - Global annual births peaked at 146 million in 2012 and have been declining since; under a scenario where global TFR converges to 1.5, annual births would fall below 16 million by 2300.
+ - Completed cohort fertility has followed a similar downward trend to period TFR but evolves more smoothly, and the two measures can diverge significantly over the short run due to tempo effects.
+ - Of 24 countries in the Human Fertility Database where cohort fertility fell below 1.9, none subsequently saw cohort fertility rebound to 2.1.
+ - In 15 of 31 countries, the most recent observable cohort is also the lowest-fertility cohort on record, and the lowest historical cohort fertility explains nearly all cross-country variation in recent cohort fertility (R-squared = 0.96).
+ - In advanced economies, a Kitagawa-style decomposition shows that 63 percent of the decline in cohort fertility over 20 years is due to fewer children among parents, while 37 percent is due to increased childlessness.
+ - In India, 94 percent of the cross-district variation in cohort fertility is explained by differences in fertility among the parous, and only 6 percent by childlessness.
+ - In 272 of 683 country-cohorts in the Human Fertility Database, average fertility among parous women was itself below 2.1, meaning fertility would be below replacement even if no women were childless.
+ - Pronatal policies such as childcare subsidies and parental leave can produce large short-term effects on period TFR but have shown little evidence of raising completed cohort fertility.
+ - Romania's Decree 770, which banned abortion in 1966, nearly doubled period TFR in one year but had minimal sustained impact on completed cohort fertility.
+
+## Data Sources Used
+ - UN World Population Prospects 2024 (country-level period TFR estimates, 1950 to 2023)
+ - Human Fertility Database (completed cohort fertility and childlessness data for 25 countries, birth cohorts 1935 to 1979)
+ - India Demographic and Health Survey 2019-2021, NFHS-5 (district-level birth histories for women aged 15-49, covering 707 districts)
+ - Spears et al. (2024) cohort-component population projections (extending UN projections to 2300 under a TFR-converges-to-1.5 scenario)
+ - Historical birth estimates compiled by Our World in Data (global annual births back to 1700)
+ - Ghetau (1997) (completed cohort fertility estimates for Romania)
+
+## Structure of the Paper
+1. Introduction: Motivates the paper by documenting the global decline in birth rates, projecting future population scenarios, and framing the central question of whether low fertility will persist.
+2. Fertility Trends in Periods and Cohorts: Introduces the distinction between period TFR and completed cohort fertility, explaining why the difference matters for assessing long-run population change.
+3. The Total Fertility Rate - Births in a Period: Reviews 75 years of global TFR data showing declines across all regions and the growing share of the population living below replacement.
+4. Completed Cohort Fertility - Births to a Cohort: Compares period TFR with CCF for select countries, showing that CCF evolves more smoothly and that tempo effects can cause the two measures to diverge.
+5. Child-less or Child-fewer?: Decomposes cohort fertility decline into contributions from rising childlessness and smaller family sizes among parents, using data from the Human Fertility Database and Indian districts.
+6. Prospects for a Reversal: Asks whether cohort fertility has ever rebounded after falling below replacement, finding no cases of recovery to 2.1.
+7. Reversals to Date: Examines the historical record of cohort fertility across 31 countries and discusses the Baby Boom as a non-analogous precedent.
+8. Microeconometric Evidence and the Challenge of Identification: Reviews the evidence on pronatal policies and highlights the difficulty of estimating effects on cohort rather than period fertility.
+9. An Illustrative Example - Coercion in Romania: Uses Romania's Decree 770 to illustrate how large effects on period TFR can mask minimal effects on completed cohort fertility.
+10. Discussion: Concludes that persistent low fertility is likely, notes the absence of historical examples of successful reversal, and raises normative questions about long-term depopulation.
+
+## Figures and Tables
+ - Figure 1. The Peak in Annual Births Is in the Past: Global annual birth counts from 1700 through projections to 2300, showing the 2012 peak and projected decline under a TFR-of-1.5 scenario.
+ - Figure 2. Global Fertility Has Been Declining to Below-Replacement Levels: Worldwide period TFR (1950-2023) and the fraction of the world population living in countries with TFR below 2.
+ - Figure 3. Period Total Fertility Often Varies More Than Completed Cohort Fertility: Country-level panels comparing period TFR and completed cohort fertility over time for select countries.
+ - Figure 4. Cohort Childlessness Varies Widely Conditional on Cohort Average Fertility: Scatterplot of cohort childlessness against cohort fertility for HFD country-cohorts and Indian districts with fertility below 2.1.
+ - Figure 5. Below-Replacement Average Cohort Fertility Is Found Even within Parous Subcohorts: Two-panel scatterplot comparing average fertility among parous women to overall cohort fertility for HFD countries (panel A) and Indian districts (panel B).
+ - Figure 6. Completed Cohort Fertility Is at or near All-Time Lows: Scatterplot comparing the most recent cohort fertility to the lowest-ever cohort fertility for 31 countries.
+ - Figure 7. Period Rates Can Overstate Policy Impacts - Romanian Total Fertility Rate and Completed Cohort Fertility: Two-panel figure comparing period TFR (panel A) and completed cohort fertility (panel B) for Romania and Bulgaria around the Decree 770 period.
+ - Table 1. Decomposition of Fertility Decline - Childlessness versus Fewer Children among the Parous in Advanced Economies: Kitagawa-style decomposition showing that 37 percent of cohort fertility decline is due to childlessness and 63 percent to fewer children among parents.
+
+## Citation and Access
+ - DOI: https://doi.org/10.1257/jep.20251463
+ - Replication data: https://doi.org/10.3886/E239496V1
+ - Authors: Michael Geruso; Dean Spears
