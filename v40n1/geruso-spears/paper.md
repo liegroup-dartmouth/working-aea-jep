@@ -1,4 +1,3 @@
-
 ---
 title: "The Likelihood of Persistently Low Global Fertility"
 authors:
