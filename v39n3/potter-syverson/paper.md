@@ -1,6 +1,6 @@
-# **Building Costs and House Prices**
+# Building Costs and House Prices
 
-# Brian Potter and Chad Syverson
+## Brian Potter and Chad Syverson
 
 ■ Brian Potter is Senior Infrastructure Fellow, Institute for Progress, Washington, DC. Chad Syverson is Professor of Economics, University of Chicago Booth School of Business, Chicago, Illinois. Their email addresses are briancpotter@gmail.com and chad.syverson@chicagobooth.edu. For supplementary materials such as appendices, datasets, and author disclosure statements, see the article page at https://doi.org/10.1257/jep.20241432.
 
