@@ -1,0 +1,12 @@
+entries:
+- title: sidebar
+  product: JEP Companion Files
+  folders:
+    - title: Getting Started
+      folderitems:
+        - title: About This Site
+          jurl: /index.html
+        - title: View Articles
+          jurl: /view-articles.html
+        - title: Download Articles
+          jurl: /download-articles.html

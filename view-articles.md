@@ -1,10 +1,8 @@
 ---
-layout: default
 title: View Articles
-nav_order: 2
-permalink: /view-articles/
+permalink: /view-articles.html
+sidebar: jep
+breadcrumb:
 ---
-
-# View Articles
 
 *Content coming soon.*

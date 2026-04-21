@@ -1,0 +1,16 @@
+columns:
+  - title: About
+    links:
+      - title: JEP Companion Files
+        url: /index.html
+  - title: Resources
+    links:
+      - title: View Articles
+        url: /view-articles.html
+      - title: Download Articles
+        url: /download-articles.html
+  - title: External
+    links:
+      - title: Journal of Economic Perspectives
+        url: https://www.aeaweb.org/journals/jep
+        external: true
