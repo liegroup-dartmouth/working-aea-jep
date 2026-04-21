@@ -1,36 +1,15 @@
 title: JEP LLM Companion Files
 description: LLM-friendly companion files for articles published in the Journal of Economic Perspectives
-
 remote_theme: just-the-docs/just-the-docs
-
 baseurl: "https://liegroup-dartmouth.github.io" # the subpath of your site, e.g. /blog
 url: "/working-aea-jep/" # the base hostname & protocol for your site, e.g. http://example.com
-
-
-# Aux links (upper right corner on all pages)
-aux_links:
-  "View on GitHub":
-    - "https://github.com/liegroup-dartmouth/working-aea-jep
 aux_links_new_tab: true
-
-# Navigation settings
 nav_enabled: true
 heading_anchors: true
- 
-# Search
 search_enabled: true
- 
-# Color scheme (light by default; options: light, dark)
 color_scheme: light
- 
-# Footer
-footer_content: ""
- 
-# Back to top link
 back_to_top: true
-back_to_top_text: "Back to top"
- 
-# Exclude from processing
+back_to_top_text: Back to top
 exclude:
   - README.md
   - LICENSE
