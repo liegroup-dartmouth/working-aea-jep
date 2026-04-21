@@ -26,7 +26,7 @@ url: "/working-aea-jep/" # the base hostname & protocol for your site, e.g. http
 github_username: menakiser
 
 # Build settings
-theme: minima
+theme: just-the-docs 
 plugins:
   - jekyll-feed
 
