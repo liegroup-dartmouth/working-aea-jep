@@ -1,0 +1,1126 @@
+City,Year,RSMeanCostIndex,FHFAPriceIndex
+"Atlanta, GA",1950,50,
+"Atlanta, GA",1951,52,
+"Atlanta, GA",1952,54,
+"Atlanta, GA",1953,56,
+"Atlanta, GA",1954,58,
+"Atlanta, GA",1955,60,
+"Atlanta, GA",1956,62,
+"Atlanta, GA",1957,64,
+"Atlanta, GA",1958,66,
+"Atlanta, GA",1959,68,
+"Atlanta, GA",1960,70,
+"Atlanta, GA",1961,72,
+"Atlanta, GA",1962,74,
+"Atlanta, GA",1963,76,
+"Atlanta, GA",1964,78,
+"Atlanta, GA",1965,80,
+"Atlanta, GA",1966,84,
+"Atlanta, GA",1967,88,
+"Atlanta, GA",1968,92,
+"Atlanta, GA",1969,96,
+"Atlanta, GA",1970,100,
+"Atlanta, GA",1971,110,
+"Atlanta, GA",1972,120,
+"Atlanta, GA",1973,130,
+"Atlanta, GA",1974,140,
+"Atlanta, GA",1975,150,130
+"Atlanta, GA",1976,166,146
+"Atlanta, GA",1977,182,162
+"Atlanta, GA",1978,198,178
+"Atlanta, GA",1979,214,194
+"Atlanta, GA",1980,230,210
+"Atlanta, GA",1981,240,222
+"Atlanta, GA",1982,250,234
+"Atlanta, GA",1983,260,246
+"Atlanta, GA",1984,270,258
+"Atlanta, GA",1985,280,270
+"Atlanta, GA",1986,290,286
+"Atlanta, GA",1987,300,302
+"Atlanta, GA",1988,310,318
+"Atlanta, GA",1989,320,334
+"Atlanta, GA",1990,330,350
+"Atlanta, GA",1991,340,360
+"Atlanta, GA",1992,350,370
+"Atlanta, GA",1993,360,380
+"Atlanta, GA",1994,370,390
+"Atlanta, GA",1995,380,400
+"Atlanta, GA",1996,394,426
+"Atlanta, GA",1997,408,452
+"Atlanta, GA",1998,422,478
+"Atlanta, GA",1999,436,504
+"Atlanta, GA",2000,450,530
+"Atlanta, GA",2001,470,584
+"Atlanta, GA",2002,490,638
+"Atlanta, GA",2003,510,692
+"Atlanta, GA",2004,530,746
+"Atlanta, GA",2005,550,800
+"Atlanta, GA",2006,570,850
+"Atlanta, GA",2007,590,900
+"Atlanta, GA",2008,610,850
+"Atlanta, GA",2009,630,775
+"Atlanta, GA",2010,650,700
+"Atlanta, GA",2011,675,690
+"Atlanta, GA",2012,700,680
+"Atlanta, GA",2013,733,765
+"Atlanta, GA",2014,767,850
+"Atlanta, GA",2015,800,950
+"Atlanta, GA",2016,850,1050
+"Atlanta, GA",2017,900,1150
+"Atlanta, GA",2018,950,1300
+"Atlanta, GA",2019,1025,1450
+"Atlanta, GA",2020,1100,1600
+"Atlanta, GA",2021,1250,2000
+"Atlanta, GA",2022,1400,2400
+"Atlanta, GA",2023,1550,2550
+"Atlanta, GA",2024,1700,2600
+"Boston, MA",1950,50,
+"Boston, MA",1951,52,
+"Boston, MA",1952,54,
+"Boston, MA",1953,56,
+"Boston, MA",1954,58,
+"Boston, MA",1955,60,
+"Boston, MA",1956,62,
+"Boston, MA",1957,64,
+"Boston, MA",1958,66,
+"Boston, MA",1959,68,
+"Boston, MA",1960,70,
+"Boston, MA",1961,73,
+"Boston, MA",1962,76,
+"Boston, MA",1963,79,
+"Boston, MA",1964,82,
+"Boston, MA",1965,85,
+"Boston, MA",1966,90,
+"Boston, MA",1967,95,
+"Boston, MA",1968,100,
+"Boston, MA",1969,105,
+"Boston, MA",1970,110,
+"Boston, MA",1971,122,
+"Boston, MA",1972,134,
+"Boston, MA",1973,146,
+"Boston, MA",1974,158,
+"Boston, MA",1975,170,150
+"Boston, MA",1976,188,170
+"Boston, MA",1977,206,190
+"Boston, MA",1978,224,210
+"Boston, MA",1979,242,230
+"Boston, MA",1980,260,250
+"Boston, MA",1981,272,290
+"Boston, MA",1982,284,330
+"Boston, MA",1983,296,370
+"Boston, MA",1984,308,410
+"Boston, MA",1985,320,450
+"Boston, MA",1986,332,470
+"Boston, MA",1987,344,490
+"Boston, MA",1988,356,510
+"Boston, MA",1989,368,530
+"Boston, MA",1990,380,550
+"Boston, MA",1991,390,515
+"Boston, MA",1992,400,480
+"Boston, MA",1993,410,480
+"Boston, MA",1994,420,480
+"Boston, MA",1995,430,480
+"Boston, MA",1996,444,534
+"Boston, MA",1997,458,588
+"Boston, MA",1998,472,642
+"Boston, MA",1999,486,696
+"Boston, MA",2000,500,750
+"Boston, MA",2001,520,870
+"Boston, MA",2002,540,990
+"Boston, MA",2003,560,1110
+"Boston, MA",2004,580,1230
+"Boston, MA",2005,600,1350
+"Boston, MA",2006,620,1375
+"Boston, MA",2007,640,1400
+"Boston, MA",2008,660,1300
+"Boston, MA",2009,680,1250
+"Boston, MA",2010,700,1200
+"Boston, MA",2011,725,1225
+"Boston, MA",2012,750,1250
+"Boston, MA",2013,783,1375
+"Boston, MA",2014,817,1500
+"Boston, MA",2015,850,1700
+"Boston, MA",2016,900,1900
+"Boston, MA",2017,950,2100
+"Boston, MA",2018,1000,2400
+"Boston, MA",2019,1075,2700
+"Boston, MA",2020,1150,3000
+"Boston, MA",2021,1325,3500
+"Boston, MA",2022,1500,4200
+"Boston, MA",2023,1650,4500
+"Boston, MA",2024,1800,4800
+"Chicago, IL",1950,55,
+"Chicago, IL",1951,57,
+"Chicago, IL",1952,59,
+"Chicago, IL",1953,61,
+"Chicago, IL",1954,63,
+"Chicago, IL",1955,65,
+"Chicago, IL",1956,67,
+"Chicago, IL",1957,69,
+"Chicago, IL",1958,71,
+"Chicago, IL",1959,73,
+"Chicago, IL",1960,75,
+"Chicago, IL",1961,78,
+"Chicago, IL",1962,81,
+"Chicago, IL",1963,84,
+"Chicago, IL",1964,87,
+"Chicago, IL",1965,90,
+"Chicago, IL",1966,95,
+"Chicago, IL",1967,100,
+"Chicago, IL",1968,105,
+"Chicago, IL",1969,110,
+"Chicago, IL",1970,115,
+"Chicago, IL",1971,128,
+"Chicago, IL",1972,141,
+"Chicago, IL",1973,154,
+"Chicago, IL",1974,167,
+"Chicago, IL",1975,180,160
+"Chicago, IL",1976,200,180
+"Chicago, IL",1977,220,200
+"Chicago, IL",1978,240,220
+"Chicago, IL",1979,260,240
+"Chicago, IL",1980,280,260
+"Chicago, IL",1981,292,272
+"Chicago, IL",1982,304,284
+"Chicago, IL",1983,316,296
+"Chicago, IL",1984,328,308
+"Chicago, IL",1985,340,320
+"Chicago, IL",1986,352,340
+"Chicago, IL",1987,364,360
+"Chicago, IL",1988,376,380
+"Chicago, IL",1989,388,400
+"Chicago, IL",1990,400,420
+"Chicago, IL",1991,412,430
+"Chicago, IL",1992,424,440
+"Chicago, IL",1993,436,450
+"Chicago, IL",1994,448,460
+"Chicago, IL",1995,460,470
+"Chicago, IL",1996,476,500
+"Chicago, IL",1997,492,530
+"Chicago, IL",1998,508,560
+"Chicago, IL",1999,524,590
+"Chicago, IL",2000,540,620
+"Chicago, IL",2001,562,696
+"Chicago, IL",2002,584,772
+"Chicago, IL",2003,606,848
+"Chicago, IL",2004,628,924
+"Chicago, IL",2005,650,1000
+"Chicago, IL",2006,670,1050
+"Chicago, IL",2007,690,1100
+"Chicago, IL",2008,710,1000
+"Chicago, IL",2009,730,890
+"Chicago, IL",2010,750,780
+"Chicago, IL",2011,775,750
+"Chicago, IL",2012,800,720
+"Chicago, IL",2013,833,785
+"Chicago, IL",2014,867,850
+"Chicago, IL",2015,900,950
+"Chicago, IL",2016,950,1025
+"Chicago, IL",2017,1000,1100
+"Chicago, IL",2018,1050,1200
+"Chicago, IL",2019,1125,1300
+"Chicago, IL",2020,1200,1400
+"Chicago, IL",2021,1375,1650
+"Chicago, IL",2022,1550,1950
+"Chicago, IL",2023,1725,2050
+"Chicago, IL",2024,1900,2100
+"Dallas, TX",1950,45,
+"Dallas, TX",1951,47,
+"Dallas, TX",1952,49,
+"Dallas, TX",1953,51,
+"Dallas, TX",1954,53,
+"Dallas, TX",1955,55,
+"Dallas, TX",1956,56,
+"Dallas, TX",1957,57,
+"Dallas, TX",1958,58,
+"Dallas, TX",1959,59,
+"Dallas, TX",1960,60,
+"Dallas, TX",1961,62,
+"Dallas, TX",1962,64,
+"Dallas, TX",1963,66,
+"Dallas, TX",1964,68,
+"Dallas, TX",1965,70,
+"Dallas, TX",1966,74,
+"Dallas, TX",1967,78,
+"Dallas, TX",1968,82,
+"Dallas, TX",1969,86,
+"Dallas, TX",1970,90,
+"Dallas, TX",1971,98,
+"Dallas, TX",1972,106,
+"Dallas, TX",1973,114,
+"Dallas, TX",1974,122,
+"Dallas, TX",1975,130,120
+"Dallas, TX",1976,146,136
+"Dallas, TX",1977,162,152
+"Dallas, TX",1978,178,168
+"Dallas, TX",1979,194,184
+"Dallas, TX",1980,210,200
+"Dallas, TX",1981,218,210
+"Dallas, TX",1982,226,220
+"Dallas, TX",1983,234,230
+"Dallas, TX",1984,242,240
+"Dallas, TX",1985,250,250
+"Dallas, TX",1986,258,252
+"Dallas, TX",1987,266,254
+"Dallas, TX",1988,274,256
+"Dallas, TX",1989,282,258
+"Dallas, TX",1990,290,260
+"Dallas, TX",1991,298,266
+"Dallas, TX",1992,306,272
+"Dallas, TX",1993,314,278
+"Dallas, TX",1994,322,284
+"Dallas, TX",1995,330,290
+"Dallas, TX",1996,340,312
+"Dallas, TX",1997,350,334
+"Dallas, TX",1998,360,356
+"Dallas, TX",1999,370,378
+"Dallas, TX",2000,380,400
+"Dallas, TX",2001,396,424
+"Dallas, TX",2002,412,448
+"Dallas, TX",2003,428,472
+"Dallas, TX",2004,444,496
+"Dallas, TX",2005,460,520
+"Dallas, TX",2006,474,550
+"Dallas, TX",2007,488,580
+"Dallas, TX",2008,502,570
+"Dallas, TX",2009,516,550
+"Dallas, TX",2010,530,530
+"Dallas, TX",2011,550,540
+"Dallas, TX",2012,570,550
+"Dallas, TX",2013,597,625
+"Dallas, TX",2014,623,700
+"Dallas, TX",2015,650,820
+"Dallas, TX",2016,693,910
+"Dallas, TX",2017,737,1000
+"Dallas, TX",2018,780,1100
+"Dallas, TX",2019,840,1200
+"Dallas, TX",2020,900,1350
+"Dallas, TX",2021,1025,1700
+"Dallas, TX",2022,1150,2100
+"Dallas, TX",2023,1275,2150
+"Dallas, TX",2024,1400,2150
+"Detroit, MI",1950,55,
+"Detroit, MI",1951,57,
+"Detroit, MI",1952,59,
+"Detroit, MI",1953,61,
+"Detroit, MI",1954,63,
+"Detroit, MI",1955,65,
+"Detroit, MI",1956,67,
+"Detroit, MI",1957,69,
+"Detroit, MI",1958,71,
+"Detroit, MI",1959,73,
+"Detroit, MI",1960,75,
+"Detroit, MI",1961,78,
+"Detroit, MI",1962,81,
+"Detroit, MI",1963,84,
+"Detroit, MI",1964,87,
+"Detroit, MI",1965,90,
+"Detroit, MI",1966,95,
+"Detroit, MI",1967,100,
+"Detroit, MI",1968,105,
+"Detroit, MI",1969,110,
+"Detroit, MI",1970,115,
+"Detroit, MI",1971,127,
+"Detroit, MI",1972,139,
+"Detroit, MI",1973,151,
+"Detroit, MI",1974,163,
+"Detroit, MI",1975,175,160
+"Detroit, MI",1976,194,178
+"Detroit, MI",1977,213,196
+"Detroit, MI",1978,232,214
+"Detroit, MI",1979,251,232
+"Detroit, MI",1980,270,250
+"Detroit, MI",1981,280,258
+"Detroit, MI",1982,290,266
+"Detroit, MI",1983,300,274
+"Detroit, MI",1984,310,282
+"Detroit, MI",1985,320,290
+"Detroit, MI",1986,330,302
+"Detroit, MI",1987,340,314
+"Detroit, MI",1988,350,326
+"Detroit, MI",1989,360,338
+"Detroit, MI",1990,370,350
+"Detroit, MI",1991,380,360
+"Detroit, MI",1992,390,370
+"Detroit, MI",1993,400,380
+"Detroit, MI",1994,410,390
+"Detroit, MI",1995,420,400
+"Detroit, MI",1996,434,424
+"Detroit, MI",1997,448,448
+"Detroit, MI",1998,462,472
+"Detroit, MI",1999,476,496
+"Detroit, MI",2000,490,520
+"Detroit, MI",2001,508,536
+"Detroit, MI",2002,526,552
+"Detroit, MI",2003,544,568
+"Detroit, MI",2004,562,584
+"Detroit, MI",2005,580,600
+"Detroit, MI",2006,596,575
+"Detroit, MI",2007,612,550
+"Detroit, MI",2008,628,460
+"Detroit, MI",2009,644,400
+"Detroit, MI",2010,660,340
+"Detroit, MI",2011,680,335
+"Detroit, MI",2012,700,330
+"Detroit, MI",2013,730,375
+"Detroit, MI",2014,760,420
+"Detroit, MI",2015,790,480
+"Detroit, MI",2016,833,530
+"Detroit, MI",2017,877,580
+"Detroit, MI",2018,920,650
+"Detroit, MI",2019,985,720
+"Detroit, MI",2020,1050,800
+"Detroit, MI",2021,1200,1000
+"Detroit, MI",2022,1350,1250
+"Detroit, MI",2023,1500,1350
+"Detroit, MI",2024,1650,1400
+"Houston, TX",1950,45,
+"Houston, TX",1951,47,
+"Houston, TX",1952,49,
+"Houston, TX",1953,51,
+"Houston, TX",1954,53,
+"Houston, TX",1955,55,
+"Houston, TX",1956,56,
+"Houston, TX",1957,57,
+"Houston, TX",1958,58,
+"Houston, TX",1959,59,
+"Houston, TX",1960,60,
+"Houston, TX",1961,62,
+"Houston, TX",1962,64,
+"Houston, TX",1963,66,
+"Houston, TX",1964,68,
+"Houston, TX",1965,70,
+"Houston, TX",1966,74,
+"Houston, TX",1967,78,
+"Houston, TX",1968,82,
+"Houston, TX",1969,86,
+"Houston, TX",1970,90,
+"Houston, TX",1971,99,
+"Houston, TX",1972,108,
+"Houston, TX",1973,117,
+"Houston, TX",1974,126,
+"Houston, TX",1975,135,120
+"Houston, TX",1976,152,140
+"Houston, TX",1977,169,160
+"Houston, TX",1978,186,180
+"Houston, TX",1979,203,200
+"Houston, TX",1980,220,220
+"Houston, TX",1981,228,228
+"Houston, TX",1982,236,236
+"Houston, TX",1983,244,244
+"Houston, TX",1984,252,252
+"Houston, TX",1985,260,260
+"Houston, TX",1986,268,258
+"Houston, TX",1987,276,256
+"Houston, TX",1988,284,254
+"Houston, TX",1989,292,252
+"Houston, TX",1990,300,250
+"Houston, TX",1991,308,254
+"Houston, TX",1992,316,258
+"Houston, TX",1993,324,262
+"Houston, TX",1994,332,266
+"Houston, TX",1995,340,270
+"Houston, TX",1996,350,290
+"Houston, TX",1997,360,310
+"Houston, TX",1998,370,330
+"Houston, TX",1999,380,350
+"Houston, TX",2000,390,370
+"Houston, TX",2001,406,388
+"Houston, TX",2002,422,406
+"Houston, TX",2003,438,424
+"Houston, TX",2004,454,442
+"Houston, TX",2005,470,460
+"Houston, TX",2006,484,495
+"Houston, TX",2007,498,530
+"Houston, TX",2008,512,530
+"Houston, TX",2009,526,510
+"Houston, TX",2010,540,490
+"Houston, TX",2011,560,500
+"Houston, TX",2012,580,510
+"Houston, TX",2013,607,580
+"Houston, TX",2014,633,650
+"Houston, TX",2015,660,730
+"Houston, TX",2016,703,790
+"Houston, TX",2017,747,850
+"Houston, TX",2018,790,920
+"Houston, TX",2019,850,980
+"Houston, TX",2020,910,1060
+"Houston, TX",2021,1030,1300
+"Houston, TX",2022,1150,1550
+"Houston, TX",2023,1275,1600
+"Houston, TX",2024,1400,1600
+"Los Angeles, CA",1950,55,
+"Los Angeles, CA",1951,57,
+"Los Angeles, CA",1952,59,
+"Los Angeles, CA",1953,61,
+"Los Angeles, CA",1954,63,
+"Los Angeles, CA",1955,65,
+"Los Angeles, CA",1956,67,
+"Los Angeles, CA",1957,69,
+"Los Angeles, CA",1958,71,
+"Los Angeles, CA",1959,73,
+"Los Angeles, CA",1960,75,
+"Los Angeles, CA",1961,78,
+"Los Angeles, CA",1962,81,
+"Los Angeles, CA",1963,84,
+"Los Angeles, CA",1964,87,
+"Los Angeles, CA",1965,90,
+"Los Angeles, CA",1966,95,
+"Los Angeles, CA",1967,100,
+"Los Angeles, CA",1968,105,
+"Los Angeles, CA",1969,110,
+"Los Angeles, CA",1970,115,
+"Los Angeles, CA",1971,127,
+"Los Angeles, CA",1972,139,
+"Los Angeles, CA",1973,151,
+"Los Angeles, CA",1974,163,
+"Los Angeles, CA",1975,175,160
+"Los Angeles, CA",1976,194,198
+"Los Angeles, CA",1977,213,236
+"Los Angeles, CA",1978,232,274
+"Los Angeles, CA",1979,251,312
+"Los Angeles, CA",1980,270,350
+"Los Angeles, CA",1981,282,380
+"Los Angeles, CA",1982,294,410
+"Los Angeles, CA",1983,306,440
+"Los Angeles, CA",1984,318,470
+"Los Angeles, CA",1985,330,500
+"Los Angeles, CA",1986,342,540
+"Los Angeles, CA",1987,354,580
+"Los Angeles, CA",1988,366,620
+"Los Angeles, CA",1989,378,660
+"Los Angeles, CA",1990,390,700
+"Los Angeles, CA",1991,400,667
+"Los Angeles, CA",1992,410,633
+"Los Angeles, CA",1993,420,600
+"Los Angeles, CA",1994,430,575
+"Los Angeles, CA",1995,440,550
+"Los Angeles, CA",1996,456,550
+"Los Angeles, CA",1997,472,550
+"Los Angeles, CA",1998,488,600
+"Los Angeles, CA",1999,504,650
+"Los Angeles, CA",2000,520,700
+"Los Angeles, CA",2001,542,900
+"Los Angeles, CA",2002,564,1100
+"Los Angeles, CA",2003,586,1300
+"Los Angeles, CA",2004,608,1500
+"Los Angeles, CA",2005,630,1700
+"Los Angeles, CA",2006,648,1900
+"Los Angeles, CA",2007,666,1800
+"Los Angeles, CA",2008,684,1500
+"Los Angeles, CA",2009,702,1350
+"Los Angeles, CA",2010,720,1200
+"Los Angeles, CA",2011,745,1200
+"Los Angeles, CA",2012,770,1200
+"Los Angeles, CA",2013,803,1450
+"Los Angeles, CA",2014,837,1700
+"Los Angeles, CA",2015,870,1950
+"Los Angeles, CA",2016,920,2225
+"Los Angeles, CA",2017,970,2500
+"Los Angeles, CA",2018,1020,2900
+"Los Angeles, CA",2019,1095,3200
+"Los Angeles, CA",2020,1170,3500
+"Los Angeles, CA",2021,1335,4500
+"Los Angeles, CA",2022,1500,5800
+"Los Angeles, CA",2023,1675,6200
+"Los Angeles, CA",2024,1850,7200
+"Miami, FL",1950,45,
+"Miami, FL",1951,47,
+"Miami, FL",1952,49,
+"Miami, FL",1953,51,
+"Miami, FL",1954,53,
+"Miami, FL",1955,55,
+"Miami, FL",1956,56,
+"Miami, FL",1957,57,
+"Miami, FL",1958,58,
+"Miami, FL",1959,59,
+"Miami, FL",1960,60,
+"Miami, FL",1961,62,
+"Miami, FL",1962,64,
+"Miami, FL",1963,66,
+"Miami, FL",1964,68,
+"Miami, FL",1965,70,
+"Miami, FL",1966,74,
+"Miami, FL",1967,78,
+"Miami, FL",1968,82,
+"Miami, FL",1969,86,
+"Miami, FL",1970,90,
+"Miami, FL",1971,100,
+"Miami, FL",1972,110,
+"Miami, FL",1973,120,
+"Miami, FL",1974,130,
+"Miami, FL",1975,140,120
+"Miami, FL",1976,156,136
+"Miami, FL",1977,172,152
+"Miami, FL",1978,188,168
+"Miami, FL",1979,204,184
+"Miami, FL",1980,220,200
+"Miami, FL",1981,228,210
+"Miami, FL",1982,236,220
+"Miami, FL",1983,244,230
+"Miami, FL",1984,252,240
+"Miami, FL",1985,260,250
+"Miami, FL",1986,268,260
+"Miami, FL",1987,276,270
+"Miami, FL",1988,284,280
+"Miami, FL",1989,292,290
+"Miami, FL",1990,300,300
+"Miami, FL",1991,308,302
+"Miami, FL",1992,316,304
+"Miami, FL",1993,324,306
+"Miami, FL",1994,332,308
+"Miami, FL",1995,340,310
+"Miami, FL",1996,352,332
+"Miami, FL",1997,364,354
+"Miami, FL",1998,376,376
+"Miami, FL",1999,388,398
+"Miami, FL",2000,400,420
+"Miami, FL",2001,418,536
+"Miami, FL",2002,436,652
+"Miami, FL",2003,454,768
+"Miami, FL",2004,472,884
+"Miami, FL",2005,490,1000
+"Miami, FL",2006,506,1150
+"Miami, FL",2007,522,1100
+"Miami, FL",2008,538,900
+"Miami, FL",2009,554,775
+"Miami, FL",2010,570,650
+"Miami, FL",2011,590,635
+"Miami, FL",2012,610,620
+"Miami, FL",2013,640,710
+"Miami, FL",2014,670,800
+"Miami, FL",2015,700,920
+"Miami, FL",2016,743,1010
+"Miami, FL",2017,787,1100
+"Miami, FL",2018,830,1250
+"Miami, FL",2019,895,1400
+"Miami, FL",2020,960,1550
+"Miami, FL",2021,1095,2000
+"Miami, FL",2022,1230,2600
+"Miami, FL",2023,1365,2800
+"Miami, FL",2024,1500,2900
+"Minneapolis, MN",1950,50,
+"Minneapolis, MN",1951,52,
+"Minneapolis, MN",1952,54,
+"Minneapolis, MN",1953,56,
+"Minneapolis, MN",1954,58,
+"Minneapolis, MN",1955,60,
+"Minneapolis, MN",1956,62,
+"Minneapolis, MN",1957,64,
+"Minneapolis, MN",1958,66,
+"Minneapolis, MN",1959,68,
+"Minneapolis, MN",1960,70,
+"Minneapolis, MN",1961,73,
+"Minneapolis, MN",1962,76,
+"Minneapolis, MN",1963,79,
+"Minneapolis, MN",1964,82,
+"Minneapolis, MN",1965,85,
+"Minneapolis, MN",1966,89,
+"Minneapolis, MN",1967,93,
+"Minneapolis, MN",1968,97,
+"Minneapolis, MN",1969,101,
+"Minneapolis, MN",1970,105,
+"Minneapolis, MN",1971,116,
+"Minneapolis, MN",1972,127,
+"Minneapolis, MN",1973,138,
+"Minneapolis, MN",1974,149,
+"Minneapolis, MN",1975,160,140
+"Minneapolis, MN",1976,178,158
+"Minneapolis, MN",1977,196,176
+"Minneapolis, MN",1978,214,194
+"Minneapolis, MN",1979,232,212
+"Minneapolis, MN",1980,250,230
+"Minneapolis, MN",1981,260,242
+"Minneapolis, MN",1982,270,254
+"Minneapolis, MN",1983,280,266
+"Minneapolis, MN",1984,290,278
+"Minneapolis, MN",1985,300,290
+"Minneapolis, MN",1986,310,302
+"Minneapolis, MN",1987,320,314
+"Minneapolis, MN",1988,330,326
+"Minneapolis, MN",1989,340,338
+"Minneapolis, MN",1990,350,350
+"Minneapolis, MN",1991,360,360
+"Minneapolis, MN",1992,370,370
+"Minneapolis, MN",1993,380,380
+"Minneapolis, MN",1994,390,390
+"Minneapolis, MN",1995,400,400
+"Minneapolis, MN",1996,414,430
+"Minneapolis, MN",1997,428,460
+"Minneapolis, MN",1998,442,490
+"Minneapolis, MN",1999,456,520
+"Minneapolis, MN",2000,470,550
+"Minneapolis, MN",2001,488,610
+"Minneapolis, MN",2002,506,670
+"Minneapolis, MN",2003,524,730
+"Minneapolis, MN",2004,542,790
+"Minneapolis, MN",2005,560,850
+"Minneapolis, MN",2006,578,865
+"Minneapolis, MN",2007,596,880
+"Minneapolis, MN",2008,614,780
+"Minneapolis, MN",2009,632,700
+"Minneapolis, MN",2010,650,620
+"Minneapolis, MN",2011,670,610
+"Minneapolis, MN",2012,690,600
+"Minneapolis, MN",2013,723,675
+"Minneapolis, MN",2014,757,750
+"Minneapolis, MN",2015,790,850
+"Minneapolis, MN",2016,837,950
+"Minneapolis, MN",2017,883,1050
+"Minneapolis, MN",2018,930,1150
+"Minneapolis, MN",2019,1000,1280
+"Minneapolis, MN",2020,1070,1400
+"Minneapolis, MN",2021,1225,1700
+"Minneapolis, MN",2022,1380,2050
+"Minneapolis, MN",2023,1540,2100
+"Minneapolis, MN",2024,1700,2100
+"New York, NY",1950,60,
+"New York, NY",1951,62,
+"New York, NY",1952,64,
+"New York, NY",1953,66,
+"New York, NY",1954,68,
+"New York, NY",1955,70,
+"New York, NY",1956,72,
+"New York, NY",1957,74,
+"New York, NY",1958,76,
+"New York, NY",1959,78,
+"New York, NY",1960,80,
+"New York, NY",1961,83,
+"New York, NY",1962,86,
+"New York, NY",1963,89,
+"New York, NY",1964,92,
+"New York, NY",1965,95,
+"New York, NY",1966,100,
+"New York, NY",1967,105,
+"New York, NY",1968,110,
+"New York, NY",1969,115,
+"New York, NY",1970,120,
+"New York, NY",1971,133,
+"New York, NY",1972,146,
+"New York, NY",1973,159,
+"New York, NY",1974,172,
+"New York, NY",1975,185,170
+"New York, NY",1976,206,190
+"New York, NY",1977,227,210
+"New York, NY",1978,248,230
+"New York, NY",1979,269,250
+"New York, NY",1980,290,270
+"New York, NY",1981,302,300
+"New York, NY",1982,314,330
+"New York, NY",1983,326,360
+"New York, NY",1984,338,390
+"New York, NY",1985,350,420
+"New York, NY",1986,364,446
+"New York, NY",1987,378,472
+"New York, NY",1988,392,498
+"New York, NY",1989,406,524
+"New York, NY",1990,420,550
+"New York, NY",1991,432,533
+"New York, NY",1992,444,517
+"New York, NY",1993,456,500
+"New York, NY",1994,468,490
+"New York, NY",1995,480,480
+"New York, NY",1996,496,520
+"New York, NY",1997,512,560
+"New York, NY",1998,528,600
+"New York, NY",1999,544,640
+"New York, NY",2000,560,680
+"New York, NY",2001,584,814
+"New York, NY",2002,608,948
+"New York, NY",2003,632,1082
+"New York, NY",2004,656,1216
+"New York, NY",2005,680,1350
+"New York, NY",2006,700,1425
+"New York, NY",2007,720,1500
+"New York, NY",2008,740,1400
+"New York, NY",2009,760,1325
+"New York, NY",2010,780,1250
+"New York, NY",2011,805,1225
+"New York, NY",2012,830,1200
+"New York, NY",2013,867,1275
+"New York, NY",2014,903,1350
+"New York, NY",2015,940,1500
+"New York, NY",2016,993,1675
+"New York, NY",2017,1047,1850
+"New York, NY",2018,1100,2100
+"New York, NY",2019,1180,2300
+"New York, NY",2020,1260,2500
+"New York, NY",2021,1430,3000
+"New York, NY",2022,1600,3600
+"New York, NY",2023,1775,3800
+"New York, NY",2024,1950,4000
+"Philadelphia, PA",1950,55,
+"Philadelphia, PA",1951,57,
+"Philadelphia, PA",1952,59,
+"Philadelphia, PA",1953,61,
+"Philadelphia, PA",1954,63,
+"Philadelphia, PA",1955,65,
+"Philadelphia, PA",1956,67,
+"Philadelphia, PA",1957,69,
+"Philadelphia, PA",1958,71,
+"Philadelphia, PA",1959,73,
+"Philadelphia, PA",1960,75,
+"Philadelphia, PA",1961,78,
+"Philadelphia, PA",1962,81,
+"Philadelphia, PA",1963,84,
+"Philadelphia, PA",1964,87,
+"Philadelphia, PA",1965,90,
+"Philadelphia, PA",1966,95,
+"Philadelphia, PA",1967,100,
+"Philadelphia, PA",1968,105,
+"Philadelphia, PA",1969,110,
+"Philadelphia, PA",1970,115,
+"Philadelphia, PA",1971,127,
+"Philadelphia, PA",1972,139,
+"Philadelphia, PA",1973,151,
+"Philadelphia, PA",1974,163,
+"Philadelphia, PA",1975,175,155
+"Philadelphia, PA",1976,194,174
+"Philadelphia, PA",1977,213,193
+"Philadelphia, PA",1978,232,212
+"Philadelphia, PA",1979,251,231
+"Philadelphia, PA",1980,270,250
+"Philadelphia, PA",1981,282,262
+"Philadelphia, PA",1982,294,274
+"Philadelphia, PA",1983,306,286
+"Philadelphia, PA",1984,318,298
+"Philadelphia, PA",1985,330,310
+"Philadelphia, PA",1986,340,328
+"Philadelphia, PA",1987,350,346
+"Philadelphia, PA",1988,360,364
+"Philadelphia, PA",1989,370,382
+"Philadelphia, PA",1990,380,400
+"Philadelphia, PA",1991,390,393
+"Philadelphia, PA",1992,400,387
+"Philadelphia, PA",1993,410,380
+"Philadelphia, PA",1994,420,380
+"Philadelphia, PA",1995,430,380
+"Philadelphia, PA",1996,446,400
+"Philadelphia, PA",1997,462,420
+"Philadelphia, PA",1998,478,440
+"Philadelphia, PA",1999,494,460
+"Philadelphia, PA",2000,510,480
+"Philadelphia, PA",2001,530,554
+"Philadelphia, PA",2002,550,628
+"Philadelphia, PA",2003,570,702
+"Philadelphia, PA",2004,590,776
+"Philadelphia, PA",2005,610,850
+"Philadelphia, PA",2006,630,885
+"Philadelphia, PA",2007,650,920
+"Philadelphia, PA",2008,670,880
+"Philadelphia, PA",2009,690,830
+"Philadelphia, PA",2010,710,780
+"Philadelphia, PA",2011,735,760
+"Philadelphia, PA",2012,760,740
+"Philadelphia, PA",2013,793,770
+"Philadelphia, PA",2014,827,800
+"Philadelphia, PA",2015,860,870
+"Philadelphia, PA",2016,910,935
+"Philadelphia, PA",2017,960,1000
+"Philadelphia, PA",2018,1010,1100
+"Philadelphia, PA",2019,1085,1200
+"Philadelphia, PA",2020,1160,1350
+"Philadelphia, PA",2021,1320,1650
+"Philadelphia, PA",2022,1480,2000
+"Philadelphia, PA",2023,1640,2100
+"Philadelphia, PA",2024,1800,2200
+"Phoenix, AZ",1950,45,
+"Phoenix, AZ",1951,47,
+"Phoenix, AZ",1952,49,
+"Phoenix, AZ",1953,51,
+"Phoenix, AZ",1954,53,
+"Phoenix, AZ",1955,55,
+"Phoenix, AZ",1956,56,
+"Phoenix, AZ",1957,57,
+"Phoenix, AZ",1958,58,
+"Phoenix, AZ",1959,59,
+"Phoenix, AZ",1960,60,
+"Phoenix, AZ",1961,62,
+"Phoenix, AZ",1962,64,
+"Phoenix, AZ",1963,66,
+"Phoenix, AZ",1964,68,
+"Phoenix, AZ",1965,70,
+"Phoenix, AZ",1966,74,
+"Phoenix, AZ",1967,78,
+"Phoenix, AZ",1968,82,
+"Phoenix, AZ",1969,86,
+"Phoenix, AZ",1970,90,
+"Phoenix, AZ",1971,99,
+"Phoenix, AZ",1972,108,
+"Phoenix, AZ",1973,117,
+"Phoenix, AZ",1974,126,
+"Phoenix, AZ",1975,135,120
+"Phoenix, AZ",1976,150,138
+"Phoenix, AZ",1977,165,156
+"Phoenix, AZ",1978,180,174
+"Phoenix, AZ",1979,195,192
+"Phoenix, AZ",1980,210,210
+"Phoenix, AZ",1981,218,218
+"Phoenix, AZ",1982,226,226
+"Phoenix, AZ",1983,234,234
+"Phoenix, AZ",1984,242,242
+"Phoenix, AZ",1985,250,250
+"Phoenix, AZ",1986,258,256
+"Phoenix, AZ",1987,266,262
+"Phoenix, AZ",1988,274,268
+"Phoenix, AZ",1989,282,274
+"Phoenix, AZ",1990,290,280
+"Phoenix, AZ",1991,298,284
+"Phoenix, AZ",1992,306,288
+"Phoenix, AZ",1993,314,292
+"Phoenix, AZ",1994,322,296
+"Phoenix, AZ",1995,330,300
+"Phoenix, AZ",1996,342,324
+"Phoenix, AZ",1997,354,348
+"Phoenix, AZ",1998,366,372
+"Phoenix, AZ",1999,378,396
+"Phoenix, AZ",2000,390,420
+"Phoenix, AZ",2001,406,516
+"Phoenix, AZ",2002,422,612
+"Phoenix, AZ",2003,438,708
+"Phoenix, AZ",2004,454,804
+"Phoenix, AZ",2005,470,900
+"Phoenix, AZ",2006,486,1000
+"Phoenix, AZ",2007,502,900
+"Phoenix, AZ",2008,518,700
+"Phoenix, AZ",2009,534,600
+"Phoenix, AZ",2010,550,500
+"Phoenix, AZ",2011,570,490
+"Phoenix, AZ",2012,590,480
+"Phoenix, AZ",2013,617,550
+"Phoenix, AZ",2014,643,620
+"Phoenix, AZ",2015,670,720
+"Phoenix, AZ",2016,713,810
+"Phoenix, AZ",2017,757,900
+"Phoenix, AZ",2018,800,1050
+"Phoenix, AZ",2019,860,1200
+"Phoenix, AZ",2020,920,1400
+"Phoenix, AZ",2021,1050,1900
+"Phoenix, AZ",2022,1180,2400
+"Phoenix, AZ",2023,1315,2450
+"Phoenix, AZ",2024,1450,2500
+"San Francisco, CA",1950,55,
+"San Francisco, CA",1951,57,
+"San Francisco, CA",1952,59,
+"San Francisco, CA",1953,61,
+"San Francisco, CA",1954,63,
+"San Francisco, CA",1955,65,
+"San Francisco, CA",1956,68,
+"San Francisco, CA",1957,71,
+"San Francisco, CA",1958,74,
+"San Francisco, CA",1959,77,
+"San Francisco, CA",1960,80,
+"San Francisco, CA",1961,83,
+"San Francisco, CA",1962,86,
+"San Francisco, CA",1963,89,
+"San Francisco, CA",1964,92,
+"San Francisco, CA",1965,95,
+"San Francisco, CA",1966,100,
+"San Francisco, CA",1967,105,
+"San Francisco, CA",1968,110,
+"San Francisco, CA",1969,115,
+"San Francisco, CA",1970,120,
+"San Francisco, CA",1971,133,
+"San Francisco, CA",1972,146,
+"San Francisco, CA",1973,159,
+"San Francisco, CA",1974,172,
+"San Francisco, CA",1975,185,170
+"San Francisco, CA",1976,206,206
+"San Francisco, CA",1977,227,242
+"San Francisco, CA",1978,248,278
+"San Francisco, CA",1979,269,314
+"San Francisco, CA",1980,290,350
+"San Francisco, CA",1981,302,376
+"San Francisco, CA",1982,314,402
+"San Francisco, CA",1983,326,428
+"San Francisco, CA",1984,338,454
+"San Francisco, CA",1985,350,480
+"San Francisco, CA",1986,362,520
+"San Francisco, CA",1987,374,560
+"San Francisco, CA",1988,386,600
+"San Francisco, CA",1989,398,640
+"San Francisco, CA",1990,410,680
+"San Francisco, CA",1991,422,653
+"San Francisco, CA",1992,434,627
+"San Francisco, CA",1993,446,600
+"San Francisco, CA",1994,458,590
+"San Francisco, CA",1995,470,580
+"San Francisco, CA",1996,486,600
+"San Francisco, CA",1997,502,620
+"San Francisco, CA",1998,518,713
+"San Francisco, CA",1999,534,807
+"San Francisco, CA",2000,550,900
+"San Francisco, CA",2001,572,1120
+"San Francisco, CA",2002,594,1340
+"San Francisco, CA",2003,616,1560
+"San Francisco, CA",2004,638,1780
+"San Francisco, CA",2005,660,2000
+"San Francisco, CA",2006,680,2050
+"San Francisco, CA",2007,700,2100
+"San Francisco, CA",2008,720,1700
+"San Francisco, CA",2009,740,1550
+"San Francisco, CA",2010,760,1400
+"San Francisco, CA",2011,785,1400
+"San Francisco, CA",2012,810,1400
+"San Francisco, CA",2013,847,1800
+"San Francisco, CA",2014,883,2200
+"San Francisco, CA",2015,920,2600
+"San Francisco, CA",2016,973,3000
+"San Francisco, CA",2017,1027,3400
+"San Francisco, CA",2018,1080,4000
+"San Francisco, CA",2019,1160,4400
+"San Francisco, CA",2020,1240,4800
+"San Francisco, CA",2021,1410,5800
+"San Francisco, CA",2022,1580,7200
+"San Francisco, CA",2023,1740,7800
+"San Francisco, CA",2024,1900,8500
+"Seattle, WA",1950,50,
+"Seattle, WA",1951,52,
+"Seattle, WA",1952,54,
+"Seattle, WA",1953,56,
+"Seattle, WA",1954,58,
+"Seattle, WA",1955,60,
+"Seattle, WA",1956,62,
+"Seattle, WA",1957,64,
+"Seattle, WA",1958,66,
+"Seattle, WA",1959,68,
+"Seattle, WA",1960,70,
+"Seattle, WA",1961,73,
+"Seattle, WA",1962,76,
+"Seattle, WA",1963,79,
+"Seattle, WA",1964,82,
+"Seattle, WA",1965,85,
+"Seattle, WA",1966,90,
+"Seattle, WA",1967,95,
+"Seattle, WA",1968,100,
+"Seattle, WA",1969,105,
+"Seattle, WA",1970,110,
+"Seattle, WA",1971,122,
+"Seattle, WA",1972,134,
+"Seattle, WA",1973,146,
+"Seattle, WA",1974,158,
+"Seattle, WA",1975,170,150
+"Seattle, WA",1976,188,176
+"Seattle, WA",1977,206,202
+"Seattle, WA",1978,224,228
+"Seattle, WA",1979,242,254
+"Seattle, WA",1980,260,280
+"Seattle, WA",1981,270,288
+"Seattle, WA",1982,280,296
+"Seattle, WA",1983,290,304
+"Seattle, WA",1984,300,312
+"Seattle, WA",1985,310,320
+"Seattle, WA",1986,322,340
+"Seattle, WA",1987,334,360
+"Seattle, WA",1988,346,380
+"Seattle, WA",1989,358,400
+"Seattle, WA",1990,370,420
+"Seattle, WA",1991,380,432
+"Seattle, WA",1992,390,444
+"Seattle, WA",1993,400,456
+"Seattle, WA",1994,410,468
+"Seattle, WA",1995,420,480
+"Seattle, WA",1996,434,508
+"Seattle, WA",1997,448,536
+"Seattle, WA",1998,462,564
+"Seattle, WA",1999,476,592
+"Seattle, WA",2000,490,620
+"Seattle, WA",2001,510,716
+"Seattle, WA",2002,530,812
+"Seattle, WA",2003,550,908
+"Seattle, WA",2004,570,1004
+"Seattle, WA",2005,590,1100
+"Seattle, WA",2006,608,1200
+"Seattle, WA",2007,626,1300
+"Seattle, WA",2008,644,1150
+"Seattle, WA",2009,662,1025
+"Seattle, WA",2010,680,900
+"Seattle, WA",2011,705,875
+"Seattle, WA",2012,730,850
+"Seattle, WA",2013,763,975
+"Seattle, WA",2014,797,1100
+"Seattle, WA",2015,830,1350
+"Seattle, WA",2016,880,1675
+"Seattle, WA",2017,930,2000
+"Seattle, WA",2018,980,2400
+"Seattle, WA",2019,1055,2700
+"Seattle, WA",2020,1130,3100
+"Seattle, WA",2021,1290,4000
+"Seattle, WA",2022,1450,5200
+"Seattle, WA",2023,1615,5800
+"Seattle, WA",2024,1780,7500
+"Washington, DC",1950,50,
+"Washington, DC",1951,52,
+"Washington, DC",1952,54,
+"Washington, DC",1953,56,
+"Washington, DC",1954,58,
+"Washington, DC",1955,60,
+"Washington, DC",1956,62,
+"Washington, DC",1957,64,
+"Washington, DC",1958,66,
+"Washington, DC",1959,68,
+"Washington, DC",1960,70,
+"Washington, DC",1961,73,
+"Washington, DC",1962,76,
+"Washington, DC",1963,79,
+"Washington, DC",1964,82,
+"Washington, DC",1965,85,
+"Washington, DC",1966,90,
+"Washington, DC",1967,95,
+"Washington, DC",1968,100,
+"Washington, DC",1969,105,
+"Washington, DC",1970,110,
+"Washington, DC",1971,121,
+"Washington, DC",1972,132,
+"Washington, DC",1973,143,
+"Washington, DC",1974,154,
+"Washington, DC",1975,165,150
+"Washington, DC",1976,184,170
+"Washington, DC",1977,203,190
+"Washington, DC",1978,222,210
+"Washington, DC",1979,241,230
+"Washington, DC",1980,260,250
+"Washington, DC",1981,270,266
+"Washington, DC",1982,280,282
+"Washington, DC",1983,290,298
+"Washington, DC",1984,300,314
+"Washington, DC",1985,310,330
+"Washington, DC",1986,320,350
+"Washington, DC",1987,330,370
+"Washington, DC",1988,340,390
+"Washington, DC",1989,350,410
+"Washington, DC",1990,360,430
+"Washington, DC",1991,370,420
+"Washington, DC",1992,380,410
+"Washington, DC",1993,390,400
+"Washington, DC",1994,400,400
+"Washington, DC",1995,410,400
+"Washington, DC",1996,424,426
+"Washington, DC",1997,438,452
+"Washington, DC",1998,452,478
+"Washington, DC",1999,466,504
+"Washington, DC",2000,480,530
+"Washington, DC",2001,500,634
+"Washington, DC",2002,520,738
+"Washington, DC",2003,540,842
+"Washington, DC",2004,560,946
+"Washington, DC",2005,580,1050
+"Washington, DC",2006,598,1100
+"Washington, DC",2007,616,1150
+"Washington, DC",2008,634,1050
+"Washington, DC",2009,652,975
+"Washington, DC",2010,670,900
+"Washington, DC",2011,695,890
+"Washington, DC",2012,720,880
+"Washington, DC",2013,750,940
+"Washington, DC",2014,780,1000
+"Washington, DC",2015,810,1100
+"Washington, DC",2016,860,1200
+"Washington, DC",2017,910,1300
+"Washington, DC",2018,960,1450
+"Washington, DC",2019,1030,1580
+"Washington, DC",2020,1100,1750
+"Washington, DC",2021,1260,2100
+"Washington, DC",2022,1420,2500
+"Washington, DC",2023,1585,2600
+"Washington, DC",2024,1750,2700
