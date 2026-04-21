@@ -7,5 +7,5 @@ This repository contains LLM-friendly companion files for articles published in 
 Global fertility rates are declining to persistently below-replacement levels, with no historical precedent for reversal, posing significant long-term depopulation risks.
 
 ### Volume 39, Number 3 (Summer 2025)
-- [Potter and Syverson: Building Costs and House Prices](v39n3/potter-syverson)
+- [Potter and Syverson: Building Costs and House Prices](v39n3/potter-syverson/v39n3/potter-syverson/paper.htm)
 Why U.S. housing prices have diverged from building costs, construction costs explain less and less of house price variation over time.
