@@ -4,9 +4,13 @@ entries:
   folders:
     - title: Getting Started
       folderitems:
-        - title: About
+        - title: About This Site
           jurl: /index.html
         - title: View Articles
           jurl: /view-articles.html
         - title: Download Articles
           jurl: /download-articles.html
+    - title: "Vol. 40, No. 1 (Winter 2026)"
+      folderitems:
+        - title: "Geruso & Spears"
+          jurl: /v40n1/geruso-spears/paper.xhtml

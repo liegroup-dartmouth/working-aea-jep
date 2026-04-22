@@ -30,6 +30,9 @@ exclude:
   - serve_*.sh
   - build_*.sh
 
+include:
+  - v40n1
+
 ############# IMAGE PATHS #############
 image_path: images
 
@@ -79,7 +82,7 @@ collections:
 uistring:
   title: JEP LLM Companion Files
   description: LLM-friendly companion files for articles published in the Journal of Economic Perspectives
-  copyright: Placeholder
+  copyright: 2025 Journal of Economic Perspectives
   breadcrumb_home_name: Home
   tableofcontents: Table of Contents
   expandall: Expand All
