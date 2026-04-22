@@ -79,7 +79,7 @@ collections:
 uistring:
   title: JEP LLM Companion Files
   description: LLM-friendly companion files for articles published in the Journal of Economic Perspectives
-  copyright: 2025 Journal of Economic Perspectives
+  # copyright: 2025 Journal of Economic Perspectives
   breadcrumb_home_name: Home
   tableofcontents: Table of Contents
   expandall: Expand All

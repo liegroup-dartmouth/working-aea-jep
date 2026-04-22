@@ -3,6 +3,7 @@ title: Download Articles
 permalink: /download-articles.html
 sidebar: jep
 breadcrumb:
+layout: default
 ---
 
 <div style="text-align: right; margin-bottom: 1.5rem;">

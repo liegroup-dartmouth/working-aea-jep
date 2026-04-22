@@ -2,6 +2,7 @@
 title: About
 permalink: /index.html
 sidebar: jep
+layout: default
 ---
 
 This site contains LLM-friendly companion files for articles published in the *Journal of Economic Perspectives*. Each article has an `.xhtml` file that is both human and machine readable.
