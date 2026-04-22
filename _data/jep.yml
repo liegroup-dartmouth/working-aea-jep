@@ -12,5 +12,25 @@ entries:
           jurl: /download-articles.html
     - title: "Vol. 40, No. 1 (Winter 2026)"
       folderitems:
+        - title: "Berger, Herkenhoff & Mongey"
+          jurl: /papers/v40n1/berger-herkenhoff-mongey/paper.xhtml
         - title: "Geruso & Spears"
-          jurl: /v40n1/geruso-spears/paper.xhtml
+          jurl: /papers/v40n1/geruso-spears/paper.xhtml
+        - title: "Gobbi, Hannusch & Rossi"
+          jurl: /papers/v40n1/gobbi-hannusch-rossi/paper.xhtml
+        - title: "Johnson"
+          jurl: /papers/v40n1/johnson/paper.xhtml
+        - title: "Khanna"
+          jurl: /papers/v40n1/khanna/paper.xhtml
+        - title: "Postel"
+          jurl: /papers/v40n1/postel/paper.xhtml
+        - title: "Prager"
+          jurl: /papers/v40n1/prager/paper.xhtml
+        - title: "Pritchett"
+          jurl: /papers/v40n1/pritchett/paper.xhtml
+        - title: "Starr"
+          jurl: /papers/v40n1/starr/paper.xhtml
+        - title: "Taylor"
+          jurl: /papers/v40n1/taylor/paper.xhtml
+        - title: "Weil"
+          jurl: /papers/v40n1/weil/paper.xhtml
