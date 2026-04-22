@@ -17,8 +17,9 @@ github_button_location_top_navbar: true
 github_button_location_below_title: false
 github_button_location_page_bottom: false
 github_editme_path: https://github.com/liegroup-dartmouth/working-aea-jep
-baseurl: "https://liegroup-dartmouth.github.io" # the subpath of your site, e.g. /blog
-url: "/working-aea-jep/" # the base hostname & protocol for your site, e.g. http://example.com
+
+baseurl: /working-aea-jep
+url: https://liegroup-dartmouth.github.io
 
 ############# EXCLUDE LIST #############
 exclude:
@@ -34,16 +35,14 @@ image_path: images
 
 ############# DEFAULTS #############
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: pages
     values:
       layout: default
       topnav: topnav
       footer: footer
-  -
-    scope:
+  - scope:
       path: ""
       type: docs
     values:
