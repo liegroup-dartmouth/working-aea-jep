@@ -4,7 +4,7 @@ entries:
   folders:
     - title: Getting Started
       folderitems:
-        - title: About This Site
+        - title: About
           jurl: /index.html
         - title: View Articles
           jurl: /view-articles.html
