@@ -31,7 +31,7 @@ footer: footer
 <td>The Likelihood of Persistently Low Global Fertility</td>
 <td>Michael Geruso<br>Dean Spears</td>
 <td><a href="https://doi.org/10.1257/jep.20251463">Vol. 40, No. 1, pp. 3–26, Winter 2026</a></td>
-<td><a href="{{ site.baseurl }}/v40n1/geruso-spears/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/paper.xhtml">paper.xhtml</a></td>
 </tr>
 <tr>
 <td>How Much Would Continued Low Fertility Affect the US Standard of Living?</td>
