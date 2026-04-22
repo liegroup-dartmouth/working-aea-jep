@@ -1,18 +1,90 @@
-title: JEP LLM Companion Files
-description: LLM-friendly companion files for articles published in the Journal of Economic Perspectives
-remote_theme: just-the-docs/just-the-docs
+############# SITE PROPERTIES #############
+port: 4000
+language: english
+format: web
+favicon: assets/favicon.ico
+
+############# TOP NAVIGATION BAR ################
+use_logo: false
+use_text_title: true
+search_in_topnav: true
+search_in_sidebar: false
+toggle-sidebar-button: true
+navbar-toggle: true
+
+############# GITHUB BUTTON #############
+github_button_location_top_navbar: true
+github_button_location_below_title: false
+github_button_location_page_bottom: false
+github_editme_path: https://github.com/liegroup-dartmouth/working-aea-jep
 baseurl: "https://liegroup-dartmouth.github.io" # the subpath of your site, e.g. /blog
 url: "/working-aea-jep/" # the base hostname & protocol for your site, e.g. http://example.com
-aux_links_new_tab: true
-nav_enabled: true
-heading_anchors: true
-search_enabled: true
-color_scheme: light
-back_to_top: true
-back_to_top_text: Back to top
+
+############# EXCLUDE LIST #############
 exclude:
   - README.md
   - LICENSE
   - Gemfile
   - Gemfile.lock
- 
+  - serve_*.sh
+  - build_*.sh
+
+############# IMAGE PATHS #############
+image_path: images
+
+############# DEFAULTS #############
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      topnav: topnav
+      footer: footer
+  -
+    scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
+      topnav: topnav
+      footer: footer
+      sidebar: jep
+
+############# Breadcrumb ############
+breadcrumb_display: true
+breadcrumb_home_display: true
+breadcrumb_home_url: /
+breadcrumb_home_name: Home
+
+########## MARKDOWN PROCESS AND FILTER ##########
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+########## SASS SETTINGS ##########
+sass:
+  style: compressed
+
+############# COLLECTIONS #############
+collections:
+  docs:
+    output: true
+
+########## UI text ###############
+uistring:
+  title: JEP LLM Companion Files
+  description: LLM-friendly companion files for articles published in the Journal of Economic Perspectives
+  copyright: 2025 Journal of Economic Perspectives
+  breadcrumb_home_name: Home
+  tableofcontents: Table of Contents
+  expandall: Expand All
+  collapseall: Collapse All
+  search_placeholder_text: Search ...
+  no_search_results_found: No matches found. Try using other keywords?
+  github_edit_button_text: View on GitHub
