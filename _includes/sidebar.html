@@ -1,0 +1,44 @@
+<div class="sidebar" id="sidebar" role="navigation">
+    <button type="button" class="btn btn-default btn-xs sidebar-toggle visible-xs" id="sidebar-toggle-btn">
+        <i class="fa fa-bars"></i> Menu
+    </button>
+    <div class="sidebar-content">
+        {% assign sidebar = site.data[page.sidebar] %}
+        {% if sidebar %}
+        {% for entry in sidebar.entries %}
+        <h4 class="sidebar-product-name">{{ entry.product }}</h4>
+        <p class="sidebar-controls">
+            <a href="javascript:void(0)" class="sidebar-expand-all">{{ site.uistring.expandall }}</a> |
+            <a href="javascript:void(0)" class="sidebar-collapse-all">{{ site.uistring.collapseall }}</a>
+        </p>
+        <ul class="nav nav-sidebar">
+            {% for folder in entry.folders %}
+            <li class="sidebar-folder">
+                <a href="javascript:void(0)" class="folder-title{% if page.url == folder.folderitems[0].jurl %} active{% endif %}">
+                    <span class="fa fa-minus-square folder-icon"></span> {{ folder.title }}
+                </a>
+                <ul class="sidebar-folder-items">
+                    {% for item in folder.folderitems %}
+                    <li {% if page.url == item.jurl %}class="active"{% endif %}>
+                        <a href="{{ site.baseurl }}{{ item.jurl }}">
+                            <span class="fa fa-file-o"></span> {{ item.title }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </li>
+            {% endfor %}
+        </ul>
+        {% if entry.related_resources_title %}
+        <hr>
+        <h5>{{ entry.related_resources_title }}</h5>
+        <ul class="nav nav-sidebar related-resources">
+            {% for resource in entry.related_resources_list %}
+            <li><a href="{{ resource.hurl }}" target="_blank">{{ resource.title }}</a></li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% endfor %}
+        {% endif %}
+    </div>
+</div>

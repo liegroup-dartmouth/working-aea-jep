@@ -1,0 +1,11 @@
+<ol class="breadcrumb">
+    {% if site.breadcrumb_home_display %}
+    <li><a href="{{ site.breadcrumb_home_url }}">{{ site.breadcrumb_home_name }}</a></li>
+    {% endif %}
+    {% if page.breadcrumb %}
+    {% for crumb in page.breadcrumb %}
+    <li>{{ crumb }}</li>
+    {% endfor %}
+    {% endif %}
+    <li class="active">{{ page.title }}</li>
+</ol>

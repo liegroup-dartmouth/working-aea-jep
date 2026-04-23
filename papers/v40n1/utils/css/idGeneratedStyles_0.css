@@ -1,0 +1,578 @@
+@font-face {
+	font-family:"ITC New Baskerville Std";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/NewBaskervilleStd-Bold.otf");
+}
+@font-face {
+	font-family:"ITC New Baskerville Std";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../font/NewBaskervilleStd-BoldIt.otf");
+}
+@font-face {
+	font-family:"ITC New Baskerville Std";
+	font-style:oblique;
+	font-weight:bold;
+	src : url("../font/NewBaskervilleStd-BoldIt.otf");
+}
+@font-face {
+	font-family:"ITC New Baskerville Std";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/NewBaskervilleStd-Italic.otf");
+}
+@font-face {
+	font-family:"ITC New Baskerville Std";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/NewBaskervilleStd-Italic.otf");
+}
+@font-face {
+	font-family:"ITC New Baskerville Std";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/NewBaskervilleStd-Roman.otf");
+}
+@font-face {
+	font-family:STIXGeneral;
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/STIXGeneral-Bold.otf");
+}
+@font-face {
+	font-family:STIXGeneral;
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/STIXGeneral-Italic.otf");
+}
+@font-face {
+	font-family:STIXGeneral;
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/STIXGeneral-Italic.otf");
+}
+@font-face {
+	font-family:STIXGeneral;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/STIXGeneral-Regular.otf");
+}
+@font-face {
+	font-family:STIXSizeOneSym;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/STIXSizeOneSym-Regular.otf");
+}
+@font-face {
+	font-family:STIXSizeTwoSym;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/STIXSizeTwoSym-Regular.otf");
+}
+@font-face {
+	font-family:Times;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/Times-Roman.ttc");
+}
+@font-face {
+	font-family:"Times LT Std";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/TimesLTStd-Bold.otf");
+}
+@font-face {
+	font-family:"Times LT Std";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/TimesLTStd-Italic.otf");
+}
+@font-face {
+	font-family:"Times LT Std";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/TimesLTStd-Italic.otf");
+}
+@font-face {
+	font-family:"Times LT Std";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/TimesLTStd-Roman.otf");
+}
+@font-face {
+	font-family:UniMath;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/UniMath.otf");
+}
+@font-face {
+	font-family:UniMath;
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/UniMath-Bold.otf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 8px 8px 8px 8px;
+}
+ol._idFootAndEndNoteOLAttrs {
+	list-style-type:none;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Author {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.125;
+	margin-bottom:16px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.Board-JEP {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:12px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.Board-Members {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:1px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.Board-Title {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.Contents-Economic-Perspectives {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:2em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:0.917;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.Contents-Row {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:0.9;
+	margin-bottom:36px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:23px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.Contents-The-Journal-of {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:1.167em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.571;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.DA-heading {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:8px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.DA-text {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:6px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.Disclosure-heading {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:8px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.Disclosure-text {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:6px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.Purpose-heading {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.182;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:16px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.Purpose-text {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:6px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:2;
+}
+p.TOC-author-title-pg-epub {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:42px;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-42px;
+	text-transform:none;
+	widows:2;
+}
+p.TOC-section-heading {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.883em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.132;
+	margin-bottom:0;
+	margin-left:42px;
+	margin-right:0;
+	margin-top:11px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-42px;
+	text-transform:none;
+	widows:2;
+}
+p.TOC-symposia-title {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.833em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:11px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.Title-of-Article {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:16px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span._01-ITC-New-Baskerville-Std {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span._01-ITC-New-Baskerville-Std-Italic {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span._011-ITC-New-Baskerville-Std-Bold {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span._011-ITC-New-Baskerville-Std-Bold-italic {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-style:italic;
+	font-weight:bold;
+}
+span._022-Unimath {
+	font-family:UniMath, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span._091-Subscriptitalic {
+	font-family:"ITC New Baskerville Std", serif;
+	font-style:italic;
+	font-weight:normal;
+	vertical-align:sub;
+}
+span._092-Subscriptroman {
+	font-family:"ITC New Baskerville Std", serif;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:sub;
+}
+span._094-Superscriptroman {
+	font-family:"ITC New Baskerville Std", serif;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span._2-Footnote-number-superscript {
+	color:#000000;
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:0.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:none;
+	vertical-align:super;
+}
+span._21-Footnote-callout-number-superscript {
+	font-size:0.833em;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span._32-Square-Bullet {
+	color:#000000;
+	font-family:UniMath, serif;
+	font-size:0.583em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Contents-Vol--No--Issue {
+	font-family:"ITC New Baskerville Std", serif;
+	font-size:1em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.Hyperlink {
+	color:#215e9e;
+	text-decoration:underline;
+}
