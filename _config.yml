@@ -16,7 +16,7 @@ navbar-toggle: true
 github_button_location_top_navbar: true
 github_button_location_below_title: false
 github_button_location_page_bottom: false
-github_editme_path: https://github.com/liegroup-dartmouth/working-aea-jep
+github_editme_path: https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages
 
 baseurl: /working-aea-jep
 url: https://liegroup-dartmouth.github.io

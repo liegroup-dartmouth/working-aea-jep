@@ -89,3 +89,6 @@ footer: footer
 </tr>
 </tbody>
 </table>
+
+
+To download XHTML files and underlying images, go to the [Download Articles]({{ site.baseurl }}/download-articles.html) tab and follow the instructions for downloading one or multiple aricles.
