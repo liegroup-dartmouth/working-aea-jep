@@ -17,7 +17,7 @@ footer: footer
 <th>Title</th>
 <th>Authors</th>
 <th>Citation &amp; DOI</th>
-<th>View Paper</th>
+<th>View Articles</th>
 </tr>
 </thead>
 <tbody>
