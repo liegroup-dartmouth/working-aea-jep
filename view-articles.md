@@ -10,6 +10,7 @@ footer: footer
 **Publisher:** American Economic Association \| **ISSN:** 0895-3309
 
 ### Vol. 40, No. 1 — Winter 2026
+Machine readable index: [index.json]({{ site.baseurl }}/papers/v40n1/index.json)
 
 <table class="table table-bordered table-striped">
 <thead>

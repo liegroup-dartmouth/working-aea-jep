@@ -1,0 +1,135 @@
+{
+  "journal": {
+    "title": "Journal of Economic Perspectives",
+    "issn": "0895-3309",
+    "publisher": "American Economic Association"
+  },
+  "issue": {
+    "volume": 40,
+    "number": 1,
+    "season": "Winter 2026"
+  },
+  "articles": [
+    {
+      "title": "Front Matter",
+      "type": "Journal Article",
+      "authors": [],
+      "pages": "1–6",
+      "doi": "https://doi.org/10.1257/jep.40.1.1"
+    },
+    {
+      "title": "The Likelihood of Persistently Low Global Fertility",
+      "type": "Symposium",
+      "authors": [
+        "Michael Geruso (U of Texas at Austin)",
+        "Dean Spears (U of Texas at Austin and IZA, Bonn)"
+      ],
+      "pages": "3–26",
+      "miniabstract": "Global birth rates have fallen below replacement level for two-thirds of the world's population, and evidence from cohort fertility data—showing that low fertility, once established, does not rebound—suggests persistent sub-replacement fertility is the most likely long-run outcome.",
+      "doi": "https://doi.org/10.1257/jep.20251463"
+    },
+    {
+      "title": "How Much Would Continued Low Fertility Affect the US Standard of Living?",
+      "type": "Symposium",
+      "authors": [
+        "David N. Weil (Brown U)"
+      ],
+      "pages": "27–46",
+      "miniabstract": "Sub-replacement fertility is likely to reduce age-adjusted consumption per capita in the United States, but only modestly and after a long adjustment period, with a return to replacement-level fertility actually lowering living standards for several decades.",
+      "doi": "https://doi.org/10.1257/jep.20251462"
+    },
+    {
+      "title": "Family Institutions and the Global Fertility Transition",
+      "type": "Symposium",
+      "authors": [
+        "Paula E. Gobbi (Universite Libre de Bruxelles)",
+        "Anne Hannusch (U of Bonn)",
+        "Pauline Rossi (CREST, Ecole Polytechnique, Paris)"
+      ],
+      "pages": "47–70",
+      "miniabstract": "Marriage customs, inheritance practices, and the diffusion of cultural norms mediate how economic development translates into fertility decline, explaining why within-country fertility changes over 60 years are only weakly tied to improvements in human capital, GDP, or survival rates.",
+      "doi": "https://doi.org/10.1257/jep.20251460"
+    },
+    {
+      "title": "Global Labor Mobility between Shrinking and Growing Labor Forces",
+      "type": "Symposium",
+      "authors": [
+        "Lant Pritchett (London School of Economics and Political Science)"
+      ],
+      "pages": "71–92",
+      "miniabstract": "Demographic divergence—absolute labor force declines in rich countries versus Africa's 800-million-worker expansion by 2050—creates trillion-dollar potential gains from legal pathways enabling migration from low-productivity, labor-abundant regions to high-productivity, labor-scarce ones.",
+      "doi": "https://doi.org/10.1257/jep.20251461"
+    },
+    {
+      "title": "Labor Market Power: From Micro Evidence to Macro Consequences",
+      "type": "Symposium",
+      "authors": [
+        "David Berger (Duke U)",
+        "Kyle Herkenhoff (U of Minnesota Twin Cities)",
+        "Simon Mongey (Federal Reserve Bank of Minneapolis)"
+      ],
+      "pages": "93–114",
+      "miniabstract": "A macro approach that models large employers' strategic wage-setting behavior—calibrated with micro-level policy estimates—reveals how monopsony generates aggregate misallocation and informs optimal minimum wage and antitrust policies.",
+      "doi": "https://doi.org/10.1257/jep.20251456"
+    },
+    {
+      "title": "Antitrust Enforcement in Labor Markets",
+      "type": "Symposium",
+      "authors": [
+        "Elena Prager (U of Rochester)"
+      ],
+      "pages": "115–138",
+      "miniabstract": "Antitrust enforcement in labor markets has grown substantially since 2010 as evidence emerged that employer market power frequently stems from actionable conduct, yet key challenges around market definition and concentration modeling still limit its effectiveness.",
+      "doi": "https://doi.org/10.1257/jep.20241446"
+    },
+    {
+      "title": "The Economics of Noncompete Clauses",
+      "type": "Symposium",
+      "authors": [
+        "Evan Starr (U of Maryland)"
+      ],
+      "pages": "139–166",
+      "miniabstract": "Recent empirical evidence shows that noncompete clauses—often applied well beyond roles involving trade secrets—reduce worker mobility, wages, innovation, and entrepreneurship, while less restrictive alternatives can adequately protect firm interests.",
+      "doi": "https://doi.org/10.1257/jep.20251457"
+    },
+    {
+      "title": "Occupational Licensing in the United States",
+      "type": "Symposium",
+      "authors": [
+        "Janna E. Johnson (U of Minnesota Twin Cities)"
+      ],
+      "pages": "167–190",
+      "miniabstract": "Occupational licensing, now covering over a fifth of the US workforce, raises wages for incumbents while reducing consumer access and quality, but data limitations and policy heterogeneity hamper reform efforts despite bipartisan interest.",
+      "doi": "https://doi.org/10.1257/jep.20251458"
+    },
+    {
+      "title": "Asian Immigration to the United States in Historical Perspective",
+      "type": "Symposium",
+      "authors": [
+        "Hannah M. Postel (Duke U)"
+      ],
+      "pages": "191–214",
+      "miniabstract": "US immigration and foreign policy has durably shaped the size, composition, and socioeconomic characteristics of arrivals from China, Japan, India, the Philippines, Korea, and Vietnam, making Asian Americans the fastest-growing immigrant group today.",
+      "doi": "https://doi.org/10.1257/jep.20251453"
+    },
+    {
+      "title": "From Asia, with Skills",
+      "type": "Symposium",
+      "authors": [
+        "Gaurav Khanna (U of California, San Diego)"
+      ],
+      "pages": "215–240",
+      "miniabstract": "Since 1990, Asian immigrants have supplied over a third of US growth in software developers and a quarter of new scientists, engineers, and physicians, driven by H-1B and student visa demand alongside Asia's educational expansion and diaspora networks, yielding innovation gains in the US and brain-circulation benefits in Asia.",
+      "doi": "https://doi.org/10.1257/jep.20251454"
+    },
+    {
+      "title": "Recommendations for Further Reading",
+      "type": "Feature",
+      "authors": [
+        "Timothy Taylor (Macalester College)"
+      ],
+      "pages": "241–248",
+      "doi": "https://doi.org/10.1257/jep.20251497"
+    }
+  ]
+}
