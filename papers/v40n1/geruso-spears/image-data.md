@@ -1,3 +1,11 @@
+---
+layout: default
+permalink: /papers/geruso-spears/image-data.html
+sidebar: jep
+topnav: topnav
+footer: footer
+---
+
 <p>Underlying data for Figures and Tables in <a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/paper.xhtml">Geruso-Spears</a> in CSV format. File names correspond to the image names used in the article interior syntax.</p>
 <ul>
 {% for i in (1..8) %}
