@@ -16,6 +16,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### The Likelihood of Persistently Low Global Fertility
+- Type: Symposium
 - Authors: Michael Geruso (U of Texas at Austin); Dean Spears (U of Texas at Austin and IZA, Bonn)
 - Pages: 3–26
 - DOI: https://doi.org/10.1257/jep.20251463
@@ -44,6 +45,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### How Much Would Continued Low Fertility Affect the US Standard of Living?
+- Type: Symposium
 - Authors: David N. Weil (Brown U)
 - Pages: 27–46
 - DOI: https://doi.org/10.1257/jep.20251462
@@ -60,6 +62,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### Family Institutions and the Global Fertility Transition
+- Type: Symposium
 - Authors: Paula E. Gobbi (Universite Libre de Bruxelles); Anne Hannusch (U of Bonn); Pauline Rossi (CREST, Ecole Polytechnique, Paris)
 - Pages: 47–70
 - DOI: https://doi.org/10.1257/jep.20251460
@@ -75,6 +78,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### Global Labor Mobility between Shrinking and Growing Labor Forces
+- Type: Symposium
 - Authors: Lant Pritchett (London School of Economics and Political Science)
 - Pages: 71–92
 - DOI: https://doi.org/10.1257/jep.20251461
@@ -89,6 +93,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### Labor Market Power: From Micro Evidence to Macro Consequences
+- Type: Symposium
 - Authors: David Berger (Duke U); Kyle Herkenhoff (U of Minnesota Twin Cities); Simon Mongey (Federal Reserve Bank of Minneapolis)
 - Pages: 93–114
 - DOI: https://doi.org/10.1257/jep.20251456
@@ -102,6 +107,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### Antitrust Enforcement in Labor Markets
+- Type: Symposium
 - Authors: Elena Prager (U of Rochester)
 - Pages: 115–138
 - DOI: https://doi.org/10.1257/jep.20241446
@@ -115,6 +121,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### The Economics of Noncompete Clauses
+- Type: Symposium
 - Authors: Evan Starr (U of Maryland)
 - Pages: 139–166
 - DOI: https://doi.org/10.1257/jep.20251457
@@ -126,6 +133,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### Occupational Licensing in the United States
+- Type: Symposium
 - Authors: Janna E. Johnson (U of Minnesota Twin Cities)
 - Pages: 167–190
 - DOI: https://doi.org/10.1257/jep.20251458
@@ -138,6 +146,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### Asian Immigration to the United States in Historical Perspective
+- Type: Symposium
 - Authors: Hannah M. Postel (Duke U)
 - Pages: 191–214
 - DOI: https://doi.org/10.1257/jep.20251453
@@ -156,6 +165,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### From Asia, with Skills
+- Type: Symposium
 - Authors: Gaurav Khanna (U of California, San Diego)
 - Pages: 215–240
 - DOI: https://doi.org/10.1257/jep.20251454
@@ -172,6 +182,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 ---
 
 ### Recommendations for Further Reading
+- Type: Feature
 - Authors: Timothy Taylor (Macalester College)
 - Pages: 241–248
 - DOI: https://doi.org/10.1257/jep.20251497
