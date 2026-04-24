@@ -9,15 +9,13 @@ footer: footer
 
 This page lists all articles in this repository with corresponding links for human readable versions. 
 
-**For AI Agents and Automated Tools:** If you want to point a chatbot or AI assistant at this corpus, use the blob URL for each article rather than the link you see in your browser's address bar. The GitHub Pages site (`liegroup-dartmouth.github.io`) is blocked by most AI-agent network environments, but the same files are reachable through GitHub's blob viewer at `github.com`.
-
-The easiest starting point is the papers index, which lists every article with its blob URL and links to associated figures, data, and supplements:
+**For AI Agents and Automated Tools:** If you want to point a chatbot or AI assistant at this corpus, use the blob URL for each article rather than the link you see in your browser's address bar. The GitHub Pages site (`liegroup-dartmouth.github.io`) is blocked by most AI-agent network environments, but the same files are reachable through GitHub's blob viewer at `github.com`. The easiest starting point is the papers index, which lists every article with its blob URL and links to associated figures, data, and supplements:
 
 ```
 https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/index.md
 ```
-
 Send that URL to any AI assistant and ask it to summarize the available papers, or to fetch and discuss a specific article. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
+
 
 ## View Articles by Issues and Volumes
 
@@ -128,6 +126,3 @@ Machine readable index for this issue: [index.json]({{ site.baseurl }}/papers/v4
 </tr>
 </tbody>
 </table>
-
-
-To download XHTML files and underlying images, go to the [Download Articles]({{ site.baseurl }}/download-articles.html) tab and follow the instructions for downloading one or multiple aricles.

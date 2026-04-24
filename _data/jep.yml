@@ -8,6 +8,8 @@ entries:
           jurl: /index.html
         - title: View Articles
           jurl: /view-articles.html
+        - title: AI Access
+          jurl: /ai-access.html
         - title: Download Articles
           jurl: /download-articles.html
     - title: "Vol. 40, No. 1 (Winter 2026)"
