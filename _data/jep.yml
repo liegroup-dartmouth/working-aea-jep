@@ -5,7 +5,7 @@ entries:
     - title: Getting Started
       folderitems:
         - title: About This Site
-          jurl: /index.html
+          jurl: /about.html
         - title: View Articles
           jurl: /view-articles.html
         - title: AI Access
