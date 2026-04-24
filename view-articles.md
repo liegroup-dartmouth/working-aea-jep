@@ -17,6 +17,8 @@ https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/index
 Send that URL to any AI assistant and ask it to summarize the available papers, or to fetch and discuss a specific article. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
 
 
+
+
 ## View Articles by Issues and Volumes
 
 **Publisher:** American Economic Association \| **ISSN:** 0895-3309
