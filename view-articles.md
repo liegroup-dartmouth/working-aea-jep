@@ -21,7 +21,8 @@ Send that URL to any AI assistant and ask it to summarize the available papers, 
 
 ## View Articles by Issues and Volumes
 
-Machine readable index: [manifesto.json]({{ site.baseurl }}/papers/manifesto.json)
+Structured index: [manifesto.json]({{ site.baseurl }}/papers/manifesto.json)
+
 **Publisher:** American Economic Association \| **ISSN:** 0895-3309
 
 ### Vol. 40, No. 1 — Winter 2026

@@ -33,5 +33,3 @@ If you are building a pipeline that ingests JEP articles, the structured index i
 ```
 https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manifest.json
 ```
-
-The manifest provides the same information in JSON with fields for `issue`, `title`, `authors`, `paper_url`, `figures`, `data_files`, and `supplements`.
