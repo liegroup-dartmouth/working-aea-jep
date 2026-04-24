@@ -26,8 +26,7 @@ Note that an agent can read:
 But an agent cannot read image bytes. GitHub delivers image files through hosts outside the typical agent allow-list. Figure captions in the XHTML are written to carry the interpretive content (axes, units, principal finding) so that a text-only agent can understand each figure without seeing it.
 
 
-
-### * For developers and researchers
+**For developers and researchers:**
 
 If you are building a pipeline that ingests JEP articles, the structured index is available alongside the Markdown index:
 

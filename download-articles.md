@@ -152,30 +152,3 @@ http://localhost:8000/geruso-spears/paper.xhtml
 ```
 
 All CSS, fonts, and images will resolve correctly through the server.
-
-### Method C: View via GitHub Pages (no download needed)
-
-Go back to the [View Articles]({{ site.baseurl }}/view-articles.html) tab or try constructing a URL following the folder path:
-
-```
-https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/geruso-spears
-```
-
----
-
-**Vol. 40, No. 1 — Winter 2026**
-
-| Title | Authors | Citation & DOI | GitHub Folder |
-|-------|---------|----------------|---------|
-| Front Matter | | [Vol. 40, No. 1, pp. 1–6, Winter 2026](https://doi.org/10.1257/jep.40.1.1) | [front-matter](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/front-matter) |
-| The Likelihood of Persistently Low Global Fertility | Michael Geruso<br>Dean Spears | [Vol. 40, No. 1, pp. 3–26, Winter 2026](https://doi.org/10.1257/jep.20251463) | [geruso-spears](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/geruso-spears) |
-| How Much Would Continued Low Fertility Affect the US Standard of Living? | David N. Weil | [Vol. 40, No. 1, pp. 27–46, Winter 2026](https://doi.org/10.1257/jep.20251462) | [weil](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/weil) |
-| Family Institutions and the Global Fertility Transition | Paula E. Gobbi<br>Anne Hannusch<br>Pauline Rossi | [Vol. 40, No. 1, pp. 47–70, Winter 2026](https://doi.org/10.1257/jep.20251460) | [gobbi-hannusch-rossi](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/gobbi-hannusch-rossi) |
-| Global Labor Mobility between Shrinking and Growing Labor Forces | Lant Pritchett | [Vol. 40, No. 1, pp. 71–92, Winter 2026](https://doi.org/10.1257/jep.20251461) | [pritchett](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/pritchett) |
-| Labor Market Power: From Micro Evidence to Macro Consequences | David Berger<br>Kyle Herkenhoff<br>Simon Mongey | [Vol. 40, No. 1, pp. 93–114, Winter 2026](https://doi.org/10.1257/jep.20251456) | [berger-herkenhoff-mongey](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/berger-herkenhoff-mongey) |
-| Antitrust Enforcement in Labor Markets | Elena Prager | [Vol. 40, No. 1, pp. 115–138, Winter 2026](https://doi.org/10.1257/jep.20241446) | [prager](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/prager) |
-| The Economics of Noncompete Clauses | Evan Starr | [Vol. 40, No. 1, pp. 139–166, Winter 2026](https://doi.org/10.1257/jep.20251457) | [starr](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/starr) |
-| Occupational Licensing in the United States | Janna E. Johnson | [Vol. 40, No. 1, pp. 167–190, Winter 2026](https://doi.org/10.1257/jep.20251458) | [johnson](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/johnson) |
-| Asian Immigration to the United States in Historical Perspective | Hannah M. Postel | [Vol. 40, No. 1, pp. 191–214, Winter 2026](https://doi.org/10.1257/jep.20251453) | [postel](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/postel) |
-| From Asia, with Skills | Gaurav Khanna | [Vol. 40, No. 1, pp. 215–240, Winter 2026](https://doi.org/10.1257/jep.20251454) | [khanna](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/khanna) |
-| Recommendations for Further Reading | Timothy Taylor | [Vol. 40, No. 1, pp. 241–248, Winter 2026](https://doi.org/10.1257/jep.20251497) | [taylor](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages/papers/v40n1/taylor) |
