@@ -57,7 +57,7 @@ defaults:
 ############# Breadcrumb ############
 breadcrumb_display: true
 breadcrumb_home_display: true
-breadcrumb_home_url: /
+breadcrumb_home_url: /working-aea-jep/index.html
 breadcrumb_home_name: Home
 
 ########## MARKDOWN PROCESS AND FILTER ##########
