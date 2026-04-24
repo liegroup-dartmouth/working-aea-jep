@@ -29,9 +29,10 @@ exclude:
   - Gemfile.lock
   - serve_*.sh
   - build_*.sh
+  - .DS_Store
 
-include:
-  - v40n1
+# Note: the `papers/` directory is not underscore-prefixed, so Jekyll
+# includes it by default. No explicit `include:` entry is needed.
 
 ############# IMAGE PATHS #############
 image_path: images

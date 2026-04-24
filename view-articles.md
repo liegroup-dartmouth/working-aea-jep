@@ -21,7 +21,7 @@ Send that URL to any AI assistant and ask it to summarize the available papers, 
 
 ## View Articles by Issues and Volumes
 
-Structured index: [manifesto.json]({{ site.baseurl }}/papers/manifesto.json)
+Structured index: [manifest.json]({{ site.baseurl }}/papers/manifest.json)
 
 **Publisher:** American Economic Association \| **ISSN:** 0895-3309
 

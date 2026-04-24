@@ -1,0 +1,15 @@
+# robots.txt — Journal of Economic Perspectives, LLM-friendly companion files
+# Repository: https://github.com/liegroup-dartmouth/working-aea-jep
+#
+# All content on this site is intended to be publicly readable by search
+# engines, automated agents, and AI models. The canonical programmatic
+# entry point for AI agents is papers/manifest.json (see llms.txt).
+
+User-agent: *
+Allow: /
+
+# Emerging LLM discovery convention
+# https://llmstxt.org
+# See: https://liegroup-dartmouth.github.io/working-aea-jep/llms.txt
+
+Sitemap: https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml
