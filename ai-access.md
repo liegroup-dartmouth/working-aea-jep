@@ -25,7 +25,9 @@ Note that an agent can read:
 
 But an agent cannot read image bytes. GitHub delivers image files through hosts outside the typical agent allow-list. Figure captions in the XHTML are written to carry the interpretive content (axes, units, principal finding) so that a text-only agent can understand each figure without seeing it.
 
-## For developers and researchers
+
+
+### * For developers and researchers
 
 If you are building a pipeline that ingests JEP articles, the structured index is available alongside the Markdown index:
 
@@ -33,4 +35,4 @@ If you are building a pipeline that ingests JEP articles, the structured index i
 https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manifest.json
 ```
 
-The manifest provides the same information in JSON with fields for `volume`, `issue`, `slug`, `title`, `authors`, `paper_url`, `figures`, `data_files`, and `supplements`.
+The manifest provides the same information in JSON with fields for `issue`, `title`, `authors`, `paper_url`, `figures`, `data_files`, and `supplements`.

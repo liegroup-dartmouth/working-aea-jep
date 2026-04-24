@@ -120,12 +120,7 @@ Publisher: American Economic Association | ISSN: 0895-3309
 - DOI: https://doi.org/10.1257/jep.20251457
 - Abstract: https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/abstract.html
 - Paper (XHTML): https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/paper.xhtml
-- Figures:
-  - https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/image/33.jpg
-  - https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/image/34.jpg
-  - https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/image/35.jpg
-  - https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/image/36.jpg
-  - https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/image/37.jpg
+- Figures: none
 - Miniabstract: Recent empirical evidence shows that noncompete clauses—often applied well beyond roles involving trade secrets—reduce worker mobility, wages, innovation, and entrepreneurship, while less restrictive alternatives can adequately protect firm interests.
 
 ---
