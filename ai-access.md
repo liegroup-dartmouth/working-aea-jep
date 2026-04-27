@@ -25,20 +25,14 @@ Fetch the manifest first. Use the `title`, `miniabstract`, and `symposium_name` 
 
 ### Manifest structure
 
-The manifest contains a top-level `base_urls` object with two keys:
+Each article entry contains fully-qualified URLs in two parallel sets of fields — no base URL prepending is required:
 
-```json
-"base_urls": {
-  "pages": "https://liegroup-dartmouth.github.io/working-aea-jep/",
-  "blob":  "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/"
-}
-```
+- `abstract_url_pages` / `abstract_url_blob` — abstract HTML file
+- `paper_url_pages` / `paper_url_blob` — full-text XHTML file
+- `figures_url_pages` / `figures_url_blob` — array of figure image URLs
+- `data_files_url_pages` / `data_files_url_blob` — array of CSV data file URLs
 
-All per-article URL fields (`abstract_url`, `paper_url`, `figures_url`, `data_files_url`) store **bare paths** — prepend the appropriate base to form a full URL. Use `base_urls.blob` for agent access; use `base_urls.pages` for browser-facing links. For example:
-
-```
-full_url = base_urls.blob + article.paper_url
-```
+The `_pages` fields use the GitHub Pages host (`liegroup-dartmouth.github.io`); the `_blob` fields use the GitHub blob viewer (`github.com/…/blob/…`). Use `_blob` URLs for agent access; use `_pages` URLs for browser-facing links.
 
 ---
 
@@ -54,16 +48,15 @@ See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agent
 ## Recommended Access Workflow
 
 1. Fetch the manifest via its blob URL (above).
-2. Read `base_urls.blob` from the manifest — this is the base to prepend to all path fields.
-3. Filter articles by `symposium_name` and/or read `miniabstract` fields to identify relevant papers.
-4. Optionally fetch individual `abstract_url` paths (prepend `base_urls.blob`) for deeper filtering before committing to full-text reads.
-5. Fetch `paper_url` (prepend `base_urls.blob`) for each relevant article's full text.
+2. Filter articles by `symposium_name` and/or read `miniabstract` fields to identify relevant papers.
+3. Optionally fetch individual `abstract_url_blob` values for deeper filtering before committing to full-text reads.
+4. Fetch `paper_url_blob` for each relevant article's full text.
 
 ---
 
 ## What an Agent Can Read
 
-- **Manifest** (`papers/manifest.json`) — All articles, miniabstracts, symposium names, DOIs, and per-article resource URLs. ~8 KB; fits inline.
+- **Manifest** (`papers/manifest.json`) — All articles, miniabstracts, symposium names, DOIs, and per-article resource URLs. ~24 KB; fits inline.
 - **Full article text** — Title, authors, abstract, all sections, footnotes, and figure captions are embedded in each `paper.xhtml` and readable via its blob URL. Files are large (70–96 KB); subagent dispatch may be needed.
 - **Abstracts** — Each article has a small `abstract.html` file (linked from the manifest) that fits within a single call.
 - **CSV and other data files** — Rendered inline in the blob view; data is extractable cleanly.
@@ -84,6 +77,6 @@ But an agent usually cannot read image bytes. GitHub delivers image files throug
 
 ## For Developers and Researchers
 
-If you are building a pipeline that ingests JEP articles, use the manifest as your structured index. The `paper_url`, `abstract_url`, `figures_url`, and `data_files_url` fields in each article entry store bare paths. Prepend `base_urls.blob` to obtain blob URLs that are reliably reachable without allowlist configuration, or `base_urls.pages` for GitHub Pages URLs.
+If you are building a pipeline that ingests JEP articles, use the manifest as your structured index. Each article entry contains fully-qualified `_pages` and `_blob` URLs for all resources — no string concatenation needed. Use the `_blob` variants for programmatic access; use `_pages` variants for browser-facing links.
 
 Human visitors can browse articles via the [View Articles]({{ site.baseurl }}/view-articles.html) tab. For information about this site, see [About]({{ site.baseurl }}/about.html).
