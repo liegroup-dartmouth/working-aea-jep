@@ -23,6 +23,23 @@ https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manif
 
 Fetch the manifest first. Use the `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text.
 
+### Manifest structure
+
+The manifest contains a top-level `base_urls` object with two keys:
+
+```json
+"base_urls": {
+  "pages": "https://liegroup-dartmouth.github.io/working-aea-jep/",
+  "blob":  "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/"
+}
+```
+
+All per-article URL fields (`abstract_url`, `paper_url`, `figures_url`, `data_files_url`) store **bare paths** — prepend the appropriate base to form a full URL. Use `base_urls.blob` for agent access; use `base_urls.pages` for browser-facing links. For example:
+
+```
+full_url = base_urls.blob + article.paper_url
+```
+
 ---
 
 ## Why Use the Manifest First
@@ -37,9 +54,10 @@ See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agent
 ## Recommended Access Workflow
 
 1. Fetch the manifest via its blob URL (above).
-2. Filter articles by `symposium_name` and/or read `miniabstract` fields to identify relevant papers.
-3. Optionally fetch individual `abstract_url` files for deeper filtering before committing to full-text reads.
-4. Fetch `paper_url` (blob URL) for each relevant article's full text.
+2. Read `base_urls.blob` from the manifest — this is the base to prepend to all path fields.
+3. Filter articles by `symposium_name` and/or read `miniabstract` fields to identify relevant papers.
+4. Optionally fetch individual `abstract_url` paths (prepend `base_urls.blob`) for deeper filtering before committing to full-text reads.
+5. Fetch `paper_url` (prepend `base_urls.blob`) for each relevant article's full text.
 
 ---
 
@@ -66,6 +84,6 @@ But an agent usually cannot read image bytes. GitHub delivers image files throug
 
 ## For Developers and Researchers
 
-If you are building a pipeline that ingests JEP articles, use the manifest as your structured index. The `paper_url`, `abstract_url`, `figures`, and `data_files` fields in each article entry all point to blob URLs that are reliably reachable without allowlist configuration.
+If you are building a pipeline that ingests JEP articles, use the manifest as your structured index. The `paper_url`, `abstract_url`, `figures_url`, and `data_files_url` fields in each article entry store bare paths. Prepend `base_urls.blob` to obtain blob URLs that are reliably reachable without allowlist configuration, or `base_urls.pages` for GitHub Pages URLs.
 
 Human visitors can browse articles via the [View Articles]({{ site.baseurl }}/view-articles.html) tab. For information about this site, see [About]({{ site.baseurl }}/about.html).
