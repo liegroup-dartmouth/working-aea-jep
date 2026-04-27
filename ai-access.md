@@ -9,21 +9,16 @@ This is the primary entry point for AI agents accessing this site. Start here be
 
 ## Start Here: Article Manifest
 
-The structured article manifest lists every article with its title, authors, miniabstract, DOI, article type, symposium, and direct URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 8 KB and fits within a single response.
-
-**GitHub blob URL** (recommended, reachable from most agent network environments):
-```
-https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manifest.json
-```
+The structured article manifest lists every article with its title, authors, miniabstract, DOI, article type, symposium, and direct URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 11 KB and fits within a single response.
 
 **GitHub Pages URL** (use if reachable):
 ```
 https://liegroup-dartmouth.github.io/working-aea-jep/papers/manifest.json
 ```
 
-A human-readable Markdown version of the same catalog:
+**GitHub blob URL** (recommended, reachable from most agent network environments):
 ```
-https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/index.md
+https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manifest.json
 ```
 
 Fetch the manifest first. Use the `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text.
