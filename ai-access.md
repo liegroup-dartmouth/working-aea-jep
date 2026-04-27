@@ -54,7 +54,7 @@ But an agent usually cannot read image bytes. GitHub delivers image files throug
 
 ---
 
-## Additional Metadata for an AI model
+## Additional Resources for AI Agents
 
 | File | Blob URL | Site URL |
 |------|----------|----------|

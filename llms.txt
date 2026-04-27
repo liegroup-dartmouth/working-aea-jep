@@ -6,7 +6,7 @@
 
 ## Primary entry points
 
-- [papers/manifest.json](https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manifest.json): structured JSON catalog of every issue and article — title, authors, pages, DOI, mini-abstract, and blob URLs for the abstract, full-text XHTML, figures, and associated data files. Use this for programmatic ingestion.
+- [papers/manifest.json](https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manifest.json): structured JSON catalog of every issue and article — title, authors, pages, DOI, mini-abstract, and URLs (with a Blob base URL or a GitHub Page base URL) for the abstract, full-text XHTML, figures, and associated data files. Use this for programmatic ingestion.
 - [papers/index.md](https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/index.md): human-readable Markdown catalog of the same content. Useful when a model prefers prose to JSON.
 
 ## Per-article content
