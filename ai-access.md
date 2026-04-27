@@ -59,6 +59,16 @@ But an agent usually cannot read image bytes. GitHub delivers image files throug
 
 ---
 
+## Additional Metadata for an AI model
+
+| File | Blob URL | Site URL |
+|------|----------|----------|
+| `robots.txt` | https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/robots.txt | https://liegroup-dartmouth.github.io/working-aea-jep/robots.txt |
+| `llms.txt` | https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/llms.txt | https://liegroup-dartmouth.github.io/working-aea-jep/llms.txt |
+| `sitemap.xml` | https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/sitemap.xml | https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml |
+
+---
+
 ## For Developers and Researchers
 
 If you are building a pipeline that ingests JEP articles, use the manifest as your structured index. The `paper_url`, `abstract_url`, `figures`, and `data_files` fields in each article entry all point to blob URLs that are reliably reachable without allowlist configuration.

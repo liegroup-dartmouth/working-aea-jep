@@ -15,7 +15,7 @@ footer: footer
 
 
 
-These instructions explain how to download XHTML papers, their associated images, and styling files from the [working-aea-jep](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages) GitHub repository, and how to view them locally on your computer.
+These instructions explain how to download XHTML papers, their associated images, and style files from the [working-aea-jep](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages) GitHub repository, and how to view them locally on your computer. These are intented for humans as an AI assistant may encounter issues in accessing this URLs; navigate to [AI Access]({{ site.baseurl }}/ai-access.html) for more information.
 
 ---
 
@@ -30,42 +30,25 @@ papers/
     ├── geruso-spears/          # One paper (named by authors)
     │   ├── paper.xhtml
     │   └── image/
-    │       ├── figure1.png
-    │       └── figure2.png
-    └── weil/
-        ├── paper.xhtml
-        └── image/
-```
+    │       ├── 1.jpg
+    │       └── 2.jpg
+    └── ...
 
 Each `paper.xhtml` references its images via a relative path like `image/X.jpg` and the shared styles via a path like `../utils/css/`. Your local folder structure must preserve these relative paths for everything to display correctly.
 
 ---
 
-## Option 1: Download a Single Paper (Manual Method)
+**Option 1: Download a Single Paper (Manual Method)**
 
-### Step 1: Navigate to the paper
+1. Navigate to the paper. Go to the repository at https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages. Browse into the issue folder (e.g., `papers/v40n1`), then into the author folder (e.g., `geruso-spears`). You will see `paper.xhtml` and an `images` folder.
 
-Go to the repository at:
-
-```
-https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages
-```
-
-Browse into the issue folder (e.g., `papers/v40n1`), then into the author folder (e.g., `geruso-spears`). You will see `paper.xhtml` and an `images` folder.
-
-### Step 2: Download `paper.xhtml`
-
-Click on `paper.xhtml`, then click the Raw or Download icon. Make sure the file saves with the `.xhtml` extension. Some browsers may try to change it to `.xml` or `.html`, correct this if needed.
-
-Create a local folder and save the file into it:
+2. Download `paper.xhtml`: Click on `paper.xhtml`, then click the Raw or Download icon. Make sure the file saves with the `.xhtml` extension. Some browsers may try to change it to `.xml` or `.html`, correct this if needed. Create a local folder and save the file into it:
 
 ```
 your_path/v40n1/geruso-spears/paper.xhtml
 ```
 
-### Step 3: Download the images
-
-Go back and click into the `image` folder. Download each image file individually: click the file, hit Raw or Download, and save into a matching subfolder:
+3. Download the images: Go back and click into the `image` folder. Download each image file individually: click the file, hit Raw or Download, and save into a matching subfolder:
 
 ```
 your_path/v40n1/geruso-spears/image/
@@ -73,7 +56,7 @@ your_path/v40n1/geruso-spears/image/
 
 Do not rename any files. The filenames must match exactly what the XHTML references.
 
-### Step 4: Download the utils folder (optional, for proper styling)
+4. Download the utils folder (optional, for proper styling)
 
 Go up to the issue-level folder (e.g., `papers/v40n1/utils`). Download the CSS files and any font files the same way, saving them into:
 
