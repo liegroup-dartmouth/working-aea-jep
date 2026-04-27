@@ -16,16 +16,12 @@ https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manif
 ```
 Send that URL to any AI assistant and ask it to summarize the available papers, or to fetch and discuss a specific article. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
 
-Alternatively, this is a human-readable Markdown version of the same catalog:
-```
-https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/index.md
-```
-
 
 ## View Articles by Issues and Volumes
 
 This table contains URLs of all papers with a machine readable version and it is intended for humans as the hyperlink will only direct you within the website which may not be suited for AI assistants. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on how to best direct an AI query.
 
+See indexable [Article Manifest]({{ site.baseurl }}/papers/manifest.json) and use `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text.
 
 **Publisher:** American Economic Association \| **ISSN:** 0895-3309
 
