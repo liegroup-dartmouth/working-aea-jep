@@ -20,6 +20,7 @@
     {
       "title": "The Likelihood of Persistently Low Global Fertility",
       "type": "Symposium",
+      "symposium_name": "Fertility",
       "authors": [
         "Michael Geruso (U of Texas at Austin)",
         "Dean Spears (U of Texas at Austin and IZA, Bonn)"
@@ -53,6 +54,7 @@
     {
       "title": "How Much Would Continued Low Fertility Affect the US Standard of Living?",
       "type": "Symposium",
+      "symposium_name": "Fertility",
       "authors": [
         "David N. Weil (Brown U)"
       ],
@@ -73,6 +75,7 @@
     {
       "title": "Family Institutions and the Global Fertility Transition",
       "type": "Symposium",
+      "symposium_name": "Fertility",
       "authors": [
         "Paula E. Gobbi (Universite Libre de Bruxelles)",
         "Anne Hannusch (U of Bonn)",
@@ -94,6 +97,7 @@
     {
       "title": "Global Labor Mobility between Shrinking and Growing Labor Forces",
       "type": "Symposium",
+      "symposium_name": "Fertility",
       "authors": [
         "Lant Pritchett (London School of Economics and Political Science)"
       ],
@@ -112,6 +116,7 @@
     {
       "title": "Labor Market Power: From Micro Evidence to Macro Consequences",
       "type": "Symposium",
+      "symposium_name": "Labor Markets",
       "authors": [
         "David Berger (Duke U)",
         "Kyle Herkenhoff (U of Minnesota Twin Cities)",
@@ -131,6 +136,7 @@
     {
       "title": "Antitrust Enforcement in Labor Markets",
       "type": "Symposium",
+      "symposium_name": "Labor Markets",
       "authors": [
         "Elena Prager (U of Rochester)"
       ],
@@ -148,6 +154,7 @@
     {
       "title": "The Economics of Noncompete Clauses",
       "type": "Symposium",
+      "symposium_name": "Labor Markets",
       "authors": [
         "Evan Starr (U of Maryland)"
       ],
@@ -162,6 +169,7 @@
     {
       "title": "Occupational Licensing in the United States",
       "type": "Symposium",
+      "symposium_name": "Labor Markets",
       "authors": [
         "Janna E. Johnson (U of Minnesota Twin Cities)"
       ],
@@ -178,6 +186,7 @@
     {
       "title": "Asian Immigration to the United States in Historical Perspective",
       "type": "Symposium",
+      "symposium_name": "Asian Immigration",
       "authors": [
         "Hannah M. Postel (Duke U)"
       ],
@@ -200,6 +209,7 @@
     {
       "title": "From Asia, with Skills",
       "type": "Symposium",
+      "symposium_name": "Asian Immigration",
       "authors": [
         "Gaurav Khanna (U of California, San Diego)"
       ],
