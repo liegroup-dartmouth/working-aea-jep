@@ -19,7 +19,7 @@ These instructions explain how to download XHTML papers, their associated images
 
 ---
 
-## Repository Structure
+**Repository Structure**
 
 ```
 papers/
@@ -33,6 +33,7 @@ papers/
     │       ├── 1.jpg
     │       └── 2.jpg
     └── ...
+```
 
 Each `paper.xhtml` references its images via a relative path like `image/X.jpg` and the shared styles via a path like `../utils/css/`. Your local folder structure must preserve these relative paths for everything to display correctly.
 
@@ -48,90 +49,24 @@ Each `paper.xhtml` references its images via a relative path like `image/X.jpg` 
 your_path/v40n1/geruso-spears/paper.xhtml
 ```
 
-3. Download the images: Go back and click into the `image` folder. Download each image file individually: click the file, hit Raw or Download, and save into a matching subfolder:
+3. Download the images: Go back and click into the `image` folder. Download each image file individually: click the file, hit Raw or Download, and save into a matching subfolder. Do not rename any files. The filenames must match exactly what the XHTML references.
 
 ```
 your_path/v40n1/geruso-spears/image/
 ```
 
-Do not rename any files. The filenames must match exactly what the XHTML references.
-
-4. Download the utils folder (optional, for proper styling)
-
-Go up to the issue-level folder (e.g., `papers/v40n1/utils`). Download the CSS files and any font files the same way, saving them into:
+4. Download the utils folder (optional, for proper styling). Go up to the issue-level folder (e.g., `papers/v40n1/utils`). Download the CSS files and any font files the same way, saving them into a utils subfolder. The `paper.xhtml` file typically references styles via `../utils/style.css`, so the `utils` folder must sit *alongside* the author folder, not inside it:
 
 ```
 your_path/v40n1/utils/
 ```
 
-The `paper.xhtml` file typically references styles via `../utils/style.css`, so the `utils` folder must sit *alongside* the author folder, not inside it:
-
-```
-v40n1/
-├── geruso-spears/
-│   ├── paper.xhtml
-│   └── images/
-│       ├── figure1.png
-│       └── figure2.png
-└── utils/
-    ├── style.css
-    └── fonts/
-```
-
 ---
 
-## Option 2: Clone or Download the Entire Repository
+**Option 2: Clone or Download the Entire Repository**
 
-This is the easiest approach if you want access to multiple papers.
-
-### Using Git
+This is the easiest approach if you want access to multiple papers. Use Git to clone the repository using the terminal input below or (without Git) download the repository as a zipfile.
 
 ```bash
 git clone --branch gh-pages --single-branch https://github.com/liegroup-dartmouth/working-aea-jep.git
 ```
-
-All papers will be in `working-aea-jep/papers/`.
-
-### Without Git (ZIP download)
-
-1. Go to the repository page.
-2. Make sure you are on the **gh-pages** branch (check the branch dropdown near the top-left).
-3. Click the green **Code** button, then **Download ZIP**.
-4. Extract the ZIP anywhere on your computer.
-
----
-
-## Viewing the Paper Locally
-
-### Method A: Open directly in a browser
-
-Right click on `paper.xhtml`, select Open With, and choose your browser. Chrome, Firefox, Edge, and Safari all support XHTML. If your local folder structure matches the relative paths described above, images and CSS should load automatically. 
-
-**Note:** Some browsers or devices may have restrictions on what subfolders they can access when a file is opened via a `file://` URI. Browsers enforce varying levels of a security policy that can prevent a locally opened file from loading resources (images, CSS, fonts) in parent or sibling directories. For example, Chrome on some platforms blocks `file://` cross-directory requests by default, while Firefox is generally more permissive. If images or styles are not loading, try a different browser or use Method B below.
-
-
-### Method B: Use a local HTTP server
-
-Some browsers restrict local file access for security reasons. If images or styles fail to load, start a simple local server from the folder that contains both the author folder and the `utils` folder.
-
-**Python 3:**
-
-```bash
-cd your_path/v40n1/
-python3 -m http.server 8000
-```
-
-**Node.js:**
-
-```bash
-cd your_path/v40n1/
-npx serve .
-```
-
-Then open your browser to:
-
-```
-http://localhost:8000/geruso-spears/paper.xhtml
-```
-
-All CSS, fonts, and images will resolve correctly through the server.
