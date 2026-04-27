@@ -9,19 +9,23 @@ footer: footer
 
 This page lists all articles in this repository with corresponding links for human readable versions. 
 
-**For AI Agents and Automated Tools:** If you want to point a chatbot or AI assistant at this corpus, use the blob URL for each article rather than the link you see in your browser's address bar. The GitHub Pages site (`liegroup-dartmouth.github.io`) is blocked by most AI-agent network environments, but the same files are reachable through GitHub's blob viewer at `github.com`. The easiest starting point is the papers index, which lists every article with its blob URL and links to associated figures, data, and supplements:
+**For AI Agents and Automated Tools:** If you want to point a chatbot or AI assistant at this corpus, use the blob URL for each article rather than the link you see in your browser's address bar. The GitHub Pages site (`liegroup-dartmouth.github.io`) is blocked by most AI-agent network environments, but the same files are reachable through GitHub's blob viewer at `github.com`. The easiest starting point is the manifest.json file, which lists every article with its blob URL and links to associated figures, data, and supplements:
 
 ```
-https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/index.md
+https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manifest.json
 ```
 Send that URL to any AI assistant and ask it to summarize the available papers, or to fetch and discuss a specific article. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
 
-
+Alternatively, this is a human-readable Markdown version of the same catalog:
+```
+https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/index.md
+```
 
 
 ## View Articles by Issues and Volumes
 
-Structured index: [manifest.json]({{ site.baseurl }}/papers/manifest.json)
+This table contains URLs of all papers with a machine readable version and it is intended for humans as the hyperlink will only direct you within the website which may not be suited for AI assistants. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on how to best direct an AI query.
+
 
 **Publisher:** American Economic Association \| **ISSN:** 0895-3309
 
