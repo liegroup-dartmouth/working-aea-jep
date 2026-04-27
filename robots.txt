@@ -2,14 +2,43 @@
 # Repository: https://github.com/liegroup-dartmouth/working-aea-jep
 #
 # All content on this site is intended to be publicly readable by search
-# engines, automated agents, and AI models. The canonical programmatic
-# entry point for AI agents is papers/manifest.json (see llms.txt).
+# engines, automated agents, and AI models.
 
 User-agent: *
 Allow: /
 
-# Emerging LLM discovery convention
-# https://llmstxt.org
-# See: https://liegroup-dartmouth.github.io/working-aea-jep/llms.txt
-
 Sitemap: https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml
+
+# ---------------------------------------------------------------------------
+# FOR AI AGENTS
+# ---------------------------------------------------------------------------
+# Most agent network environments block *.github.io. Use the GitHub blob URLs
+# below — they are universally reachable and serve the same content.
+#
+# Start here — structured article manifest (titles, authors, miniabstracts,
+# symposium names, DOIs, and direct links to every article and data file):
+#   https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manifest.json
+#
+# Full access guide and recommended workflow for agents:
+#   https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/ai-access.md
+#
+# Human-readable Markdown index of all articles:
+#   https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/index.md
+#
+# LLM guidance file (llms.txt convention):
+#   https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/llms.txt
+
+# ---------------------------------------------------------------------------
+# FOR HUMAN VISITORS
+# ---------------------------------------------------------------------------
+# Use the canonical GitHub Pages URLs below. These render with full site
+# navigation and are not reliably reachable by most AI agent environments.
+#
+# AI Access guide (home page):
+#   https://liegroup-dartmouth.github.io/working-aea-jep/
+#
+# Article manifest (JSON):
+#   https://liegroup-dartmouth.github.io/working-aea-jep/papers/manifest.json
+#
+# Browse articles:
+#   https://liegroup-dartmouth.github.io/working-aea-jep/view-articles.html

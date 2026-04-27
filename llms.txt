@@ -26,4 +26,4 @@ For every article the manifest lists:
 
 ## Optional
 
-- [sitemap.xml](https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml): full list of canonical public URLs.
+- [sitemap.xml](https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml): full list of canonical public URLs. These do not include Blob URLs.
