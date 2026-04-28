@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Geruso & Spears — Underlying Image Data"
+title: "Geruso & Spears: Underlying Image Data"
 ---
-
-## Data Files
 
 Underlying data for Figures and Tables in [Geruso & Spears]({{ site.baseurl }}/papers/v40n1/geruso-spears/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.
 
