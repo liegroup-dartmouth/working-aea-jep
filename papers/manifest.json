@@ -28,21 +28,9 @@
       "pages": "3–26",
       "doi": "https://doi.org/10.1257/jep.20251463",
       "miniabstract": "Global birth rates have fallen below replacement level for two-thirds of the world's population, and evidence from cohort fertility data—showing that low fertility, once established, does not rebound—suggests persistent sub-replacement fertility is the most likely long-run outcome.",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/paper.xhtml",
-      "figures_url_pages": [
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image/1.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image/2.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image/3.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image/4.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image/5.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image/6.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image/7.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image/8.jpg"
-      ],
-      "figures_url_blob": [
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/paper.xhtml",
+      "figures": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image/1.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image/2.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image/3.jpg",
@@ -52,17 +40,7 @@
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image/7.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image/8.jpg"
       ],
-      "data_files_url_pages": [
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/1.csv",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/2.csv",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/3.csv",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/4.csv",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/5.csv",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/6.csv",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/7.csv",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/8.csv"
-      ],
-      "data_files_url_blob": [
+      "data_files": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image-data/1.csv",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image-data/2.csv",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image-data/3.csv",
@@ -83,26 +61,16 @@
       "pages": "27–46",
       "doi": "https://doi.org/10.1257/jep.20251462",
       "miniabstract": "Sub-replacement fertility is likely to reduce age-adjusted consumption per capita in the United States, but only modestly and after a long adjustment period, with a return to replacement-level fertility actually lowering living standards for several decades.",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/weil/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/weil/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/paper.xhtml",
-      "figures_url_pages": [
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/weil/image/9.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/weil/image/10.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/weil/image/11.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/weil/image/12.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/weil/image/13.jpg"
-      ],
-      "figures_url_blob": [
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/paper.xhtml",
+      "figures": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image/9.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image/10.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image/11.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image/12.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image/13.jpg"
       ],
-      "data_files_url_pages": [],
-      "data_files_url_blob": []
+      "data_files": []
     },
     {
       "title": "Family Institutions and the Global Fertility Transition",
@@ -116,24 +84,15 @@
       "pages": "47–70",
       "doi": "https://doi.org/10.1257/jep.20251460",
       "miniabstract": "Marriage customs, inheritance practices, and the diffusion of cultural norms mediate how economic development translates into fertility decline, explaining why within-country fertility changes over 60 years are only weakly tied to improvements in human capital, GDP, or survival rates.",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/gobbi-hannusch-rossi/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/gobbi-hannusch-rossi/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/paper.xhtml",
-      "figures_url_pages": [
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/gobbi-hannusch-rossi/image/14.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/gobbi-hannusch-rossi/image/15.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/gobbi-hannusch-rossi/image/16.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/gobbi-hannusch-rossi/image/17.jpg"
-      ],
-      "figures_url_blob": [
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/paper.xhtml",
+      "figures": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image/14.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image/15.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image/16.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image/17.jpg"
       ],
-      "data_files_url_pages": [],
-      "data_files_url_blob": []
+      "data_files": []
     },
     {
       "title": "Global Labor Mobility between Shrinking and Growing Labor Forces",
@@ -145,22 +104,14 @@
       "pages": "71–92",
       "doi": "https://doi.org/10.1257/jep.20251461",
       "miniabstract": "Demographic divergence—absolute labor force declines in rich countries versus Africa's 800-million-worker expansion by 2050—creates trillion-dollar potential gains from legal pathways enabling migration from low-productivity, labor-abundant regions to high-productivity, labor-scarce ones.",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/pritchett/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/pritchett/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/paper.xhtml",
-      "figures_url_pages": [
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/pritchett/image/18.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/pritchett/image/19.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/pritchett/image/20.jpg"
-      ],
-      "figures_url_blob": [
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/paper.xhtml",
+      "figures": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/image/18.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/image/19.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/image/20.jpg"
       ],
-      "data_files_url_pages": [],
-      "data_files_url_blob": []
+      "data_files": []
     },
     {
       "title": "Labor Market Power: From Micro Evidence to Macro Consequences",
@@ -174,20 +125,13 @@
       "pages": "93–114",
       "doi": "https://doi.org/10.1257/jep.20251456",
       "miniabstract": "A macro approach that models large employers' strategic wage-setting behavior—calibrated with micro-level policy estimates—reveals how monopsony generates aggregate misallocation and informs optimal minimum wage and antitrust policies.",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/berger-herkenhoff-mongey/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/berger-herkenhoff-mongey/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/berger-herkenhoff-mongey/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/berger-herkenhoff-mongey/paper.xhtml",
-      "figures_url_pages": [
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/berger-herkenhoff-mongey/image/21.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/berger-herkenhoff-mongey/image/22.jpg"
-      ],
-      "figures_url_blob": [
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/berger-herkenhoff-mongey/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/berger-herkenhoff-mongey/paper.xhtml",
+      "figures": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/berger-herkenhoff-mongey/image/21.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/berger-herkenhoff-mongey/image/22.jpg"
       ],
-      "data_files_url_pages": [],
-      "data_files_url_blob": []
+      "data_files": []
     },
     {
       "title": "Antitrust Enforcement in Labor Markets",
@@ -199,20 +143,13 @@
       "pages": "115–138",
       "doi": "https://doi.org/10.1257/jep.20241446",
       "miniabstract": "Antitrust enforcement in labor markets has grown substantially since 2010 as evidence emerged that employer market power frequently stems from actionable conduct, yet key challenges around market definition and concentration modeling still limit its effectiveness.",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/prager/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/prager/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/prager/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/prager/paper.xhtml",
-      "figures_url_pages": [
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/prager/image/23.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/prager/image/24.jpg"
-      ],
-      "figures_url_blob": [
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/prager/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/prager/paper.xhtml",
+      "figures": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/prager/image/23.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/prager/image/24.jpg"
       ],
-      "data_files_url_pages": [],
-      "data_files_url_blob": []
+      "data_files": []
     },
     {
       "title": "The Economics of Noncompete Clauses",
@@ -224,14 +161,10 @@
       "pages": "139–166",
       "doi": "https://doi.org/10.1257/jep.20251457",
       "miniabstract": "Recent empirical evidence shows that noncompete clauses—often applied well beyond roles involving trade secrets—reduce worker mobility, wages, innovation, and entrepreneurship, while less restrictive alternatives can adequately protect firm interests.",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/starr/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/starr/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/paper.xhtml",
-      "figures_url_pages": [],
-      "figures_url_blob": [],
-      "data_files_url_pages": [],
-      "data_files_url_blob": []
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/paper.xhtml",
+      "figures": [],
+      "data_files": []
     },
     {
       "title": "Occupational Licensing in the United States",
@@ -243,18 +176,12 @@
       "pages": "167–190",
       "doi": "https://doi.org/10.1257/jep.20251458",
       "miniabstract": "Occupational licensing, now covering over a fifth of the US workforce, raises wages for incumbents while reducing consumer access and quality, but data limitations and policy heterogeneity hamper reform efforts despite bipartisan interest.",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/johnson/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/johnson/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/johnson/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/johnson/paper.xhtml",
-      "figures_url_pages": [
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/johnson/image/25.jpg"
-      ],
-      "figures_url_blob": [
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/johnson/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/johnson/paper.xhtml",
+      "figures": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/johnson/image/25.jpg"
       ],
-      "data_files_url_pages": [],
-      "data_files_url_blob": []
+      "data_files": []
     },
     {
       "title": "Asian Immigration to the United States in Historical Perspective",
@@ -266,20 +193,9 @@
       "pages": "191–214",
       "doi": "https://doi.org/10.1257/jep.20251453",
       "miniabstract": "US immigration and foreign policy has durably shaped the size, composition, and socioeconomic characteristics of arrivals from China, Japan, India, the Philippines, Korea, and Vietnam, making Asian Americans the fastest-growing immigrant group today.",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/paper.xhtml",
-      "figures_url_pages": [
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/26.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/27.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/28.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/29.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/30.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/31.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/32.jpg"
-      ],
-      "figures_url_blob": [
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/paper.xhtml",
+      "figures": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image/26.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image/27.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image/28.jpg",
@@ -288,8 +204,7 @@
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image/31.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image/32.jpg"
       ],
-      "data_files_url_pages": [],
-      "data_files_url_blob": []
+      "data_files": []
     },
     {
       "title": "From Asia, with Skills",
@@ -301,26 +216,16 @@
       "pages": "215–240",
       "doi": "https://doi.org/10.1257/jep.20251454",
       "miniabstract": "Since 1990, Asian immigrants have supplied over a third of US growth in software developers and a quarter of new scientists, engineers, and physicians, driven by H-1B and student visa demand alongside Asia's educational expansion and diaspora networks, yielding innovation gains in the US and brain-circulation benefits in Asia.",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/khanna/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/khanna/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/paper.xhtml",
-      "figures_url_pages": [
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/khanna/image/33.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/khanna/image/34.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/khanna/image/35.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/khanna/image/36.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/khanna/image/37.jpg"
-      ],
-      "figures_url_blob": [
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/paper.xhtml",
+      "figures": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image/33.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image/34.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image/35.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image/36.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image/37.jpg"
       ],
-      "data_files_url_pages": [],
-      "data_files_url_blob": []
+      "data_files": []
     },
     {
       "title": "Recommendations for Further Reading",
@@ -330,14 +235,10 @@
       ],
       "pages": "241–248",
       "doi": "https://doi.org/10.1257/jep.20251497",
-      "abstract_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/taylor/abstract.html",
-      "abstract_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/taylor/abstract.html",
-      "paper_url_pages": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/taylor/paper.xhtml",
-      "paper_url_blob": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/taylor/paper.xhtml",
-      "figures_url_pages": [],
-      "figures_url_blob": [],
-      "data_files_url_pages": [],
-      "data_files_url_blob": []
+      "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/taylor/abstract.html",
+      "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/taylor/paper.xhtml",
+      "figures": [],
+      "data_files": []
     }
   ]
 }
