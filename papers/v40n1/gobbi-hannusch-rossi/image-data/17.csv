@@ -1,0 +1,59 @@
+Figure Order,Figure 4
+Figure Title,Family Institutions: Marriage Institutions and Inheritance Customs
+Source,Giuliano and Nunn (2018) and World Bank (2025).
+Note,"Time period: 1975–1985 and 2013–2023. We estimate a linear regression of changes in total fertility rate on changes in economic factors (log GDP per capita, secondary school enrollment) and health factors (maternal mortality, child mortality). All variables are averaged over the two decades (1975–1985 and 2013–2023), and changes are computed as differences between these averages. Using the estimated coefficients, we predict changes in total fertility rate and plot them against the observed changes."
+
+Section Header,Marriage institutions across the world
+
+Panel,A
+Panel A Title,Monogamy
+Panel A X-axis Label,Change in TFR
+Panel A X-axis Tick Values,-4; -3; -2; -1; 0; 1
+Panel A Y-axis Label,Predicted change in TFR
+Panel A Y-axis Tick Values,-4; -3; -2; -1; 0; 1
+Panel A R_squared,0.816
+Panel A Reference line,45-degree dashed line (y=x)
+Panel A Legend — East Asia and Pacific,Orange open squares
+Panel A Legend — Latin America and Caribbean,Green filled squares
+Panel A Legend — South Asia,Purple asterisks
+Panel A Legend — Europe and Central Asia,Yellow/gold filled triangles
+Panel A Legend — North America,Purple open triangles
+
+Panel,B
+Panel B Title,Polygamy
+Panel B X-axis Label,Change in TFR
+Panel B X-axis Tick Values,-4; -3; -2; -1; 0; 1
+Panel B Y-axis Label,Predicted change in TFR
+Panel B Y-axis Tick Values,-4; -3; -2; -1; 0; 1
+Panel B R_squared,0.245
+Panel B Reference line,45-degree dashed line (y=x)
+Panel B Legend — East Asia and Pacific,Orange open squares
+Panel B Legend — Latin America and Caribbean,Green filled squares
+Panel B Legend — South Asia,Purple asterisks
+Panel B Legend — Europe and Central Asia,Yellow/gold filled triangles
+Panel B Legend — Sub-Saharan Africa,Blue filled circles
+Panel B Legend — Middle East and North Africa,Pink open circles
+
+Section Header,Inheritance customs in sub-Saharan Africa
+
+Panel,C
+Panel C Title,Partible inheritance
+Panel C X-axis Label,Change in TFR
+Panel C X-axis Tick Values,-4; -3; -2; -1; 0; 1
+Panel C Y-axis Label,Predicted change in TFR
+Panel C Y-axis Tick Values,-4; -3; -2; -1; 0; 1
+Panel C R_squared,0.744
+Panel C Reference line,45-degree dashed line (y=x)
+Panel C Legend,Sub-Saharan Africa (blue filled circles)
+Panel C Description,"Points cluster near the 45-degree line, indicating good model fit for partible-inheritance countries"
+
+Panel,D
+Panel D Title,Impartible inheritance
+Panel D X-axis Label,Change in TFR
+Panel D X-axis Tick Values,-4; -3; -2; -1; 0; 1
+Panel D Y-axis Label,Predicted change in TFR
+Panel D Y-axis Tick Values,-4; -3; -2; -1; 0; 1
+Panel D R_squared,0.35
+Panel D Reference line,45-degree dashed line (y=x)
+Panel D Legend,Sub-Saharan Africa (blue filled circles)
+Panel D Description,"Points show more scatter around 45-degree line compared to Panel C, indicating weaker model fit"

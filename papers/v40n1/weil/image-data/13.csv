@@ -1,0 +1,54 @@
+Figure Order,Figure 4
+Figure Title,Adjusted Support Ratio by UN Fertility Scenario
+Source,United Nations (2025).
+Note,"The projections give population by broad age groups: 0–19, 20–64, and 65+. I apply the average labor income and consumption weights from Figure 2 to these age groups."
+
+X-axis Label,Year
+X-axis Tick Values,1950; 1975; 2000; 2025; 2050; 2075; 2100
+Y-axis Label,Adjusted support ratio
+Y-axis Tick Values,0.50; 0.55; 0.60; 0.65
+
+Legend — Historical data,Solid black line (1950 to 2023)
+Legend — Instant replacement,Orange dashed line (2023 to 2100)
+Legend — Median projection,Cyan/teal dashed line (2023 to 2100)
+
+In-plot annotation,"Open circle marker at year 2023 labelled ""2023"" on the historical data line"
+
+Historical data (approximate values),,
+year,adjusted_support_ratio,series
+1950,0.614,Historical data
+1955,0.605,Historical data
+1960,0.583,Historical data
+1965,0.555,Historical data
+1970,0.548,Historical data
+1975,0.548,Historical data
+1980,0.570,Historical data
+1985,0.602,Historical data
+1990,0.607,Historical data
+1995,0.605,Historical data
+2000,0.618,Historical data
+2005,0.622,Historical data
+2010,0.625,Historical data
+2015,0.618,Historical data
+2020,0.600,Historical data
+2023,0.577,Historical data
+
+UN Projection data (approximate values from 2023 onward),,
+year,adjusted_support_ratio_instant_replacement,adjusted_support_ratio_median
+2023,0.577,0.577
+2025,0.570,0.567
+2030,0.552,0.545
+2035,0.530,0.522
+2040,0.520,0.510
+2045,0.518,0.508
+2050,0.519,0.507
+2055,0.517,0.502
+2060,0.517,0.497
+2065,0.515,0.490
+2070,0.515,0.487
+2075,0.516,0.486
+2080,0.508,0.483
+2085,0.508,0.482
+2090,0.514,0.482
+2095,0.505,0.482
+2100,0.503,0.482

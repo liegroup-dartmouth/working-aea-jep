@@ -1,0 +1,67 @@
+Figure Order,Figure 3
+Figure Title,International Students at US Colleges and Universities
+Source,"Panel A: Author's calculations using Open Doors Data (Institute of International Education). Panel B: Author's calculations using visa data obtained through a FOIA request (USCIS 2017)."
+Note,"Panel A shows international students in the United States, by country of origin (1989–2023). Years represent the start of the academic year. In panel B, numbers represent the sum of all new visas granted during a period. ""CS/Engin"" majors include computer science and engineering, while ""Other STEM"" excludes that category. STEM stands for ""science, technology, engineering, and mathematics."""
+
+Panel,A
+Panel A Title,US enrollment by origin country (1989–2023)
+Panel A X-axis Label,Year
+Panel A X-axis Tick Values,1989; 1991; 1993; 1995; 1997; 1999; 2001; 2003; 2005; 2007; 2009; 2011; 2013; 2015; 2017; 2019; 2021; 2023
+Panel A Y-axis Label,Number of students enrolled
+Panel A Y-axis Tick Values,0; 50000; 100000; 150000; 200000; 250000; 300000; 350000; 400000
+
+Panel A Legend — China,Orange line with filled circles
+Panel A Legend — Japan,Cyan/teal line with filled circles
+Panel A Legend — South Korea,Purple line with filled circles
+Panel A Legend — India,Red line with filled circles
+Panel A Legend — Philippines,Dark teal line with filled circles
+
+Panel A Data (approximate),,,,,
+year,China_enrollment,Japan_enrollment,SouthKorea_enrollment,India_enrollment,Philippines_enrollment
+1989,15000,28000,15000,5000,2000
+1991,18000,35000,17000,6000,2000
+1993,20000,37000,20000,7000,2000
+1995,22000,40000,26000,8000,2000
+1997,24000,42000,33000,9000,2000
+1999,28000,42000,40000,10000,2000
+2001,50000,40000,50000,11000,2000
+2003,65000,35000,62000,12000,2000
+2005,80000,30000,70000,15000,2000
+2007,100000,27000,72000,20000,2000
+2009,120000,25000,74000,30000,2000
+2011,160000,22000,73000,65000,2000
+2013,230000,20000,72000,97000,3000
+2015,300000,19000,65000,130000,3000
+2017,350000,18000,60000,165000,3000
+2019,370000,17000,55000,200000,4000
+2021,290000,15000,48000,165000,5000
+2023,270000,13000,44000,333000,5000
+
+Panel,B
+Panel B Title,Major of study (India and China)
+Panel B X-axis Label,Number of visas (sum of new visas per period)
+Panel B X-axis Tick Values,0; 50000; 100000; 150000
+Panel B Y-axis Label,Major category
+Panel B Y-axis Categories (top to bottom within each time block),Business; CS/engin; Econ/finance; Humanities; Other; Other STEM; Social science
+Panel B Legend — China,Green bars
+Panel B Legend — India,Pink/red bars
+
+Panel B Data — 2004–2009 period,,,
+time_period,major,China_visa_count,India_visa_count
+2004-2009,Business,40000,35000
+2004-2009,CS/engin,35000,105000
+2004-2009,Econ/finance,18000,8000
+2004-2009,Humanities,9000,4000
+2004-2009,Other,12000,5000
+2004-2009,Other STEM,50000,25000
+2004-2009,Social science,6000,3000
+
+Panel B Data — 2010–2015 period,,,
+time_period,major,China_visa_count,India_visa_count
+2010-2015,Business,110000,25000
+2010-2015,CS/engin,95000,162000
+2010-2015,Econ/finance,52000,8000
+2010-2015,Humanities,12000,4000
+2010-2015,Other,30000,6000
+2010-2015,Other STEM,108000,35000
+2010-2015,Social science,28000,5000

@@ -1,0 +1,89 @@
+Figure Order,Figure 1
+Figure Title,Population Pyramids for the United States
+Source,"National Center for Health Statistics (2025), US Census Bureau (2025), and Social Security Administration (2022). Details of the calculations are in Weil (2026)."
+Note,The bars to the left show the male population while bars to the right show the female population.
+
+Chart Type,Population pyramid (horizontal bar chart)
+X-axis Label,Population
+X-axis Tick Values (left/male side),12.5M; 10M; 7.5M; 5M; 2.5M; 0
+X-axis Tick Values (right/female side),0; 2.5M; 5M; 7.5M; 10M; 12.5M
+Y-axis Label,Age
+Y-axis Age Groups,"0-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69, 70-74, 75-79, 80-84, 85-89, 90-94, 95-99, 100+"
+Color — Male bars,Blue
+Color — Female bars,Pink
+
+Pyramid 1 — Year: 1980 (classic pyramid shape — wider at base)
+Pyramid 2 — Year: 2025 (rectangular/columnar shape — baby boom cohorts visible in middle ages)
+Pyramid 3 — Year: 2075 (top-heavy shape — wider at older ages relative to younger ages)
+
+Approximate data — United States 1980 (millions per age group),,,
+year,age_group,male_population_millions,female_population_millions
+1980,0-4,8.6,8.2
+1980,5-9,8.5,8.1
+1980,10-14,9.3,8.9
+1980,15-19,10.7,10.3
+1980,20-24,10.8,10.6
+1980,25-29,10.2,10.1
+1980,30-34,8.7,8.7
+1980,35-39,7.0,7.1
+1980,40-44,6.0,6.2
+1980,45-49,5.9,6.2
+1980,50-54,5.7,6.1
+1980,55-59,5.1,5.7
+1980,60-64,4.4,5.1
+1980,65-69,3.7,4.6
+1980,70-74,2.9,3.8
+1980,75-79,2.0,3.0
+1980,80-84,1.2,2.0
+1980,85-89,0.6,1.2
+1980,90-94,0.2,0.5
+1980,95-99,0.05,0.15
+1980,100+,0.01,0.04
+
+Approximate data — United States 2025 (millions per age group),,,
+year,age_group,male_population_millions,female_population_millions
+2025,0-4,9.5,9.1
+2025,5-9,10.0,9.6
+2025,10-14,10.5,10.0
+2025,15-19,10.7,10.2
+2025,20-24,10.9,10.5
+2025,25-29,11.5,11.1
+2025,30-34,11.2,10.9
+2025,35-39,10.8,10.5
+2025,40-44,10.3,10.1
+2025,45-49,9.8,9.7
+2025,50-54,10.2,10.2
+2025,55-59,10.5,10.6
+2025,60-64,9.8,10.1
+2025,65-69,9.0,9.5
+2025,70-74,8.0,8.7
+2025,75-79,6.0,6.8
+2025,80-84,4.0,4.8
+2025,85-89,2.2,3.0
+2025,90-94,0.9,1.5
+2025,95-99,0.3,0.6
+2025,100+,0.05,0.15
+
+Approximate data — United States 2075 (millions per age group),,,
+year,age_group,male_population_millions,female_population_millions
+2075,0-4,8.5,8.1
+2075,5-9,8.8,8.4
+2075,10-14,9.0,8.6
+2075,15-19,9.2,8.8
+2075,20-24,9.5,9.1
+2075,25-29,9.7,9.3
+2075,30-34,9.8,9.4
+2075,35-39,9.7,9.4
+2075,40-44,9.5,9.2
+2075,45-49,9.2,9.0
+2075,50-54,9.0,8.8
+2075,55-59,8.8,8.7
+2075,60-64,8.5,8.5
+2075,65-69,8.0,8.2
+2075,70-74,7.2,7.6
+2075,75-79,6.0,6.7
+2075,80-84,4.8,5.6
+2075,85-89,3.2,4.0
+2075,90-94,1.8,2.5
+2075,95-99,0.7,1.2
+2075,100+,0.2,0.4

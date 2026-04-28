@@ -1,0 +1,45 @@
+Figure Order,Figure 3
+Figure Title,The Demographic Dividend and the Demographic Debit
+Source,"National Center for Health Statistics (2025), US Census Bureau (2025), and Social Security Administration (2022). Details of the calculations are in Weil (2026)."
+Note,"The graphs show the effect of an immediate jump upward or downward in Total Fertility Rate, starting with a stable population. Simulations are constructed using US age- and sex-specific mortality from 2019 and proportionally scaling age-specific fertility from 2019."
+
+X-axis Label,Time (years)
+X-axis Tick Values,-25; 0; 25; 50; 75; 100
+Y-axis Label,Adjusted support ratio
+Y-axis Tick Values,0.45; 0.50; 0.55; 0.60; 0.65
+
+Legend — TFR 2 to TFR 1,Solid green line (fertility decrease — demographic debit)
+Legend — TFR 1 to TFR 2,Dashed green line (fertility increase — demographic dividend)
+
+Key features,
+Solid line (TFR 2→1): Starts at ~0.570 for time < 0; rises to peak ~0.630 at time ~25 (dividend phase); then falls to trough ~0.483 at time ~65; stabilizes ~0.490 by time 100
+Dashed line (TFR 1→2): Starts at ~0.493 for time < 0; falls to trough ~0.455 at time ~25 (debit phase); then rises to ~0.573 by time ~65; stabilizes ~0.572 by time 100
+
+Data (approximate values),,
+time_years,adjusted_support_ratio_TFR2toTFR1_solid,adjusted_support_ratio_TFR1toTFR2_dashed
+-25,0.570,0.493
+-20,0.570,0.493
+-15,0.570,0.493
+-10,0.570,0.493
+-5,0.570,0.493
+0,0.570,0.493
+5,0.575,0.487
+10,0.585,0.474
+15,0.600,0.463
+20,0.618,0.457
+25,0.630,0.455
+30,0.625,0.458
+35,0.612,0.465
+40,0.596,0.475
+45,0.572,0.490
+50,0.545,0.510
+55,0.518,0.530
+60,0.497,0.548
+65,0.483,0.560
+70,0.484,0.568
+75,0.487,0.572
+80,0.489,0.573
+85,0.490,0.572
+90,0.490,0.572
+95,0.490,0.572
+100,0.490,0.572

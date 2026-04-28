@@ -1,0 +1,24 @@
+Figure Order,Figure 5
+Figure Title,"Asian Immigrant Residence Concentration in Gateways, 1960–2023"
+Source,"US Census 1960–2000, American Community Survey 2023. The primary gateways for Asian migration are Los Angeles, New York, and San Francisco, which are measured here as consistent 2020 Metropolitan Statistical Areas."
+Note,"This figure shows Asian immigrant concentration in major ""gateway"" communities from 1960–2023."
+
+X-axis Label,Year
+X-axis Tick Values,1960; 1970; 1980; 1990; 2000; 2010; 2023
+Y-axis Label,Share living in gateways (percent)
+Y-axis Tick Values,0; 10; 20; 30; 40; 50; 60
+
+Legend — China,Blue line with diamond markers
+Legend — Korea,Cyan/light blue line with circle markers
+Legend — Philippines,Green line with square markers
+Legend — Other Asian,Gray line with triangle markers
+Legend — Vietnam,Yellow/olive line with diamond markers
+Legend — India,Pink/salmon line with circle markers
+Legend — Japan,Purple/dark magenta line with triangle markers
+
+Data (approximate values — percent share living in gateways),,,,,,
+year,China_pct,Korea_pct,Philippines_pct,OtherAsian_pct,Vietnam_pct,India_pct,Japan_pct
+1960,55.5,23.5,29.0,43.0,29.0,27.0,28.0
+1980,54.0,34.0,36.0,32.0,26.0,31.5,27.0
+2000,50.5,39.5,36.0,30.5,28.5,32.0,23.5
+2023,42.0,35.0,29.0,25.0,25.0,25.0,21.0

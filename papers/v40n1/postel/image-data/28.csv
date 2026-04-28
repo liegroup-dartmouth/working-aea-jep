@@ -1,0 +1,53 @@
+Figure Order,Figure 2
+Figure Title,"Yearly Permanent Immigrant Entries to the United States, 1940–1970"
+Source,"Author's calculations from annual US Immigration and Naturalization Service Statistical Yearbooks, 1850–2022."
+Note,"This figure shows the slow growth of Asian immigration from major origin countries during the Restriction era (1943–1964). Entries for each group remained well under 10,000 annually."
+
+X-axis Label,Year
+X-axis Tick Values,1940; 1945; 1950; 1955; 1960; 1965; 1970
+Y-axis Label,Annual permanent immigrant entries
+Y-axis Tick Values,0; 10000; 20000; 30000
+
+Vertical annotation 1,"Magnuson Act (dashed line at ~1943)"
+Vertical annotation 2,"McCarran-Walter Act (dashed line at ~1952)"
+Vertical annotation 3,"Immigration and Nationality Act (dashed line at ~1965)"
+
+Legend — Philippines,Green line with square markers
+Legend — China,Blue line with diamond markers
+Legend — India,Pink/salmon line with circle markers
+Legend — Korea,Cyan line with circle markers
+Legend — Japan,Purple/dark magenta line with triangle markers
+
+Data (approximate values),,,,,
+year,Philippines,China,India,Korea,Japan
+1940,500,1000,100,100,200
+1941,500,900,100,100,200
+1942,400,800,100,100,100
+1943,400,700,100,100,100
+1944,500,1200,100,100,100
+1945,600,1800,100,100,100
+1946,700,2500,100,100,200
+1947,900,3000,100,100,300
+1948,1000,3500,100,100,400
+1949,1000,2500,100,100,400
+1950,1000,2000,100,100,500
+1951,1200,1500,100,100,800
+1952,1400,1500,200,100,4600
+1953,1200,1500,200,100,1800
+1954,1200,1300,200,200,1300
+1955,1500,2000,200,200,1400
+1956,1500,3000,200,300,1500
+1957,1500,4500,200,400,5600
+1958,1600,4200,200,500,5600
+1959,2000,3000,200,900,5700
+1960,2200,3800,300,1500,4500
+1961,2400,4200,400,1800,4500
+1962,2700,4200,500,2200,5000
+1963,3000,4500,600,2500,4500
+1964,3000,4000,600,2500,4000
+1965,3200,4800,700,2800,4000
+1966,6500,13500,3000,2800,3500
+1967,11000,19800,4500,3000,3500
+1968,16000,12500,4700,3500,3800
+1969,21000,15000,8000,6000,4200
+1970,31500,14200,10000,9000,4800

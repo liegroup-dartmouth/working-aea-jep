@@ -1,0 +1,39 @@
+Figure Order,Figure 3
+Figure Title,"Fertility Transitions Paths Given Different Fertility Bounds {n, n̄}"
+Source,Author's own calculations.
+Note,"This figure plots the path of optimal fertility n* as a function of c(e), for a given set of lower and upper fertility bounds, n and n̄. These bounds are chosen to reflect prevailing fertility rates in different historical and modern contexts. Within these bounds, fertility is determined by 1/c(e). See Supplemental Appendix Equation A.1 for the solution to the simplified model."
+
+X-axis Label,c(e)
+X-axis Tick Values,0; 0.2; 0.4; 0.6; 0.8; 1.0; 1.2
+Y-axis Label,n*
+Y-axis Tick Values,1; 2; 3; 4; 5; 6; 7
+
+Legend entry 1,Red solid line — n_lower = 5 and n_upper = 7 (Africa today)
+Legend entry 2,Blue solid line — n_lower = 4 and n_upper = 7 (historical Europe)
+Legend entry 3,Blue dashed line — n_lower = 0 and n_upper = 2 (Europe today)
+Legend entry 4,Orange dashed line — n_lower = 0 and n_upper = 1 (East Asia today)
+Additional element,Black dotted curve — unconstrained interior optimal fertility path
+
+Data (approximate values read from chart),,,,
+c_e,n_star_red_Africa,n_star_blue_historicalEurope,n_star_bluedash_Europetoday,n_star_orangedash_EastAsiatoday,n_star_blackdot_unconstrained
+0.00,7.0,7.0,2.0,1.0,7.0
+0.05,7.0,7.0,2.0,1.0,7.0
+0.10,7.0,7.0,2.0,1.0,7.0
+0.15,7.0,7.0,2.0,1.0,7.0
+0.20,7.0,7.0,2.0,1.0,7.0
+0.25,6.5,6.5,2.0,1.0,6.5
+0.30,5.7,5.7,2.0,1.0,5.7
+0.35,5.2,5.2,2.0,1.0,5.2
+0.40,5.0,4.7,2.0,1.0,4.7
+0.45,5.0,4.0,2.0,1.0,4.0
+0.50,5.0,4.0,1.9,1.0,3.4
+0.55,5.0,4.0,1.7,1.0,2.9
+0.60,5.0,4.0,1.5,1.0,2.5
+0.65,5.0,4.0,1.4,1.0,2.2
+0.70,5.0,4.0,1.3,1.0,2.0
+0.75,5.0,4.0,1.2,1.0,1.8
+0.80,5.0,4.0,1.1,1.0,1.7
+0.90,5.0,4.0,1.05,1.0,1.5
+1.00,5.0,4.0,1.0,1.0,1.3
+1.10,5.0,4.0,0.95,0.95,1.2
+1.20,5.0,4.0,0.90,0.90,1.1

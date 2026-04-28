@@ -1,0 +1,60 @@
+Figure Order,Figure 2
+Figure Title,Evidence on Wage Markdowns
+Source,"Panel A is from Yeh, Macaluso, and Hershbein (2022). Panel B is from Chan et al. (2023)."
+Note,
+
+Panel,A
+Panel A Title,Average markdowns increase with establishment size
+Panel A X-axis Label,Share
+Panel A X-axis Tick Values,0.1; 0.2; 0.3; 0.4; 0.5; 0.6; 0.7; 0.8; 0.9; 1.0
+Panel A Y-axis Label,Markdown
+Panel A Y-axis Tick Values,0; 0.05; 0.10; 0.15; 0.20; 0.25; 0.30
+Panel A Line Style,Solid blue line with circular markers
+Panel A Shading,Light blue confidence band around line
+
+Panel A Data,,,
+panel,share_x,markdown_y_estimate,ci_lower_estimate,ci_upper_estimate
+A,0.1,0.000,0.000,0.000
+A,0.2,0.085,0.030,0.115
+A,0.3,0.104,0.060,0.130
+A,0.4,0.128,0.090,0.165
+A,0.5,0.148,0.095,0.210
+A,0.6,0.146,0.075,0.215
+A,0.7,0.157,0.095,0.220
+A,0.8,0.187,0.120,0.260
+A,0.9,0.187,0.130,0.260
+A,1.0,0.193,0.115,0.275
+
+Panel,B
+Panel B Title,"Distribution of markdowns (Denmark, 1996–2010)"
+Panel B X-axis Label,Markdown
+Panel B X-axis Tick Values,0.25; 0.5; 0.75; 1.0; 1.25; 1.5; 1.75
+Panel B Y-axis Label,Density
+Panel B Y-axis Tick Values,0; 0.5; 1.0; 1.5; 2.0; 2.5
+Panel B Line Style,Solid black density curve
+Panel B Annotation,"Median markdown is 0.79 (vertical dashed line at x=0.79)"
+
+Panel B Data (approximate density curve),,
+panel,markdown_x,density_y_estimate
+B,0.30,0.45
+B,0.40,0.80
+B,0.50,1.30
+B,0.55,1.65
+B,0.60,1.88
+B,0.65,2.00
+B,0.70,2.07
+B,0.75,2.08
+B,0.79,2.06
+B,0.80,2.03
+B,0.85,1.90
+B,0.90,1.70
+B,0.95,1.45
+B,1.00,1.15
+B,1.10,0.65
+B,1.20,0.38
+B,1.30,0.22
+B,1.40,0.13
+B,1.50,0.08
+B,1.60,0.05
+B,1.70,0.02
+B,1.75,0.01

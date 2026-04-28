@@ -1,0 +1,24 @@
+Figure Order,Figure 2
+Figure Title,Change in Number of College-Graduate Workers between 1990 and 2019 by Native-Born and Asian-Born Employment
+Source,1990 US Census and 2019 ACS.
+Note,"IPUMS occ90 occupation codes, ""nec"" is ""not elsewhere classified."" ""Faculty"" includes HS/college subject instructors."
+
+X-axis Label,Delta Native-born employment (1990 to 2019)
+X-axis Tick Values,0; 500000; 1000000; 1500000
+Y-axis Label,Delta Asian-born employment (1990 to 2019)
+Y-axis Tick Values,0; 100000; 200000; 300000; 400000; 500000
+Chart Type,Bubble scatter plot (bubble size reflects total employment size of occupation)
+Color,Light blue bubbles for all occupations
+
+Labeled occupations (approximate x and y values),,
+occupation_label,delta_native_born_employment,delta_asian_born_employment,notes
+Software dev,440000,470000,Largest labeled bubble; very high Asian-born growth
+Managers nec,1500000,270000,Largest bubble by size (total employment); moderate Asian-born growth
+Computer scientists,700000,200000,Large bubble; high growth in both dimensions
+Nurses,1100000,155000,Large bubble
+Faculty,290000,105000,
+Accountants,360000,80000,
+Physicians,330000,70000,
+Scientist nec,200000,70000,
+Engineers nec,190000,65000,
+Unlabeled occupations,many near 0,many near 0,Cluster of small bubbles at lower-left

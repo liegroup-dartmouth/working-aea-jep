@@ -1,0 +1,52 @@
+Figure Order,Figure 2
+Figure Title,Evidence from Within-Country Changes over Time
+Source,"For the y-axis: Total Fertility Rate is taken from the World Development Indicator SP.DYN.TFRT.IN (World Bank 2025). For the x-axis, panel A: Human Capital Index from Barro and Lee (2013). Panel B: real GDP per capita from the World Development Indicator NY.GDP.PCAP.CD. Panel C: Child mortality is defined as the probability (per 1,000 live births) that a newborn will die before reaching age five, based on the World Development Indicator SH.DYN.MORT. Panel D: Maternal mortality ratio is the estimated number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births, taken from the World Development Indicator SH.STA.MMRT."
+Note,"Time period: 1960 and 2010. Data on maternal mortality are not available prior to 1985."
+
+Legend regions,Colors
+East Asia and Pacific,Orange open squares
+Latin America and Caribbean,Green filled squares
+North America,Green open squares
+Sub-Saharan Africa,Pink/orange filled circles
+Europe and Central Asia,Light blue open circles
+Middle East and North Africa,Purple open circles
+South Asia,Purple asterisks/stars
+
+Section,Economic factors
+
+Panel,A
+Panel A Title,Change in human capital
+Panel A X-axis Label,"Difference in human capital (2010–1960)"
+Panel A X-axis Range,approximately 0 to 0.8
+Panel A Y-axis Label,"Difference in TFR (2010–1960)"
+Panel A Y-axis Range,approximately -6 to 1
+Panel A R_squared,0.009
+Panel A Description,Weak negative relationship; low R²
+
+Panel,B
+Panel B Title,Change in per-capita GDP
+Panel B X-axis Label,"Difference in log GDP per capita (2010–1960)"
+Panel B Y-axis Label,"Difference in TFR (2010–1960)"
+Panel B Y-axis Range,approximately -6 to 1
+Panel B R_squared,0.068
+Panel B Description,Moderate negative relationship
+
+Section,Health factors
+
+Panel,C
+Panel C Title,Change in child mortality
+Panel C X-axis Label,"Difference in child mortality (2010–1960)"
+Panel C X-axis Range,approximately -300 to 0
+Panel C Y-axis Label,"Difference in TFR (2010–1960)"
+Panel C Y-axis Range,approximately -6 to 1
+Panel C R_squared,0.062
+Panel C Description,Positive relationship: larger declines in child mortality associated with larger TFR declines
+
+Panel,D
+Panel D Title,Change in maternal mortality
+Panel D X-axis Label,"Difference in maternal mortality (2010–1985)"
+Panel D X-axis Range,approximately -1500 to 500
+Panel D Y-axis Label,"Difference in TFR (2010–1985)"
+Panel D Y-axis Range,approximately -6 to 1
+Panel D R_squared,0.065
+Panel D Description,Positive relationship: larger declines in maternal mortality associated with larger TFR declines

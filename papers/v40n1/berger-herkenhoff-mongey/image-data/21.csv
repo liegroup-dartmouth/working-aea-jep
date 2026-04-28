@@ -1,0 +1,20 @@
+Figure Order,Figure 1
+Figure Title,Labor Market Concentration and Wage Markdowns
+Source,"Berger, Herkenhoff, and Mongey (2022a)."
+Note,
+
+Subtitle,"By payroll HHI, across commuting zone industry markets, 2014"
+X-axis Label,Herfindahl-Hirschman Index (wage-bill)
+Y-axis Label,Density
+Color Group - Light Gray,HHI bins below 2500 (less concentrated markets)
+Color Group - Dark Gray,HHI bins 2500 and above (highly concentrated markets)
+
+HHI_bin_label,HHI_bin_lower,HHI_bin_upper,density,bar_color
+0,0,100,0.012,Light Gray
+100,100,500,0.125,Light Gray
+500,500,1000,0.135,Light Gray
+1000,1000,2500,0.254,Light Gray
+2500,2500,5000,0.209,Dark Gray
+5000,5000,7500,0.114,Dark Gray
+7500,7500,10000,0.056,Dark Gray
+10000,10000,+inf,0.097,Dark Gray

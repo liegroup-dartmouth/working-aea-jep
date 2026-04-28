@@ -1,0 +1,36 @@
+Figure Order,Figure 4
+Figure Title,Computer Science Workers by Origin Country (1994–2024)
+Source,"Author's calculations based on Current Population Survey (CPS) ASEC data (Flood et al. 2024)."
+Note,"Figure shows computer scientists and software developers in the United States, by country of birth (1994–2024). Computer scientists are defined as having occ90 codes 64 and 229. Includes naturalized citizens."
+
+X-axis Label,Year
+X-axis Tick Values,1994; 1996; 1998; 2000; 2002; 2004; 2006; 2008; 2010; 2012; 2014; 2016; 2018; 2020; 2022; 2024
+Y-axis Label,Number of computer scientists
+Y-axis Tick Values,0; 200000; 400000; 600000; 800000
+
+Legend — India,Green line
+Legend — China,Red line
+Legend — Philippines,Blue line
+Legend — Korea,Pink/magenta line
+Legend — Japan,Gray line
+Legend — Canada,Olive/dark yellow line
+Legend — Mexico,Orange line
+
+Data (approximate values),,,,,,,
+year,India,China,Philippines,Korea,Japan,Canada,Mexico
+1994,10000,15000,8000,5000,4000,6000,3000
+1996,25000,30000,10000,6000,5000,7000,3500
+1998,60000,50000,12000,8000,6000,9000,4000
+2000,190000,65000,15000,10000,7000,11000,5000
+2002,175000,45000,14000,9000,6000,10000,5000
+2004,175000,55000,15000,10000,6000,11000,6000
+2006,200000,70000,16000,11000,6000,12000,7000
+2008,260000,80000,18000,12000,7000,13000,8000
+2010,300000,85000,20000,13000,7000,14000,9000
+2012,325000,90000,22000,14000,8000,15000,10000
+2014,385000,105000,24000,15000,8000,16000,12000
+2016,400000,115000,26000,17000,9000,18000,15000
+2018,500000,125000,28000,18000,9000,20000,18000
+2020,740000,135000,30000,15000,8000,22000,22000
+2022,680000,160000,32000,10000,7000,30000,28000
+2024,750000,130000,35000,5000,6000,38000,35000

@@ -1,0 +1,29 @@
+Figure Order,Figure 3
+Figure Title,Foreign-Born Population in the United States from Major Asian Countries
+Source,"1960–2010 US Census, 2019 American Community Survey."
+Note,"This figure shows the massive growth of major Asian immigrant groups following the 1965 Hart-Celler Act. The total Asian immigrant population grew more than 20-fold from 1960 to 2019."
+
+X-axis Label,Year
+X-axis Tick Values,1960; 1970; 1980; 1990; 2000; 2010; 2019
+Y-axis Label,Foreign-born population (millions)
+Y-axis Tick Values,0; 0.5; 1.0; 1.5; 2.0; 2.5; 3.0
+
+Vertical annotation 1,"Immigration and Nationality Act (dashed line at 1965)"
+Vertical annotation 2,"H-1B Program (dashed line at 1990)"
+
+Legend — China,Blue line with diamond markers
+Legend — India,Pink/salmon line with circle markers
+Legend — Philippines,Green line with square markers
+Legend — Vietnam,Yellow/olive line with diamond markers
+Legend — Korea,Cyan line with circle markers
+Legend — Japan,Purple/dark pink line with triangle markers
+
+Data (approximate values in millions),,,,,,
+year,China_millions,India_millions,Philippines_millions,Vietnam_millions,Korea_millions,Japan_millions
+1960,0.14,0.01,0.10,0.01,0.01,0.12
+1970,0.17,0.05,0.18,0.05,0.05,0.12
+1980,0.39,0.21,0.55,0.23,0.29,0.22
+1990,0.75,0.48,0.91,0.54,0.57,0.29
+2000,1.38,1.02,1.38,1.00,0.87,0.35
+2010,2.17,1.78,1.77,1.25,1.10,0.37
+2019,2.84,2.67,2.06,1.40,1.06,0.38

@@ -1,0 +1,42 @@
+Figure Order,Figure 5
+Figure Title,Physicians and Nurses in the United States 1990 and 2019
+Source,Author's calculations using data from the US Census Bureau.
+Note,"Figure shows the number of physicians (left panel) and number of nurses (right panel) working in the United States by country of origin for four major Asian countries. The red dots are total number of workers from the 1990 US Census, and the green bars represent numbers from the 2019 ACS."
+
+Panel,A
+Panel A Title,Physicians by origin country
+Panel A X-axis,Country of origin (China; India; Korea; Philippines)
+Panel A Y-axis Label,Number of physicians
+Panel A Y-axis Tick Values,0; 20000; 40000; 60000; 80000
+Panel A Legend — 1990,Red filled dot
+Panel A Legend — 2019,Green filled bar
+
+Panel A Data,,
+panel,country,year,number_of_physicians
+A,China,1990,9000
+A,China,2019,28000
+A,India,1990,26000
+A,India,2019,76000
+A,Korea,1990,7000
+A,Korea,2019,15000
+A,Philippines,1990,15000
+A,Philippines,2019,14000
+
+Panel,B
+Panel B Title,Nurses by origin country
+Panel B X-axis,Country of origin (China; India; Korea; Philippines)
+Panel B Y-axis Label,Number of nurses
+Panel B Y-axis Tick Values,0; 50000; 100000; 150000
+Panel B Legend — 1990,Red filled dot
+Panel B Legend — 2019,Green filled bar
+
+Panel B Data,,
+panel,country,year,number_of_nurses
+B,China,1990,500
+B,China,2019,14000
+B,India,1990,500
+B,India,2019,35000
+B,Korea,1990,500
+B,Korea,2019,9000
+B,Philippines,1990,42000
+B,Philippines,2019,130000
