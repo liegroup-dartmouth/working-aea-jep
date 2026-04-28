@@ -1,0 +1,18 @@
+Table Order,Table 2
+Table Title,"Top Employment Industry by Country of Birth, 1990–2019"
+Source,"US Census 1990–2010, American Community Survey 2019."
+Note,"The IT category refers specifically to ""computer and data processing""; abbreviated for the sake of presentation. In the data for Vietnam, the overwhelming majority (86 percent) of individuals employed in ""miscellaneous personal services"" were employed as ""personal appearance workers,"" likely in nail salons."
+
+Country,Category,1990,2000,2010,2019
+China,Top industry,Eating/drinking,Eating/drinking,Eating/drinking,Eating/drinking
+China,Percent labor force,17.5%,12.5%,13.9%,10.8%
+India,Top industry,Hospitals,IT,IT,IT
+India,Percent labor force,9.6%,9.8%,13.0%,17.3%
+Japan,Top industry,Eating/drinking,Eating/drinking,Eating/drinking,Eating/drinking
+Japan,Percent labor force,8.1%,6.7%,5.9%,6.2%
+Korea,Top industry,Eating/drinking,Eating/drinking,Eating/drinking,Eating/drinking
+Korea,Percent labor force,9.1%,8.6%,9.8%,6.3%
+Philippines,Top industry,Hospitals,Hospitals,Hospitals,Hospitals
+Philippines,Percent labor force,16.3%,14.9%,16.9%,15.4%
+Vietnam,Top industry,Eating/drinking,Electrical machinery,Misc. personal services,Misc. personal services
+Vietnam,Percent labor force,8.1%,8.1%,13.8%,16.6%

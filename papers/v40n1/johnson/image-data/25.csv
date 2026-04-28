@@ -1,0 +1,33 @@
+Table Order,Table 1
+Table Title,"Fraction of Labor Force with an Occupational License or Certification, and 20 Largest Occupations with Government-Issued Licenses or Certifications"
+Source,"Current Population Survey, January 2023–May 2025."
+Note,"Sample contains respondents aged 18–64 currently in the labor force and not attending school. Fractions calculated using person-level sampling weights. Occupations marked with an asterisk combine two or more distinct CPS occupation and/or industry codes. For more information, see Supplemental Appendix Table A1."
+
+Category,Fraction
+Has professional certification or license,0.241
+"Given has a professional certification or license, fraction reporting it is government-issued",0.900
+
+Largest occupations represented among those holding government-issued certifications or licenses,
+Teachers*,0.125
+Registered and licensed practical nurses*,0.090
+Driver/sales workers and truck drivers,0.030
+Lawyers,0.028
+Physicians and surgeons*,0.025
+Real estate brokers and sales agents*,0.020
+Nursing assistants,0.018
+Managers all other,0.018
+"Barbers, hairstylists, hairstylists, and cosmetologists*",0.017
+Construction managers*,0.015
+Accountants and auditors*,0.015
+Insurance sales agents*,0.013
+Education and childcare administrators,0.012
+Occupational and physical therapists*,0.012
+"Securities, commodities, and financial services sales agents, financial managers*",0.012
+Electricians,0.011
+Medical and health services managers,0.010
+Police officers,0.010
+Social workers*,0.010
+Pharmacists*,0.009
+All other occupations,0.501
+
+Observations,273561

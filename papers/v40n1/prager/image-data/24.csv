@@ -1,0 +1,24 @@
+Figure Order,Figure 1
+Figure Title,Clustering SOC Occupation Codes by Cross-Occupation Flows
+Source,"Author's calculations based on occupation transition frequencies constructed by Schubert, Stansbury, and Taska (2021) from Burning Glass resume data."
+Note,"Branches that diverge at large x-axis values (near the left margin) indicate low occupation-to-occupation transition rates. The distance metric indicated on the x-axis is a monotonic transformation of the inverse of the pairwise occupation-to-occupation transition rate, calculated as a weighted average of the direction-specific transition rate. A distance of 8 maps to approximately a 0.03 percent occupation-to-occupation transition rate, and a distance of 2.5 maps to approximately an 8 percent transition rate. SOC codes 31-1011 and 11-3051, shown at the bottom of the plot, split at a distance of approximately 2.7. Only branches from one selected cluster are shown. Clustering is implemented using average-linkage hierarchical clustering. Hierarchical clustering is sensitive to the choice of algorithm (single-linkage, complete-linkage, and others) and the distance metric."
+
+SOC Code,Occupation Label
+51-9061,Jewelers and precious stone and metal workers
+19-4099,Substance abuse and behavioral disorder counselors
+51-1011,Aircraft structure surfaces rigging and systems assemblers
+11-3051,Industrial production managers
+51-9198,Production workers all other
+51-8093,Plant and system operators all other
+43-5061,"Shipping, receiving, and traffic clerks"
+13-1081,Logisticians
+43-5111,Executive secretaries and executive administrative assistants
+53-1021,First-line supervisors of transportation and material-moving machine and vehicle operators
+11-3071,"Transportation, storage, and distribution managers"
+53-1031,"Airline pilots, copilots, and flight engineers"
+43-5081,"Weighers, measurers, checkers, samplers, and recordkeeping"
+43-5071,Stock clerks and order fillers
+53-7062,Machine feeders and offbearers
+53-7051,Cleaners of vehicles and equipment
+53-9199,Aircraft cargo handling supervisors
+53-7064,Gas compressor and gas pumping station operators
