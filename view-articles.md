@@ -56,7 +56,8 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td><a href="https://doi.org/10.1257/jep.20251462">Vol. 40, No. 1, pp. 27–46, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/weil/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/weil/paper.xhtml">paper.xhtml</a></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/weil/image/index.html">JPG files</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/weil/image-data/index.html">CSV files</a></td>
 </tr>
 <tr>
 <td>Family Institutions and the Global Fertility Transition</td>
@@ -64,7 +65,8 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td><a href="https://doi.org/10.1257/jep.20251460">Vol. 40, No. 1, pp. 47–70, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/paper.xhtml">paper.xhtml</a></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/image/index.html">JPG files</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/image-data/index.html">CSV files</a></td>
 </tr>
 <tr>
 <td>Global Labor Mobility between Shrinking and Growing Labor Forces</td>
@@ -72,7 +74,8 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td><a href="https://doi.org/10.1257/jep.20251461">Vol. 40, No. 1, pp. 71–92, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/pritchett/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/pritchett/paper.xhtml">paper.xhtml</a></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/pritchett/image/index.html">JPG files</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/pritchett/image-data/index.html">CSV files</a></td>
 </tr>
 <tr>
 <td>Labor Market Power: From Micro Evidence to Macro Consequences</td>
@@ -80,7 +83,8 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td><a href="https://doi.org/10.1257/jep.20251456">Vol. 40, No. 1, pp. 93–114, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/paper.xhtml">paper.xhtml</a></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/image/index.html">JPG files</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/image-data/index.html">CSV files</a></td>
 </tr>
 <tr>
 <td>Antitrust Enforcement in Labor Markets</td>
@@ -88,7 +92,8 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td><a href="https://doi.org/10.1257/jep.20241446">Vol. 40, No. 1, pp. 115–138, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/prager/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/prager/paper.xhtml">paper.xhtml</a></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/prager/image/index.html">JPG files</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/prager/image-data/index.html">CSV files</a></td>
 </tr>
 <tr>
 <td>The Economics of Noncompete Clauses</td>
@@ -96,7 +101,8 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td><a href="https://doi.org/10.1257/jep.20251457">Vol. 40, No. 1, pp. 139–166, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/starr/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/starr/paper.xhtml">paper.xhtml</a></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/starr/image/index.html">JPG files</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/starr/image-data/index.html">CSV files</a></td>
 </tr>
 <tr>
 <td>Occupational Licensing in the United States</td>
@@ -104,7 +110,8 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td><a href="https://doi.org/10.1257/jep.20251458">Vol. 40, No. 1, pp. 167–190, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/johnson/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/johnson/paper.xhtml">paper.xhtml</a></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/johnson/image/index.html">JPG files</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/johnson/image-data/index.html">CSV files</a></td>
 </tr>
 <tr>
 <td>Asian Immigration to the United States in Historical Perspective</td>
@@ -112,7 +119,8 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td><a href="https://doi.org/10.1257/jep.20251453">Vol. 40, No. 1, pp. 191–214, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/postel/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/postel/paper.xhtml">paper.xhtml</a></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/postel/image/index.html">JPG files</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/postel/image-data/index.html">CSV files</a></td>
 </tr>
 <tr>
 <td>From Asia, with Skills</td>
@@ -120,7 +128,8 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td><a href="https://doi.org/10.1257/jep.20251454">Vol. 40, No. 1, pp. 215–240, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/khanna/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/khanna/paper.xhtml">paper.xhtml</a></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/khanna/image/index.html">JPG files</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/khanna/image-data/index.html">CSV files</a></td>
 </tr>
 <tr>
 <td>Recommendations for Further Reading</td>
@@ -128,8 +137,11 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td><a href="https://doi.org/10.1257/jep.20251497">Vol. 40, No. 1, pp. 241–248, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/taylor/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/taylor/paper.xhtml">paper.xhtml</a></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/taylor/image/index.html">JPG files</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/taylor/image-data/index.html">CSV files</a></td>
 </tr>
-<td colspan="7">Note: Underlying Figure data for "The Likelihood of Persistently Low Global Fertility" was created through the replication package. Data for all other Figures and Tables was extracted using AI and may not reflect precise estimates. </td>
+<tr>
+<td colspan="7">Note: Underlying Figure data for "The Likelihood of Persistently Low Global Fertility" was created through the replication package. Data for all other Figures and Tables was extracted using AI and may not reflect precise estimates.</td>
+</tr>
 </tbody>
 </table>
