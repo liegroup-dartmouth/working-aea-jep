@@ -1,7 +1,11 @@
 ---
+layout: default
+title: "Pritchett: Images"
 ---
+
 Figures and Tables in [Pritchett]({{ site.baseurl }}/papers/v40n1/pritchett/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.
 
-{% for i in (18..20) %}
-- [{{ i }}.jpg]({{ site.baseurl }}/papers/v40n1/pritchett/image/{{ i }}.jpg)
+{% assign data_files = site.static_files | where_exp: "file", "file.path contains '/pritchett/image/'" | sort: "name" %}
+{% for file in data_files %}
+- [{{ file.name }}]({{ site.baseurl }}{{ file.path }})
 {% endfor %}
