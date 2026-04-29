@@ -40,7 +40,7 @@
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image/7.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image/8.jpg"
       ],
-      "data_files": [
+      "figures_data": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image-data/1.csv",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image-data/2.csv",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/geruso-spears/image-data/3.csv",
@@ -70,7 +70,13 @@
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image/12.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image/13.jpg"
       ],
-      "data_files": []
+      "figures_data": [
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image-data/9.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image-data/10.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image-data/11.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image-data/12.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/weil/image-data/13.csv"
+      ]
     },
     {
       "title": "Family Institutions and the Global Fertility Transition",
@@ -92,7 +98,12 @@
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image/16.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image/17.jpg"
       ],
-      "data_files": []
+      "figures_data": [
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image-data/14.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image-data/15.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image-data/16.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image-data/17.csv"
+      ]
     },
     {
       "title": "Global Labor Mobility between Shrinking and Growing Labor Forces",
@@ -111,7 +122,11 @@
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/image/19.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/image/20.jpg"
       ],
-      "data_files": []
+      "figures_data": [
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/image-data/18.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/image-data/19.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/pritchett/image-data/20.csv"
+      ]
     },
     {
       "title": "Labor Market Power: From Micro Evidence to Macro Consequences",
@@ -131,7 +146,10 @@
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/berger-herkenhoff-mongey/image/21.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/berger-herkenhoff-mongey/image/22.jpg"
       ],
-      "data_files": []
+      "figures_data": [
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/berger-herkenhoff-mongey/image-data/21.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/berger-herkenhoff-mongey/image-data/22.csv"
+      ]
     },
     {
       "title": "Antitrust Enforcement in Labor Markets",
@@ -149,7 +167,10 @@
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/prager/image/23.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/prager/image/24.jpg"
       ],
-      "data_files": []
+      "figures_data": [
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/prager/image-data/23.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/prager/image-data/24.csv"
+      ]
     },
     {
       "title": "The Economics of Noncompete Clauses",
@@ -164,7 +185,7 @@
       "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/abstract.html",
       "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/starr/paper.xhtml",
       "figures": [],
-      "data_files": []
+      "figures_data": []
     },
     {
       "title": "Occupational Licensing in the United States",
@@ -181,7 +202,9 @@
       "figures": [
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/johnson/image/25.jpg"
       ],
-      "data_files": []
+      "figures_data": [
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/johnson/image-data/25.csv"
+      ]
     },
     {
       "title": "Asian Immigration to the United States in Historical Perspective",
@@ -204,7 +227,14 @@
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image/31.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image/32.jpg"
       ],
-      "data_files": []
+      "figures_data": [
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image-data/26.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image-data/27.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image-data/28.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image-data/29.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image-data/31.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/postel/image-data/32.csv"
+      ]
     },
     {
       "title": "From Asia, with Skills",
@@ -225,7 +255,13 @@
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image/36.jpg",
         "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image/37.jpg"
       ],
-      "data_files": []
+      "figures_data": [
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image-data/33.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image-data/34.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image-data/35.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image-data/36.csv",
+        "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/khanna/image-data/37.csv"
+      ]
     },
     {
       "title": "Recommendations for Further Reading",
@@ -238,7 +274,7 @@
       "abstract_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/taylor/abstract.html",
       "paper_url": "https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/v40n1/taylor/paper.xhtml",
       "figures": [],
-      "data_files": []
+      "figures_data": []
     }
   ]
 }
