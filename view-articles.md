@@ -19,9 +19,10 @@ Send that URL to any AI assistant and ask it to summarize the available papers, 
 
 ## View Articles by Issues and Volumes
 
-This table contains URLs of all papers with a machine readable version and it is intended for humans as the hyperlink will only direct you within the website which may not be suited for AI assistants. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on how to best direct an AI query.
+This table contains URLs for abstracts, as found in [AEA](https://www.aeaweb.org/journals/articles/sgml); a machine readable version of the paper; all figures and tables (JPG) as found in the paper; and underlying figures and table data in CSV format (including title, captions, labels, and values). 
 
-See indexable [Article Manifest]({{ site.baseurl }}/papers/manifest.json) and use `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text.
+This table is intended for humans as the hyperlink will only direct you within the website which may not be suited for AI assistants. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on how to best direct an AI query. See indexable [Article Manifest]({{ site.baseurl }}/papers/manifest.json) and use `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text.
+
 
 **Publisher:** American Economic Association \| **ISSN:** 0895-3309
 
@@ -35,7 +36,8 @@ See indexable [Article Manifest]({{ site.baseurl }}/papers/manifest.json) and us
 <th>Citation &amp; DOI</th>
 <th>View Abstract</th>
 <th>View Articles</th>
-<th>Image Data</th>
+<th>Image (JPG)</th>
+<th>Image Data (CSV)</th>
 </tr>
 </thead>
 <tbody>
@@ -45,6 +47,7 @@ See indexable [Article Manifest]({{ site.baseurl }}/papers/manifest.json) and us
 <td><a href="https://doi.org/10.1257/jep.20251463">Vol. 40, No. 1, pp. 3–26, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/abstract.html">abstract.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/image-data/index.html">CSV files</a></td>
 </tr>
 <tr>
@@ -127,5 +130,6 @@ See indexable [Article Manifest]({{ site.baseurl }}/papers/manifest.json) and us
 <td><a href="{{ site.baseurl }}/papers/v40n1/taylor/paper.xhtml">paper.xhtml</a></td>
 <td></td>
 </tr>
+<td colspan="7">Note: Underlying Figure data for "The Likelihood of Persistently Low Global Fertility" was created through the replication package. Data for all other Figures and Tables was extracted using AI and may not reflect precise estimates. </td>
 </tbody>
 </table>
