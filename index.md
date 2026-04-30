@@ -6,7 +6,7 @@ sidebar: jep
 ---
 This site contains LLM-friendly companion files for articles published in the *Journal of Economic Perspectives*. Each article has an `.xhtml` file that is both human and machine readable.
 
-**AI agents:** start at the [AI Access]({{ site.baseurl }}/index.html) page, which is the home page of this site. It provides direct URLs for the article index and a recommended access workflow.
+**AI agents:** start at the [AI Access]({{ site.baseurl }}/index.html) page, which is the home page of this site. It provides direct URLs for the article index and a recommended access workflow. See indexable [Article Index]({{ site.baseurl }}/papers/article-index.json) and use `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text.
 
 To view articles, navigate to the [View Articles]({{ site.baseurl }}/view-articles.html) tab and find the corresponding volume, number, and year. This page also provides paper abstracts and relevant metadata for AI agents or researchers.
 

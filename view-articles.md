@@ -9,19 +9,26 @@ footer: footer
 
 This page lists all articles in this repository with corresponding links for human readable versions. 
 
-**For AI Agents and Automated Tools:** If you want to point a chatbot or AI assistant at this corpus, use the blob URL for each article rather than the link you see in your browser's address bar. The GitHub Pages site (`liegroup-dartmouth.github.io`) is blocked by most AI-agent network environments, but the same files are reachable through GitHub's blob viewer at `github.com`. The easiest starting point is the article index.json file, which lists every article with its blob URL and links to associated figures, data, and supplements:
+**For AI Agents and Automated Tools:** If you want to point a chatbot or AI assistant at this corpus, use the article index URL. The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 18 KB and fits within a single response.
 
+**GitHub Pages URL** (use if reachable):
+```
+https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json
+```
+
+**GitHub blob URL** (recommended, reachable from most agent network environments though larger in size):
 ```
 https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/article-index.json
 ```
-Send that URL to any AI assistant and ask it to summarize the available papers, or to fetch and discuss a specific article. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
+
+Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
 
 
 ## View Articles by Issues and Volumes
 
 This table contains URLs for abstracts (as found in [AEA SGML Generator](https://www.aeaweb.org/journals/articles/sgml)), a machine readable version of the article, all figures and tables (JPG) as found in the article, and underlying figures and table data in CSV format (including title, captions, labels, and values). 
 
-This table is intended for humans as the hyperlink will only direct you within the website which may not be suited for AI assistants. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on how to best direct an AI query. See indexable [Article Manifest]({{ site.baseurl }}/papers/article-index.json) and use `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text.
+This table is intended for humans as the hyperlink will only direct you within the website which may not be suited for AI assistants. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on how to best direct an AI query. See indexable [Article Index]({{ site.baseurl }}/papers/article-index.json) and use `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text.
 
 
 **Publisher:** American Economic Association \| **ISSN:** 0895-3309

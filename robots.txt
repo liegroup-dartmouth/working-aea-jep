@@ -15,18 +15,18 @@ Sitemap: https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml
 # Most agent network environments block *.github.io. Use the GitHub blob URLs
 # below — they are universally reachable and serve the same content.
 #
-# Start here — structured article manifest (titles, authors, miniabstracts,
+# Start here — structured article article-index (titles, authors, miniabstracts,
 # symposium names, DOIs, and direct links to every article and data file):
-#   https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manifest.json
+#   https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json
 #
 # Full access guide and recommended workflow for agents:
-#   https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/ai-access.md
+#   https://liegroup-dartmouth.github.io/working-aea-jep/ai-access.md
 #
 # Human-readable Markdown index of all articles:
-#   https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/index.md
+#   https://liegroup-dartmouth.github.io/working-aea-jep/papers/index.md
 #
 # LLM guidance file (llms.txt convention):
-#   https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/llms.txt
+#   https://liegroup-dartmouth.github.io/working-aea-jep/llms.txt
 
 # ---------------------------------------------------------------------------
 # FOR HUMAN VISITORS
@@ -37,8 +37,8 @@ Sitemap: https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml
 # AI Access guide (home page):
 #   https://liegroup-dartmouth.github.io/working-aea-jep/
 #
-# Article manifest (JSON):
-#   https://liegroup-dartmouth.github.io/working-aea-jep/papers/manifest.json
+# Article Index (JSON):
+#   https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json
 #
 # Browse articles:
 #   https://liegroup-dartmouth.github.io/working-aea-jep/view-articles.html

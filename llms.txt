@@ -2,28 +2,40 @@
 
 > Static site hosting machine-readable (XHTML + JSON) companion files for articles published in the *Journal of Economic Perspectives* (American Economic Association, ISSN 0895-3309). Maintained at the repository `liegroup-dartmouth/working-aea-jep`, served from the `gh-pages` branch.
 
-> Note for AI agents: the GitHub Pages host `liegroup-dartmouth.github.io` is blocked by most enterprise / agent network allowlists. The canonical fetchable channel is GitHub's blob viewer at `github.com/.../blob/gh-pages/...`, which is universally reachable. Every resource link below points at a blob URL. See [ai-access.md](https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/ai-access.md) for details on what agents can and cannot retrieve through this channel.
+> Note for AI agents: The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 18 KB and fits within a single response.
+
+**GitHub Pages URL** (use if reachable):
+```
+https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json
+```
+
+**GitHub blob URL** (recommended, reachable from most agent network environments though larger in size):
+```
+https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/article-index.json
+```
+
+Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
 
 ## Primary entry points
 
-- [papers/manifest.json](https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/manifest.json): structured JSON catalog of every issue and article — title, authors, pages, DOI, mini-abstract, and URLs (with a Blob base URL or a GitHub Page base URL) for the abstract, full-text XHTML, figures, and associated data files. Use this for programmatic ingestion.
-- [papers/index.md](https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/index.md): human-readable Markdown catalog of the same content. Useful when a model prefers prose to JSON.
+- [papers/article-index.json](https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json): structured JSON catalog of every issue and article — title, authors, pages, DOI, mini-abstract, and URLs for the abstract, full-text XHTML, figures, and associated data files. Use this for programmatic ingestion.
+- [papers/index.md](https://liegroup-dartmouth.github.io/working-aea-jep/papers/index.md): human-readable Markdown catalog of the same content. Useful when a model prefers prose to JSON.
 
 ## Per-article content
 
-For every article the manifest lists:
+For every article the article index lists:
 
 - `abstract.html` — short abstract.
-- `paper.xhtml` — full article text (title, authors, abstract, all sections, footnotes, figure captions). Fetch this blob URL for the article body.
+- `paper.xhtml` — full article text (title, authors, abstract, all sections, footnotes, figure captions). Fetch this URL for the article body.
 - `image/*.jpg` — figure image files. Image **bytes** cannot be fetched from most agent environments; figure captions inside the `paper.xhtml` carry the interpretive content (axes, units, principal finding) so a text-only agent can understand each figure without seeing it.
-- `image-data/*.csv` — underlying data tables for figures (where provided). Blob URLs render the CSV inline and are cleanly extractable.
+- `image-data/*.csv` — underlying data tables for figures (where provided). URLs render the CSV inline and are cleanly extractable.
 
 ## Navigation
 
-- [ai-access.md](https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/ai-access.md): access guidance for agents.
-- [view-articles.md](https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/view-articles.md): human-facing tabular catalog.
-- [download-articles.md](https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/download-articles.md): instructions for downloading papers and viewing them locally.
+- [ai-access.md](https://liegroup-dartmouth.github.io/working-aea-jep/ai-access.md): access guidance for agents.
+- [view-articles.md](https://liegroup-dartmouth.github.io/working-aea-jep/view-articles.md): human-facing tabular catalog.
+- [download-articles.md](https://liegroup-dartmouth.github.io/working-aea-jep/download-articles.md): instructions for downloading papers and viewing them locally.
 
 ## Optional
 
-- [sitemap.xml](https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml): full list of canonical public URLs. These do not include Blob URLs.
+- [sitemap.xml](https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml): full list of canonical public URLs. 
