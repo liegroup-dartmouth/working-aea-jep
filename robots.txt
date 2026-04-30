@@ -12,8 +12,6 @@ Sitemap: https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml
 # ---------------------------------------------------------------------------
 # FOR AI AGENTS
 # ---------------------------------------------------------------------------
-# Most agent network environments block *.github.io. Use the GitHub blob URLs
-# below — they are universally reachable and serve the same content.
 #
 # Start here — structured article article-index (titles, authors, miniabstracts,
 # symposium names, DOIs, and direct links to every article and data file):
