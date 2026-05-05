@@ -49,16 +49,6 @@
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/6.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/7.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/geruso-spears/image-data/8.csv"
-      ],
-      "figures_titles": [
-        "Figure 1: The Peak in Annual Births Is in the Past",
-        "Figure 2: Global Fertility Has Been Declining to Below-Replacement Levels",
-        "Figure 3: Period Total Fertility Often Varies More Than Completed Cohort Fertility",
-        "Figure 4: Cohort Childlessness Varies Widely Conditional on Cohort Average Fertility",
-        "Figure 5: Below-Replacement Average Cohort Fertility Is Found Even within Parous Subcohorts",
-        "Table 1: Decomposition of Fertility Decline: Childlessness versus Fewer Children among the Parous in Advanced Economies",
-        "Figure 6: Completed Cohort Fertility Is at or near All-Time Lows",
-        "Figure 7: Period Rates Can Overstate Policy Impacts: Romanian Total Fertility Rate and Completed Cohort Fertility"
       ]
     },
     {
@@ -86,13 +76,6 @@
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/weil/image-data/11.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/weil/image-data/12.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/weil/image-data/13.csv"
-      ],
-      "figures_titles": [
-        "Figure 1: Population Pyramids for the United States",
-        "Table 1: Stable Populations for the United States",
-        "Figure 2: Age Profiles of Consumption and Labor Income",
-        "Figure 3: The Demographic Dividend and the Demographic Debit",
-        "Figure 4: Adjusted Support Ratio by UN Fertility Scenario"
       ]
     },
     {
@@ -120,12 +103,6 @@
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/gobbi-hannusch-rossi/image-data/15.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/gobbi-hannusch-rossi/image-data/16.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/gobbi-hannusch-rossi/image-data/17.csv"
-      ],
-      "figures_titles": [
-        "Figure 1: Evidence from Cross-Country Data in 1960 and 2010",
-        "Figure 2: Evidence from Within-Country Changes over Time",
-        "Figure 3: Fertility Transitions Paths Given Different Fertility Bounds {n, n̄}",
-        "Figure 4: Family Institutions: Marriage Institutions and Inheritance Customs"
       ]
     },
     {
@@ -149,11 +126,6 @@
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/pritchett/image-data/18.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/pritchett/image-data/19.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/pritchett/image-data/20.csv"
-      ],
-      "figures_titles": [
-        "Figure 1: The Timing and Depth of Fall in Fertility Differs Widely Across Regions of the World",
-        "Table 1: By 2050 Nearly All Labor Force Aged Expansion Happens in Africa and South Asia",
-        "Table 2: Implications of Meeting Labor Force Gaps with Permanent Migration"
       ]
     },
     {
@@ -177,10 +149,6 @@
       "figures_data": [
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/berger-herkenhoff-mongey/image-data/21.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/berger-herkenhoff-mongey/image-data/22.csv"
-      ],
-      "figures_titles": [
-        "Figure 1: Labor Market Concentration and Wage Markdowns",
-        "Figure 2: Evidence on Wage Markdowns"
       ]
     },
     {
@@ -202,10 +170,6 @@
       "figures_data": [
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/prager/image-data/23.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/prager/image-data/24.csv"
-      ],
-      "figures_titles": [
-        "Table 1: Candidates for Defining a Labor Market",
-        "Figure 1: Clustering SOC Occupation Codes by Cross-Occupation Flows"
       ]
     },
     {
@@ -221,8 +185,7 @@
       "abstract_url": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/starr/abstract.html",
       "paper_url": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/starr/paper.xhtml",
       "figures": [],
-      "figures_data": [],
-      "figures_titles": []
+      "figures_data": []
     },
     {
       "title": "Occupational Licensing in the United States",
@@ -241,9 +204,6 @@
       ],
       "figures_data": [
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/johnson/image-data/25.csv"
-      ],
-      "figures_titles": [
-        "Table 1: Fraction of Labor Force with an Occupational License or Certification, and 20 Largest Occupations with Government-Issued Licenses or Certifications"
       ]
     },
     {
@@ -274,15 +234,6 @@
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image-data/29.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image-data/31.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image-data/32.csv"
-      ],
-      "figures_titles": [
-        "Figure 1: Share of US Population Born Abroad by Major Asian Country",
-        "Table 1: Major US Immigration Legislation Affecting Asian Origin Groups, 1943–1952",
-        "Figure 2: Yearly Permanent Immigrant Entries to the United States, 1940–1970",
-        "Figure 3: Foreign-Born Population in the United States from Major Asian Countries",
-        null,
-        "Figure 5: Asian Immigrant Residence Concentration in Gateways, 1960–2023",
-        "Table 2: Top Employment Industry by Country of Birth, 1990–2019"
       ]
     },
     {
@@ -310,13 +261,6 @@
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/khanna/image-data/35.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/khanna/image-data/36.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/khanna/image-data/37.csv"
-      ],
-      "figures_titles": [
-        "Figure 1: Visas Granted to Citizens of India, China, South Korea, Japan, and the Philippines",
-        "Figure 2: Change in Number of College-Graduate Workers between 1990 and 2019 by Native-Born and Asian-Born Employment",
-        "Figure 3: International Students at US Colleges and Universities",
-        "Figure 4: Computer Science Workers by Origin Country (1994–2024)",
-        "Figure 5: Physicians and Nurses in the United States 1990 and 2019"
       ]
     },
     {
@@ -330,8 +274,7 @@
       "abstract_url": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/taylor/abstract.html",
       "paper_url": "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/taylor/paper.xhtml",
       "figures": [],
-      "figures_data": [],
-      "figures_titles": []
+      "figures_data": []
     }
   ]
 }
