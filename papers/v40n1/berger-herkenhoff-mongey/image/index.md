@@ -7,11 +7,6 @@ Figures and Tables in [Berger, Herkenhoff & Mongey]({{ site.baseurl }}/papers/v4
 
 Citation: [Vol. 40, No. 1, pp. 93–114, Winter 2026](https://doi.org/10.1257/jep.20251456).
 
-{% assign data_files = site.static_files | where_exp: "file", "file.path contains '/berger-herkenhoff-mongey/image/'" | sort: "name" %}
-{% if data_files.size == 0 %}
-No images were found.
-{% else %}
-{% for file in data_files %}
-- [{{ file.name }}]({{ site.baseurl }}{{ file.path }})
-{% endfor %}
-{% endif %}
+- Figure 1: Labor Market Concentration and Wage Markdowns ([21.jpg]({{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/image/21.jpg))
+- Figure 2: Evidence on Wage Markdowns ([22.jpg]({{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/image/22.jpg))
+
