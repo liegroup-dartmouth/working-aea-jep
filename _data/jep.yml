@@ -4,10 +4,12 @@ entries:
   folders:
     - title: Getting Started
       folderitems:
-        - title: About This Site
+        - title: About
           jurl: /about.html
         - title: AI Access
           jurl: /index.html
+        - title: Article Index
+          jurl: /papers/article-index.html
         - title: View Articles
           jurl: /view-articles.html
         - title: Download Articles

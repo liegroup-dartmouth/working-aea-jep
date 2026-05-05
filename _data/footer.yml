@@ -1,10 +1,14 @@
 columns:
-  - title: About
+  - title: AI Resources
     links:
-      - title: JEP Companion Files
+      - title: AI Access
         url: /index.html
-  - title: Resources
+      - title: Article Index
+        url: /papers/article-index.json
+  - title: Other Resources
     links:
+      - title: About
+        url: /about.html
       - title: View Articles
         url: /view-articles.html
       - title: Download Articles

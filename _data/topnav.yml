@@ -2,6 +2,8 @@
   url: /about.html
 - title: AI Access
   url: /index.html
+- title: Article Index
+  url: /papers/article-index.json
 - title: View Articles
   url: /view-articles.html
 - title: Download Articles
