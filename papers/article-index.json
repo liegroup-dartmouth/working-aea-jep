@@ -261,7 +261,7 @@
         "Table 1: Major US Immigration Legislation Affecting Asian Origin Groups, 1943–1952",
         "Figure 2: Yearly Permanent Immigrant Entries to the United States, 1940–1970",
         "Figure 3: Foreign-Born Population in the United States from Major Asian Countries",
-        null,
+        "Figure 4: State-Level Asian Population by Country of Origin", 
         "Figure 5: Asian Immigrant Residence Concentration in Gateways, 1960–2023",
         "Table 2: Top Employment Industry by Country of Birth, 1990–2019"
       ],
@@ -272,7 +272,7 @@
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/27.jpg",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/28.jpg",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/29.jpg",
-        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/30.jpg",
+        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/30.png",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/31.jpg",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image/32.jpg"
       ],
@@ -281,6 +281,7 @@
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image-data/27.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image-data/28.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image-data/29.csv",
+        "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image-data/30.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image-data/31.csv",
         "https://liegroup-dartmouth.github.io/working-aea-jep/papers/v40n1/postel/image-data/32.csv"
       ]

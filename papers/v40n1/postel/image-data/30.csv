@@ -1,18 +1,17 @@
-Figure Order,Figure 4,,,,,,,,,
-Figure Title,State-Level Asian Population by Country of Origin,,,,,,,,,
-Source,1980 and 1990 US Census; 2019 American Community Survey,,,,,,,,,
-Note,Maps plot the share of each origin-group's immigrant population residing in each US state. Shading reflects geographic concentration of origin group across states. Darker shades indicate higher share of origin group residing in that state.,,,,,,,,,
-,,,,,,,,,,
-Subtitle,Asian population by origin group,,,,,,,,,
-Legend Title,Population,,,,,,,,,
-Legend Units,Population in Thousands,,,,,,,,,
-Legend Group 1 (lightest),0,,,,,,,,,
-Legend Group 2,1-5K,,,,,,,,,
-Legend Group 3,5K-25K,,,,,,,,,
-Legend Group 4,25K-100K,,,,,,,,,
-Legend Group 5 (darkest),100K+,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+Figure Order,Figure 4
+Figure Title,State-Level Asian Population by Country of Origin
+Source,1980 and 1990 US Census; 2019 American Community Survey
+Note,Maps plot the share of each origin-group's immigrant population residing in each US state. Shading reflects geographic concentration of origin group across states. Darker shades indicate higher share of origin group residing in that state
+
+Subtitle,Asian population by origin group
+Legend Title,Population
+Legend Units,Population in Thousands
+Legend Group 1 (lightest),0
+Legend Group 2,1-5K
+Legend Group 3,5K-25K
+Legend Group 4,25K-100K
+Legend Group 5 (darkest),100K
+
 origin_group,year,row_position,column_position,color_scheme,legend_description,legend_units,high_concentration_states,medium_concentration_states,low_concentration_states,geographic_concentration_description
 Chinese,1980,1,1,Pink/Red gradient,Share of Chinese immigrants residing in each state,Population of origin group,California; Hawaii; New York,Illinois; Washington; New Jersey; Texas,Most interior states (Midwest; Mountain states; South),Heavy concentration on West Coast (CA dominant); secondary concentration in NY and HI; minimal presence in most interior states
 Chinese,1990,1,2,Pink/Red gradient,Share of Chinese immigrants residing in each state,Population of origin group,California; New York; Hawaii,Washington; New Jersey; Illinois; Texas; Massachusetts,Most interior and Southern states,CA and NY remain dominant; slight geographic dispersal relative to 1980; HI share somewhat diminished
