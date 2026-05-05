@@ -202,6 +202,73 @@ h1.page-title {
 }
 .btn-github:hover { background-color: #136; color: #fff; }
 
+/* ========== SEARCH RESULTS DROPDOWN ========== */
+#search-results {
+    display: none;
+    position: absolute;
+    top: calc(100% + 2px);
+    right: 0;
+    width: 440px;
+    max-height: 520px;
+    overflow-y: auto;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+    z-index: 10000;
+    text-align: left;
+}
+
+.search-result-item {
+    padding: 10px 14px;
+    border-bottom: 1px solid #f0f0f0;
+    cursor: pointer;
+}
+.search-result-item:last-child { border-bottom: none; }
+.search-result-item:hover { background: #f5f7ff; }
+
+.search-result-title {
+    display: block;
+    font-weight: 700;
+    font-size: 13px;
+    color: #248;
+    margin-bottom: 2px;
+    white-space: normal;
+    word-break: break-word;
+}
+.search-result-title:hover { color: #136; text-decoration: underline; }
+
+.search-result-authors {
+    display: block;
+    font-size: 11px;
+    color: #888;
+    margin-bottom: 4px;
+    font-style: italic;
+}
+
+.search-result-snippet {
+    font-size: 12px;
+    color: #555;
+    margin: 0;
+    line-height: 1.5;
+    word-break: break-word;
+}
+
+.search-result-snippet mark {
+    background: #fff3a3;
+    color: #222;
+    padding: 0 1px;
+    border-radius: 2px;
+    font-weight: 600;
+}
+
+.search-no-results {
+    padding: 14px 16px;
+    color: #999;
+    font-size: 13px;
+    font-style: italic;
+}
+
 /* ========== RESPONSIVE ========== */
 @media (min-width: 768px) {
     .sidebar {

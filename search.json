@@ -1,0 +1,24 @@
+---
+layout: null
+---
+[
+{%- assign comma = false -%}
+{%- for page in site.pages -%}
+  {%- unless page.url contains '/papers/'
+      or page.url == '/search.json'
+      or page.url contains '/assets/'
+      or page.url contains 'sitemap'
+      or page.url contains 'robots'
+      or page.url contains '404'
+      or page.title == nil -%}
+  {%- if comma -%},{%- endif -%}
+  {%- assign comma = true -%}
+{
+  "id": {{ forloop.index | jsonify }},
+  "title": {{ page.title | jsonify }},
+  "url": {{ page.url | prepend: site.baseurl | jsonify }},
+  "content": {{ page.content | strip_html | strip_newlines | jsonify }}
+}
+  {%- endunless -%}
+{%- endfor -%}
+]
