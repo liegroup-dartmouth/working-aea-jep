@@ -9,7 +9,7 @@ entries:
         - title: AI Access
           jurl: /index.html
         - title: Article Index
-          jurl: /papers/article-index.html
+          jurl: /papers/article-index.json
         - title: View Articles
           jurl: /view-articles.html
         - title: Download Articles

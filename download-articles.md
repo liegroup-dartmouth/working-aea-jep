@@ -15,7 +15,7 @@ footer: footer
 
 
 
-These instructions explain how to download XHTML papers, their associated images, and style files from the [working-aea-jep](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages) GitHub repository, and how to view them locally on your computer. These are intented for humans as an AI assistant may encounter issues in accessing this URLs; navigate to [AI Access]({{ site.baseurl }}/ai-access.html) for more information.
+These instructions explain how to download XHTML papers, their associated images, and style files from the [working-aea-jep](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages) GitHub repository, and how to view them locally on your computer. These are intented for humans as an AI assistant may encounter issues in accessing this URLs; navigate to [AI Access]({{ site.baseurl }}/index.html) for more information.
 
 ---
 
