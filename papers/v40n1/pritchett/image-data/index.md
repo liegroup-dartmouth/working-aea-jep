@@ -7,11 +7,6 @@ Underlying data for Figures and Tables in [Pritchett]({{ site.baseurl }}/papers/
 
 Citation: [Vol. 40, No. 1, pp. 71–92, Winter 2026](https://doi.org/10.1257/jep.20251461).
 
-{% assign data_files = site.static_files | where_exp: "file", "file.path contains '/pritchett/image-data/'" | sort: "name" %}
-{% if data_files.size == 0 %}
-No data files were found.
-{% else %}
-{% for file in data_files %}
-- [{{ file.name }}]({{ site.baseurl }}{{ file.path }})
-{% endfor %}
-{% endif %}
+- Figure 1: The Timing and Depth of Fall in Fertility Differs Widely Across Regions of the World ([18.csv]({{ site.baseurl }}/papers/v40n1/pritchett/image-data/18.csv))
+- Table 1: By 2050 Nearly All Labor Force Aged Expansion Happens in Africa and South Asia ([19.csv]({{ site.baseurl }}/papers/v40n1/pritchett/image-data/19.csv))
+- Table 2: Implications of Meeting Labor Force Gaps with Permanent Migration ([20.csv]({{ site.baseurl }}/papers/v40n1/pritchett/image-data/20.csv))

@@ -1,7 +1,7 @@
-Figure Order,Figure 7
-Figure Title,Period Rates Can Overstate Policy Impacts: Romanian Total Fertility Rate and Completed Cohort Fertility
-Source,"TFR estimates are from the 2024 UN World Population Prospects (United Nations 2024). Completed cohort fertility estimates for Bulgaria are from the HFD, and for Romania are from Ghe__u (1997)."
-Note,Figure displays the period total fertility rates and completed cohort fertility for Romania. Cohorts are plotted at their date of birth plus 30 years. Decree 770 was in force from 1966 to 1989.
+Figure Order,Figure 6
+Figure Title,Completed Cohort Fertility Is at or near All-Time Lows
+Source,Data are from the Human Fertility Database (HFD).
+Note,Each datapoint is a country.
 
 ISO3Alphacode,CCFLowest,CCFLatest
 AUT,1.61,1.624

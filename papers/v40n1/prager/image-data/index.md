@@ -7,11 +7,5 @@ Underlying data for Figures and Tables in [Prager]({{ site.baseurl }}/papers/v40
 
 Citation: [Vol. 40, No. 1, pp. 115–138, Winter 2026](https://doi.org/10.1257/jep.20241446).
 
-{% assign data_files = site.static_files | where_exp: "file", "file.path contains '/prager/image-data/'" | sort: "name" %}
-{% if data_files.size == 0 %}
-No data files were found.
-{% else %}
-{% for file in data_files %}
-- [{{ file.name }}]({{ site.baseurl }}{{ file.path }})
-{% endfor %}
-{% endif %}
+- Table 1: Candidates for Defining a Labor Market ([23.csv]({{ site.baseurl }}/papers/v40n1/prager/image-data/23.csv))
+- Figure 1: Clustering SOC Occupation Codes by Cross-Occupation Flows ([24.csv]({{ site.baseurl }}/papers/v40n1/prager/image-data/24.csv))

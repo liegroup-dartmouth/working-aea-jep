@@ -7,11 +7,8 @@ Figures and Tables in [Weil]({{ site.baseurl }}/papers/v40n1/weil/paper.xhtml) i
 
 Citation: [Vol. 40, No. 1, pp. 27–46, Winter 2026](https://doi.org/10.1257/jep.20251462).
 
-{% assign data_files = site.static_files | where_exp: "file", "file.path contains '/weil/image/'" | sort: "name" %}
-{% if data_files.size == 0 %}
-No images were found.
-{% else %}
-{% for file in data_files %}
-- [{{ file.name }}]({{ site.baseurl }}{{ file.path }})
-{% endfor %}
-{% endif %}
+- Figure 1: Population Pyramids for the United States ([9.jpg]({{ site.baseurl }}/papers/v40n1/weil/image/9.jpg))
+- Table 1: Stable Populations for the United States ([10.jpg]({{ site.baseurl }}/papers/v40n1/weil/image/10.jpg))
+- Figure 2: Age Profiles of Consumption and Labor Income ([11.jpg]({{ site.baseurl }}/papers/v40n1/weil/image/11.jpg))
+- Figure 3: The Demographic Dividend and the Demographic Debit ([12.jpg]({{ site.baseurl }}/papers/v40n1/weil/image/12.jpg))
+- Figure 4: Adjusted Support Ratio by UN Fertility Scenario ([13.jpg]({{ site.baseurl }}/papers/v40n1/weil/image/13.jpg))

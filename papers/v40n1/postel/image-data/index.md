@@ -7,11 +7,9 @@ Underlying data for Figures and Tables in [Postel]({{ site.baseurl }}/papers/v40
 
 Citation: [Vol. 40, No. 1, pp. 191–214, Winter 2026](https://doi.org/10.1257/jep.20251453).
 
-{% assign data_files = site.static_files | where_exp: "file", "file.path contains '/postel/image-data/'" | sort: "name" %}
-{% if data_files.size == 0 %}
-No data files were found.
-{% else %}
-{% for file in data_files %}
-- [{{ file.name }}]({{ site.baseurl }}{{ file.path }})
-{% endfor %}
-{% endif %}
+- Figure 1: Share of US Population Born Abroad by Major Asian Country ([26.csv]({{ site.baseurl }}/papers/v40n1/postel/image-data/26.csv))
+- Table 1: Major US Immigration Legislation Affecting Asian Origin Groups, 1943–1952 ([27.csv]({{ site.baseurl }}/papers/v40n1/postel/image-data/27.csv))
+- Figure 2: Yearly Permanent Immigrant Entries to the United States, 1940–1970 ([28.csv]({{ site.baseurl }}/papers/v40n1/postel/image-data/28.csv))
+- Figure 3: Foreign-Born Population in the United States from Major Asian Countries ([29.csv]({{ site.baseurl }}/papers/v40n1/postel/image-data/29.csv))
+- Figure 5: Asian Immigrant Residence Concentration in Gateways, 1960–2023 ([31.csv]({{ site.baseurl }}/papers/v40n1/postel/image-data/31.csv))
+- Table 2: Top Employment Industry by Country of Birth, 1990–2019 ([32.csv]({{ site.baseurl }}/papers/v40n1/postel/image-data/32.csv))
