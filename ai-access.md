@@ -16,9 +16,9 @@ The structured article index lists every article with its title, authors, miniab
 https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json
 ```
 
-**GitHub blob URL** (recommended, reachable from most agent network environments though larger in size):
+**GitHub raw URL** (recommended, reachable from most agent network environments):
 ```
-https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/article-index.json
+https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/article-index.json
 ```
 
 Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text.
@@ -55,11 +55,11 @@ The article index include individual paper metadata (i.e. title, authors, mini-a
 
 ## Additional Resources for AI Agents
 
-| File | Blob URL | Site URL |
+| File | Raw URL | Site URL |
 |------|----------|----------|
-| `robots.txt` | https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/robots.txt | https://liegroup-dartmouth.github.io/working-aea-jep/robots.txt |
-| `llms.txt` | https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/llms.txt | https://liegroup-dartmouth.github.io/working-aea-jep/llms.txt |
-| `sitemap.xml` | https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/sitemap.xml | https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml |
+| `robots.txt` | https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/robots.txt | https://liegroup-dartmouth.github.io/working-aea-jep/robots.txt |
+| `llms.txt` | https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/llms.txt | https://liegroup-dartmouth.github.io/working-aea-jep/llms.txt |
+| `sitemap.xml` | https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/sitemap.xml | https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml |
 
 ---
 

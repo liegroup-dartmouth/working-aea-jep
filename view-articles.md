@@ -16,9 +16,9 @@ This page lists all articles in this repository with corresponding links for hum
 https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json
 ```
 
-**GitHub blob URL** (recommended, reachable from most agent network environments though larger in size):
+**GitHub raw URL** (recommended, reachable from most agent network environments though larger in size):
 ```
-https://github.com/liegroup-dartmouth/working-aea-jep/blob/gh-pages/papers/article-index.json
+https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/article-index.json
 ```
 
 Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text. See [AI Access]({{ site.baseurl }}/index.html) for more detail on what agents can and cannot retrieve through this channel.

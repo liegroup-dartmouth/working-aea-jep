@@ -15,16 +15,13 @@ Sitemap: https://liegroup-dartmouth.github.io/working-aea-jep/sitemap.xml
 #
 # Start here — structured article article-index (titles, authors, miniabstracts,
 # symposium names, DOIs, and direct links to every article and data file):
-#   https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json
+#   https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/article-index.json
 #
 # Full access guide and recommended workflow for agents:
-#   https://liegroup-dartmouth.github.io/working-aea-jep/ai-access.md
-#
-# Human-readable Markdown index of all articles:
-#   https://liegroup-dartmouth.github.io/working-aea-jep/papers/index.md
+#   https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/ai-access.md
 #
 # LLM guidance file (llms.txt convention):
-#   https://liegroup-dartmouth.github.io/working-aea-jep/llms.txt
+#   https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/llms.txt
 
 # ---------------------------------------------------------------------------
 # FOR HUMAN VISITORS
