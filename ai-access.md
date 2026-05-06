@@ -29,17 +29,17 @@ Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_n
 
 This repository is published as a GitHub Pages site at `liegroup-dartmouth.github.io`. Most AI agent environments block outbound requests to `*.github.io` hosts.
 
-The article index include individual paper metadata (i.e. title, authors, mini-abstract, DOI) as well as URLs for the paper's abstract, the full paper, individual JPG figures, and underlying data for all figures in CSV format. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
+The article index include individual paper metadata (i.e. title, authors, mini-abstract, DOI) as well as URLs for the paper's abstract, the full paper, individual JPG (or PNG) figures, and underlying data for all figures in CSV format. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
 
 ---
 
 ## Recommended Access Workflow
 
-1. Fetch the article index via its URL (above).
-2. Filter articles by `symposium_name`, `title`, and/or read `miniabstract` fields to identify relevant papers.
-3. Optionally fetch individual `abstract_url` values for deeper filtering before committing to full-text reads.
-4. Fetch `paper_url` for each relevant article's full text.
-4. Optionally fetch `figures_data` for underlying data (including title, captions, labels, and data points) for each figure and table referenced in the paper in CSV format.
+1. Fetch the article index from the URL above to get the full list of articles.
+2. Identify relevant papers by filtering on `symposium_name` and `title`, and/or by reading the `miniabstract` and `figures_titles` fields.
+3. (Optional) Narrow further by fetching `abstract_url` for any candidate articles before committing to full-text reads.
+4. Fetch full text via `paper_url` for each relevant article.
+5. (Optional) Fetch underlying figure/table data via `figures_data`, which returns CSV files containing data points, titles, captions, labels, and sources. Note: figure titles also appear in the index under `figures_titles`, but captions and sources appear only in the CSV files — not in the paper itself.
 
 ---
 
@@ -68,7 +68,3 @@ The article index include individual paper metadata (i.e. title, authors, mini-a
 If you are building a pipeline that ingests JEP articles, use the article index as your structured index. Each article entry contains fully-qualified URLs for all resources. 
 
 Human visitors can browse articles via the [View Articles]({{ site.baseurl }}/view-articles.html) tab.
-
----
-
-For information about this site, see [About]({{ site.baseurl }}/about.html).
