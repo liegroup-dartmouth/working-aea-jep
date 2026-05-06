@@ -16,7 +16,7 @@ The structured article index lists every article with its title, authors, miniab
 https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json
 ```
 
-**GitHub raw URL** (recommended, reachable from most agent network environments):
+**GitHub Raw URL** (recommended, reachable from most agent network environments):
 ```
 https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/article-index.json
 ```
@@ -27,7 +27,7 @@ Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_n
 
 ## Why Use the Article Index First
 
-This repository is published as a GitHub Pages site at `liegroup-dartmouth.github.io`. Most AI agent environments block outbound requests to `*.github.io` hosts.
+This repository is published as a GitHub Pages site at `liegroup-dartmouth.github.io`. Most AI agent environments block outbound requests to `*.github.io` hosts. We recommend you use Raw URLs.
 
 The article index include individual paper metadata (i.e. title, authors, mini-abstract, DOI) as well as URLs for the paper's abstract, the full paper, individual JPG (or PNG) figures, and underlying data for all figures in CSV format. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
 
