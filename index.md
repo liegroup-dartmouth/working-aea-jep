@@ -9,20 +9,22 @@ This site hosts machine-readable companion files for articles published in the [
 
 Repository: [liegroup-dartmouth/working-aea-jep](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages) (gh-pages branch)
 
+---
 
-**What Is Available**
+### What Is Available
 
 The article index [article-index.json](https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json), a single structured JSON file, lists every article available through this site along with metadata (title, authors, pages, DOI, article type, symposium name), a mini-abstract, figure titles, and raw-URL pointers to all per-article resources (~28 KB). 
 
-For every article in Volume 40 Number 1 (and eventually for each published issue), this site provides:
+For every article in Volume 40 Number 1, this site provides:
 
 - Abstract (`abstract.html`): a small standalone HTML file (< 5 KB) containing the abstract and key metadata. Useful for screening articles before fetching full text.
 - Full article text (`paper.xhtml`): full body paper in a single XHTML file. Files are 70–96 KB; both human and machine readable.
 - Figure images (`image/*.jpg` or `.png`): one image file per figure and table as it appears in print. Note: image bytes cannot be retrieved from most AI agent network environments.
 - Figure data (`image-data/*.csv`): underlying data for figures and tables in CSV format, including titles, captions, axis labels, data points, and sources. Most files are under 10 KB.
 
+---
 
-**Site Pages**
+### Site Pages
 
 | Page | Description |
 |------|-------------|
@@ -33,7 +35,7 @@ For every article in Volume 40 Number 1 (and eventually for each published issue
 
 ---
 
-**For AI Agents**
+### For AI Agents
 
 **Start at the [AI Access]({{ site.baseurl }}/index.html) page.** It is the primary entry point for agents and provides the recommended access workflow.
 
