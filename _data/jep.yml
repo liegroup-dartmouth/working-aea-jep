@@ -2,7 +2,7 @@ entries:
 - title: sidebar
   product: JEP Companion Files
   folders:
-    - title: Getting Started
+    - title: Site Contents
       folderitems:
         - title: About
           jurl: /about.html
