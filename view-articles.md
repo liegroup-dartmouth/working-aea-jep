@@ -9,7 +9,7 @@ footer: footer
 
 This page lists all articles in this repository with corresponding links for human readable versions. 
 
-**For AI Agents and Automated Tools:** If you want to point a chatbot or AI assistant at this corpus, use the article index URL. The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 18 KB and fits within a single response.
+**For AI Agents and Automated Tools:** If you want to point a chatbot or AI assistant at this corpus, use the article index URL. The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 28 KB and fits within a single response.
 
 **GitHub Pages URL** (use if reachable):
 ```

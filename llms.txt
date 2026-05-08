@@ -2,7 +2,7 @@
 
 > Static site hosting machine-readable (XHTML + JSON) companion files for articles published in the *Journal of Economic Perspectives* (American Economic Association, ISSN 0895-3309). Maintained at the repository `liegroup-dartmouth/working-aea-jep`, served from the `gh-pages` branch.
 
-> Note for AI agents: The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 18 KB and fits within a single response.
+> Note for AI agents: The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 28 KB and fits within a single response.
 
 **GitHub Pages URL** (use if reachable):
 ```
