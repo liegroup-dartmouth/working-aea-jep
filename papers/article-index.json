@@ -18,7 +18,7 @@
       "doi": "https://doi.org/10.1257/jep.40.1.1"
     },
     {
-		  "paper_id": "20251463",
+		  "article_id": "20251463",
       "title": "The Likelihood of Persistently Low Global Fertility",
       "type": "Symposium",
       "symposium_name": "Fertility",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "paper_id": "20251462",
+      "article_id": "20251462",
       "title": "How Much Would Continued Low Fertility Affect the US Standard of Living?",
       "type": "Symposium",
       "symposium_name": "Fertility",
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "paper_id": "20251460", 
+      "article_id": "20251460", 
       "title": "Family Institutions and the Global Fertility Transition",
       "type": "Symposium",
       "symposium_name": "Fertility",
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "paper_id": "20251461",
+      "article_id": "20251461",
       "title": "Global Labor Mobility between Shrinking and Growing Labor Forces",
       "type": "Symposium",
       "symposium_name": "Fertility",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "paper_id": "20251456",
+      "article_id": "20251456",
       "title": "Labor Market Power: From Micro Evidence to Macro Consequences",
       "type": "Symposium",
       "symposium_name": "Labor Markets",
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "paper_id": "20241446",
+      "article_id": "20241446",
       "title": "Antitrust Enforcement in Labor Markets",
       "type": "Symposium",
       "symposium_name": "Labor Markets",
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "paper_id": "20251457",
+      "article_id": "20251457",
       "title": "The Economics of Noncompete Clauses",
       "type": "Symposium",
       "symposium_name": "Labor Markets",
@@ -232,7 +232,7 @@
       "figures_data": []
     },
     {
-      "paper_id": "20251458",
+      "article_id": "20251458",
       "title": "Occupational Licensing in the United States",
       "type": "Symposium",
       "symposium_name": "Labor Markets",
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "paper_id": "20251453",
+      "article_id": "20251453",
       "title": "Asian Immigration to the United States in Historical Perspective",
       "type": "Symposium",
       "symposium_name": "Asian Immigration",
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "paper_id": "20251454",
+      "article_id": "20251454",
       "title": "From Asia, with Skills",
       "type": "Symposium",
       "symposium_name": "Asian Immigration",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "paper_id": "20251497",
+      "article_id": "20251497",
       "title": "Recommendations for Further Reading",
       "type": "Feature",
       "authors": [
