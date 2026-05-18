@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Geruso & Spears: Underlying Image Data"
+article_id: "20251463"
 ---
 
 Underlying data for Figures and Tables in [Geruso & Spears]({{ site.baseurl }}/papers/v40n1/geruso-spears/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.

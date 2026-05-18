@@ -14,27 +14,3 @@ entries:
           jurl: /view-articles.html
         - title: Download Articles
           jurl: /download-articles.html
-    # - title: "Vol. 40, No. 1 (Winter 2026)"
-    #   folderitems:
-    #     - title: "Geruso & Spears — Persistently Low Global Fertility"
-    #       jurl: /papers/v40n1/geruso-spears/paper.xhtml
-    #     - title: "Weil — Low Fertility and US Living Standards"
-    #       jurl: /papers/v40n1/weil/paper.xhtml
-    #     - title: "Gobbi, Hannusch & Rossi — Global Fertility Transition"
-    #       jurl: /papers/v40n1/gobbi-hannusch-rossi/paper.xhtml
-    #     - title: "Pritchett — Global Labor Mobility"
-    #       jurl: /papers/v40n1/pritchett/paper.xhtml
-    #     - title: "Berger, Herkenhoff & Mongey — Labor Market Power"
-    #       jurl: /papers/v40n1/berger-herkenhoff-mongey/paper.xhtml
-    #     - title: "Prager — Antitrust in Labor Markets"
-    #       jurl: /papers/v40n1/prager/paper.xhtml
-    #     - title: "Starr — Economics of Noncompete Clauses"
-    #       jurl: /papers/v40n1/starr/paper.xhtml
-    #     - title: "Johnson — Occupational Licensing"
-    #       jurl: /papers/v40n1/johnson/paper.xhtml
-    #     - title: "Postel — Asian Immigration (Historical)"
-    #       jurl: /papers/v40n1/postel/paper.xhtml
-    #     - title: "Khanna — From Asia, with Skills"
-    #       jurl: /papers/v40n1/khanna/paper.xhtml
-    #     - title: "Taylor — Recommendations for Further Reading"
-    #       jurl: /papers/v40n1/taylor/paper.xhtml

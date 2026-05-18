@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Geruso & Spears: Images"
+article_id: "20251463"
 ---
 
 Figures and Tables in [Geruso & Spears]({{ site.baseurl }}/papers/v40n1/geruso-spears/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.
