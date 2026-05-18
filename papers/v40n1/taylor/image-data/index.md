@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Taylor: Underlying Image Data"
+article_id: "20251497"
 ---
 
 Underlying data for Figures and Tables in [Taylor]({{ site.baseurl }}/papers/v40n1/taylor/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.

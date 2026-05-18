@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Weil: Underlying Image Data"
+article_id: "20251462"
 ---
 
 Underlying data for Figures and Tables in [Weil]({{ site.baseurl }}/papers/v40n1/weil/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.

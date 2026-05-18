@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Khanna: Images"
+article_id: "20251454"
 ---
 
 Figures and Tables in [Khanna]({{ site.baseurl }}/papers/v40n1/khanna/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.

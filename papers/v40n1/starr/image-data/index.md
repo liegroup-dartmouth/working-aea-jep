@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Starr: Underlying Image Data"
+article_id: "20251457"
 ---
 
 Underlying data for Figures and Tables in [Starr]({{ site.baseurl }}/papers/v40n1/starr/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Gobbi, Hannusch & Rossi: Images"
+article_id: "20251460"
 ---
 
 Figures and Tables in [Gobbi, Hannusch & Rossi]({{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.

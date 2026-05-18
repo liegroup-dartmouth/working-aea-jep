@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Khanna: Underlying Image Data"
+article_id: "20251454"
 ---
 
 Underlying data for Figures and Tables in [Khanna]({{ site.baseurl }}/papers/v40n1/khanna/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.

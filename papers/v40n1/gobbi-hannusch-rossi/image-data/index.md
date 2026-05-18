@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Gobbi, Hannusch & Rossi: Underlying Image Data"
+article_id: "20251460"
 ---
 
 Underlying data for Figures and Tables in [Gobbi, Hannusch & Rossi]({{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.

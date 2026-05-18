@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Pritchett: Images"
+article_id: "20251461"
 ---
 
 Figures and Tables in [Pritchett]({{ site.baseurl }}/papers/v40n1/pritchett/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.

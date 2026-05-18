@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Weil: Images"
+article_id: "20251462"
 ---
 
 Figures and Tables in [Weil]({{ site.baseurl }}/papers/v40n1/weil/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.

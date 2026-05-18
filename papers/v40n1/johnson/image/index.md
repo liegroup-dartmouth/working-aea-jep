@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Johnson: Images"
+article_id: "20251458"
 ---
 
 Figures and Tables in [Johnson]({{ site.baseurl }}/papers/v40n1/johnson/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Berger, Herkenhoff & Mongey: Underlying Image Data"
+article_id: "20251456"
 ---
 
 Underlying data for Figures and Tables in [Berger, Herkenhoff & Mongey]({{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.

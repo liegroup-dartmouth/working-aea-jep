@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Postel: Images"
+article_id: "20251453"
 ---
 
 Figures and Tables in [Postel]({{ site.baseurl }}/papers/v40n1/postel/paper.xhtml) in JPG or PNG format. File names correspond to the image names used in the article interior syntax.

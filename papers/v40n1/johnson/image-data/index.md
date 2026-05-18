@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Johnson: Underlying Image Data"
+article_id: "20251458"
 ---
 
 Underlying data for Figures and Tables in [Johnson]({{ site.baseurl }}/papers/v40n1/johnson/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.

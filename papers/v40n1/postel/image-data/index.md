@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Postel: Underlying Image Data"
+article_id: "20251453"
 ---
 
 Underlying data for Figures and Tables in [Postel]({{ site.baseurl }}/papers/v40n1/postel/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.

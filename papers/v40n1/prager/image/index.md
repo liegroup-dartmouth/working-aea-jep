@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Prager: Images"
+article_id: "20241446"
 ---
 
 Figures and Tables in [Prager]({{ site.baseurl }}/papers/v40n1/prager/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.
