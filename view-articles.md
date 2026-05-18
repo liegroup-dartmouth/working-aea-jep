@@ -53,7 +53,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>Michael Geruso<br>Dean Spears</td>
 <td><a href="https://doi.org/10.1257/jep.20251463">Vol. 40, No. 1, pp. 3–26, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/jep.20251456.xhtml">paper xhtml</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/image-data/index.html">CSV files</a></td>
 </tr>
