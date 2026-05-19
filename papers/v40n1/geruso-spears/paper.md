@@ -5,7 +5,7 @@ article_id: "20251463"
 sidebar: jep
 ---
 
-Michael Geruso and Dean Spears
+*Michael Geruso and Dean Spears*
 
 ```json
 {

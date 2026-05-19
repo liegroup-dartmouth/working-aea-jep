@@ -152,6 +152,12 @@ h1.page-title {
 .related-resources li a { font-size: 13px; }
 
 /* ========== MAIN CONTENT ========== */
+.main-content-wrapper img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 .main-content-wrapper {
     margin-left: 220px;
     padding: 20px 30px;
