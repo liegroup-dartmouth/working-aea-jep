@@ -153,9 +153,10 @@ h1.page-title {
 
 /* ========== MAIN CONTENT ========== */
 .main-content-wrapper img {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     display: block;
+    margin: 0 auto;
 }
 
 .main-content-wrapper {
