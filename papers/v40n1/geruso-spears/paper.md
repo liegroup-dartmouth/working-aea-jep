@@ -2,7 +2,10 @@
 layout: default
 title: "The Likelihood of Persistently Low Global Fertility"
 article_id: "20251463"
+sidebar: jep
 ---
+
+Michael Geruso and Dean Spears
 
 ```json
 {
@@ -51,10 +54,6 @@ article_id: "20251463"
 		]
 		}
 ```
-
-# The Likelihood of Persistently Low Global Fertility
-
-Michael Geruso and Dean Spears
 
 Fertility is low or falling across the world: among high-, middle-, and ­low-income countries; among secular and religious populations; and in economies where the state is large and where it is small. Birth rates have been falling not only for decades, but for centuries. They have been falling for as long as there are good historical records to document them. Occasional bumps—even big ones like the ­mid-twentieth-century Baby Boom—have been temporary variations around this ­long-term global trend.
 
@@ -335,6 +334,8 @@ The possibility of a future in which the global population shrinks—generation 
 ■ Michael Geruso and Dean Spears are both Associate Professors of Economics at the University of Texas at Austin. Geruso is also a Faculty Research Associate, National Bureau of Economic Research, Cambridge, Massachusetts. Spears is also a Research Fellow, Institute of Labor Economics (IZA), Bonn, Germany, and Founding Executive Director of r. i. c. e., Uttar Pradesh, India. Their email addresses are [mike.geruso@utexas.edu](mailto:mike.geruso@utexas.edu) and [dspears@utexas.edu](mailto:dspears@utexas.edu).
 
 For supplementary materials such as appendices, datasets, and author disclosure statements, see the article page at [https://doi.org/10.1257/jep.20251463](https://doi.org/10.1257/jep.20251463).
+
+## Footnotes
 
 <p id="footnote-011"><sup><a href="#footnote-011-backlink">1</a></sup> The estimate of 44 percent equals the decline after two generations of shrinking at 25 percent per generation: 1 − (1.5/2.0)<sup>2</sup>. For simplicity, the calculations in this paragraph assume a replacement rate of 2.0, which is slightly lower than any true replacement rate, as we discuss in detail in the next section. Substituting a higher replacement rate assumption, such as 2.1 children per woman, would yield faster generational declines.</p>
 
