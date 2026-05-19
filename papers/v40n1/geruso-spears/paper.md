@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Likelihood of Persistently Low Global Fertility"
+article_id: "20251463"
+---
+
 ```json
 {
 		"article_id": "20251463",
