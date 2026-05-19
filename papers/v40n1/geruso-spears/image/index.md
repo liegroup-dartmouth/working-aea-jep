@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Geruso & Spears: Images"
+title: "The Likelihood of Persistently Low Global Fertility (Geruso and Spears, 2026): Images"
 article_id: "20251463"
+sidebar: jep
 ---
 
 Figures and Tables in [Geruso & Spears]({{ site.baseurl }}/papers/v40n1/geruso-spears/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.
