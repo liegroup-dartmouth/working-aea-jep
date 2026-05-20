@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Prager: Images"
+title: "Antitrust Enforcement in Labor Markets: Images"
 article_id: "20241446"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Weil: Images"
+title: "How Much Would Continued Low Fertility Affect the US Standard of Living?: Images"
 article_id: "20251462"
 ---
 

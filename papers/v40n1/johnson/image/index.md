@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Johnson: Images"
+title: "Occupational Licensing in the United States: Images"
 article_id: "20251458"
 ---
 

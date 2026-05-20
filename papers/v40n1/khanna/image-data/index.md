@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Khanna: Underlying Image Data"
+title: "From Asia, with Skills: Underlying Image Data"
 article_id: "20251454"
 ---
 

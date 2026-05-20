@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Postel: Underlying Image Data"
+title: "Asian Immigration to the United States in Historical Perspective: Underlying Image Data"
 article_id: "20251453"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Prager: Underlying Image Data"
+title: "Antitrust Enforcement in Labor Markets: Underlying Image Data"
 article_id: "20241446"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Berger, Herkenhoff & Mongey: Images"
+title: "Labor Market Power: From Micro Evidence to Macro Consequences: Images"
 article_id: "20251456"
 ---
 

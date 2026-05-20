@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Johnson: Underlying Image Data"
+title: "Occupational Licensing in the United States: Underlying Image Data"
 article_id: "20251458"
 ---
 

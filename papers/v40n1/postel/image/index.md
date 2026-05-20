@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Postel: Images"
+title: "Asian Immigration to the United States in Historical Perspective: Images"
 article_id: "20251453"
 ---
 

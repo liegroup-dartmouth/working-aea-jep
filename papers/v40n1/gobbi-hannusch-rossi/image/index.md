@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Gobbi, Hannusch & Rossi: Images"
+title: "Family Institutions and the Global Fertility Transition: Images"
 article_id: "20251460"
 ---
 

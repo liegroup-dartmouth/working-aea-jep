@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Starr: Underlying Image Data"
+title: "The Economics of Noncompete Clauses: Underlying Image Data"
 article_id: "20251457"
 ---
 

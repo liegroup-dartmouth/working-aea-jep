@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Gobbi, Hannusch & Rossi: Underlying Image Data"
+title: "Family Institutions and the Global Fertility Transition: Underlying Image Data"
 article_id: "20251460"
 ---
 

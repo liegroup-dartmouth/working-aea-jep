@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Khanna: Images"
+title: "From Asia, with Skills: Images"
 article_id: "20251454"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Weil: Underlying Image Data"
+title: "How Much Would Continued Low Fertility Affect the US Standard of Living?: Underlying Image Data"
 article_id: "20251462"
 ---
 

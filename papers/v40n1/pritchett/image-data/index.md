@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Pritchett: Underlying Image Data"
+title: "Global Labor Mobility between Shrinking and Growing Labor Forces: Underlying Image Data"
 article_id: "20251461"
 ---
 

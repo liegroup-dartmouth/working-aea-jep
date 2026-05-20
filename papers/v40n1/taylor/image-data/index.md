@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Taylor: Underlying Image Data"
+title: "Recommendations for Further Reading: Underlying Image Data"
 article_id: "20251497"
 ---
 

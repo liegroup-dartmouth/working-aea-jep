@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Taylor: Images"
+title: "Recommendations for Further Reading: Images"
 article_id: "20251497"
 ---
 

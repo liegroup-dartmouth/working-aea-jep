@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Starr: Images"
+title: "The Economics of Noncompete Clauses: Images"
 article_id: "20251457"
 ---
 
