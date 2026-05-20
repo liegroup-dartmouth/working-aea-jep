@@ -4,7 +4,7 @@ title: "Prager: Images"
 article_id: "20241446"
 ---
 
-Figures and Tables in [Prager]({{ site.baseurl }}/papers/v40n1/prager/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.
+Figures and Tables in [Prager (2026)]({{ site.baseurl }}/papers/v40n1/prager/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.
 
 Citation: [Vol. 40, No. 1, pp. 115–138, Winter 2026](https://doi.org/10.1257/jep.20241446).
 

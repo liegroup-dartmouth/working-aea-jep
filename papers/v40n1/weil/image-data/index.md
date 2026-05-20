@@ -4,7 +4,7 @@ title: "Weil: Underlying Image Data"
 article_id: "20251462"
 ---
 
-Underlying data for Figures and Tables in [Weil]({{ site.baseurl }}/papers/v40n1/weil/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.
+Underlying data for Figures and Tables in [Weil (2026)]({{ site.baseurl }}/papers/v40n1/weil/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.
 
 Citation: [Vol. 40, No. 1, pp. 27–46, Winter 2026](https://doi.org/10.1257/jep.20251462).
 

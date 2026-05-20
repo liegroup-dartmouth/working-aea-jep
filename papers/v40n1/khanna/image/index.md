@@ -4,7 +4,7 @@ title: "Khanna: Images"
 article_id: "20251454"
 ---
 
-Figures and Tables in [Khanna]({{ site.baseurl }}/papers/v40n1/khanna/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.
+Figures and Tables in [Khanna (2026)]({{ site.baseurl }}/papers/v40n1/khanna/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.
 
 Citation: [Vol. 40, No. 1, pp. 215–240, Winter 2026](https://doi.org/10.1257/jep.20251454).
 

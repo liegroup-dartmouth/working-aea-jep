@@ -4,7 +4,7 @@ title: "Postel: Images"
 article_id: "20251453"
 ---
 
-Figures and Tables in [Postel]({{ site.baseurl }}/papers/v40n1/postel/paper.xhtml) in JPG or PNG format. File names correspond to the image names used in the article interior syntax.
+Figures and Tables in [Postel (2026)]({{ site.baseurl }}/papers/v40n1/postel/paper.xhtml) in JPG or PNG format. File names correspond to the image names used in the article interior syntax.
 
 Citation: [Vol. 40, No. 1, pp. 191–214, Winter 2026](https://doi.org/10.1257/jep.20251453).
 

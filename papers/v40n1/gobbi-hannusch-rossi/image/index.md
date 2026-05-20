@@ -4,7 +4,7 @@ title: "Gobbi, Hannusch & Rossi: Images"
 article_id: "20251460"
 ---
 
-Figures and Tables in [Gobbi, Hannusch & Rossi]({{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.
+Figures and Tables in [Gobbi, Hannusch, and Rossi (2026)]({{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/paper.xhtml) in JPG format. File names correspond to the image names used in the article interior syntax.
 
 Citation: [Vol. 40, No. 1, pp. 47–70, Winter 2026](https://doi.org/10.1257/jep.20251460).
 

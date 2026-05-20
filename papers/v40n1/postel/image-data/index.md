@@ -4,7 +4,7 @@ title: "Postel: Underlying Image Data"
 article_id: "20251453"
 ---
 
-Underlying data for Figures and Tables in [Postel]({{ site.baseurl }}/papers/v40n1/postel/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.
+Underlying data for Figures and Tables in [Postel (2026)]({{ site.baseurl }}/papers/v40n1/postel/paper.xhtml) in CSV format. File names correspond to the image names used in the article interior syntax.
 
 Citation: [Vol. 40, No. 1, pp. 191–214, Winter 2026](https://doi.org/10.1257/jep.20251453).
 
