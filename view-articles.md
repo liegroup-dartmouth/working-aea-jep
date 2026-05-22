@@ -9,7 +9,7 @@ footer: footer
 
 This page lists all articles in this repository with corresponding links for human readable versions. 
 
-**For AI Agents and Automated Tools:** If you want to point a chatbot or AI assistant at this corpus, use the article index URL. The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 28 KB and fits within a single response.
+**For AI Agents and Automated Tools:** If you want to point a chatbot or AI assistant at this corpus, use the article index URL. The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text html, abstracts, figures, and data files. It is approximately 28 KB and fits within a single response.
 
 **GitHub Pages URL** (use if reachable):
 ```
@@ -53,7 +53,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>Michael Geruso<br>Dean Spears</td>
 <td><a href="https://doi.org/10.1257/jep.20251463">Vol. 40, No. 1, pp. 3–26, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/paper.xhtml">paper.xhtml</a><br><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/paper.html">paper.md</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/geruso-spears/image-data/index.html">CSV files</a></td>
 </tr>
@@ -62,7 +62,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>David N. Weil</td>
 <td><a href="https://doi.org/10.1257/jep.20251462">Vol. 40, No. 1, pp. 27–46, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/weil/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/weil/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/weil/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/weil/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/weil/image-data/index.html">CSV files</a></td>
 </tr>
@@ -71,7 +71,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>Paula E. Gobbi<br>Anne Hannusch<br>Pauline Rossi</td>
 <td><a href="https://doi.org/10.1257/jep.20251460">Vol. 40, No. 1, pp. 47–70, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/gobbi-hannusch-rossi/image-data/index.html">CSV files</a></td>
 </tr>
@@ -80,7 +80,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>Lant Pritchett</td>
 <td><a href="https://doi.org/10.1257/jep.20251461">Vol. 40, No. 1, pp. 71–92, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/pritchett/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/pritchett/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/pritchett/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/pritchett/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/pritchett/image-data/index.html">CSV files</a></td>
 </tr>
@@ -89,7 +89,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>David Berger<br>Kyle Herkenhoff<br>Simon Mongey</td>
 <td><a href="https://doi.org/10.1257/jep.20251456">Vol. 40, No. 1, pp. 93–114, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/berger-herkenhoff-mongey/image-data/index.html">CSV files</a></td>
 </tr>
@@ -98,7 +98,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>Elena Prager</td>
 <td><a href="https://doi.org/10.1257/jep.20241446">Vol. 40, No. 1, pp. 115–138, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/prager/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/prager/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/prager/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/prager/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/prager/image-data/index.html">CSV files</a></td>
 </tr>
@@ -107,7 +107,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>Evan Starr</td>
 <td><a href="https://doi.org/10.1257/jep.20251457">Vol. 40, No. 1, pp. 139–166, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/starr/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/starr/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/starr/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/starr/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/starr/image-data/index.html">CSV files</a></td>
 </tr>
@@ -116,7 +116,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>Janna E. Johnson</td>
 <td><a href="https://doi.org/10.1257/jep.20251458">Vol. 40, No. 1, pp. 167–190, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/johnson/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/johnson/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/johnson/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/johnson/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/johnson/image-data/index.html">CSV files</a></td>
 </tr>
@@ -125,7 +125,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>Hannah M. Postel</td>
 <td><a href="https://doi.org/10.1257/jep.20251453">Vol. 40, No. 1, pp. 191–214, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/postel/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/postel/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/postel/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/postel/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/postel/image-data/index.html">CSV files</a></td>
 </tr>
@@ -134,7 +134,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>Gaurav Khanna</td>
 <td><a href="https://doi.org/10.1257/jep.20251454">Vol. 40, No. 1, pp. 215–240, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/khanna/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/khanna/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/khanna/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/khanna/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/khanna/image-data/index.html">CSV files</a></td>
 </tr>
@@ -143,7 +143,7 @@ This table is intended for humans as the hyperlink will only direct you within t
 <td>Timothy Taylor</td>
 <td><a href="https://doi.org/10.1257/jep.20251497">Vol. 40, No. 1, pp. 241–248, Winter 2026</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/taylor/abstract.html">abstract.html</a></td>
-<td><a href="{{ site.baseurl }}/papers/v40n1/taylor/paper.xhtml">paper.xhtml</a></td>
+<td><a href="{{ site.baseurl }}/papers/v40n1/taylor/paper.html">paper.html</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/taylor/image/index.html">JPG files</a></td>
 <td><a href="{{ site.baseurl }}/papers/v40n1/taylor/image-data/index.html">CSV files</a></td>
 </tr>
