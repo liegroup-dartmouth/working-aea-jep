@@ -1,7 +1,6 @@
 ---
 layout: default
 sidebar: jep
-title: "20251463"
 ---
 
 # The Likelihood of Persistently Low Global Fertility
