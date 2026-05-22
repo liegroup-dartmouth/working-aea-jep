@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "The Likelihood of Persistently Low Global Fertility"
 sidebar: jep
 ---
-
-# The Likelihood of Persistently Low Global Fertility
 
 *Michael Geruso and Dean Spears*
 
