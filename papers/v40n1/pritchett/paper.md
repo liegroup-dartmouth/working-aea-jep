@@ -313,7 +313,7 @@ It seems politically impossible to meet the labor force needs of the aging econo
 
 <p id="footnote-028"><sup><a href="#footnote-028-backlink">5</a></sup> The formula for the demographic gap as a function of a target ratio is straightforward: 
 
-$$\text{Demographic Gap(Target ratio)}_{2050} = \text{(Target \frac{LFA}_{65+} ratio)}_{2050} \text{x} \text{pop'l}_{2050}^{65+} - \text{pop'l}_{2050}^{LFA}.$$
+$$\text{Demographic Gap(Target ratio)}_{2050} = \text{(Target} \frac{LFA}{65+} \text{ratio)}_{2050} * \text{pop'l}_{2050}^{65+} - \text{pop'l}_{2050}^{LFA}.$$
 
 <p id="footnote-027"><sup><a href="#footnote-027-backlink">6</a></sup> A primary challenge with implementing this approach that the "top code" of ILO-reported labor force participation rates (LFPR) is for the 65 and over group. But of course, there will be a substantial difference between, say, the LFPR in the 65–70 age group as compared to that of the 85–90 age group. I handle this by assuming that the LFPR for each five-year cohort over is half that of the just younger age group (for example, 80–84 is half that of 75–79) to create a parametric estimate for each category out to 100+, and then adjusting the level of those LFPRs to match the 2020 reported aggregate 65+ LFPR. My base case calculation of the 2050 labor force uses the estimates of the 2050 population age/sex structure from the 2024 UN World Population Prospects Zero Migration scenario and each country's 2020 LFPRs by five-year age groups and sex.</p>
 
