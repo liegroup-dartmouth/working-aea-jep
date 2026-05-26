@@ -1,34 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }} | {{ site.uistring.title }}</title>
-    <meta name="description" content="{{ site.uistring.description }}">
-    <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/{{ site.favicon }}">
-    <link rel="alternate" type="application/json" href="{{ site.baseurl }}/papers/article-index.json" title="JEP article index" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.uistring.title }}</title>
+  <meta name="description" content="{{ site.uistring.description }}">
+  <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/{{ site.favicon }}">
+  <link rel="alternate" type="application/json" href="{{ site.baseurl }}/papers/article-index.json" title="JEP article index" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+  <script>
+    MathJax = {
+      tex: {
+        displayMath: [['$$', '$$']]
+      }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 </head>
 <body>
-    {% include topnav.html %}
-    {% include sidebar.html %}
-    <div class="main-content-wrapper" id="main-content">
-        {% if site.breadcrumb_display %}
-        {% include breadcrumb.html %}
-        {% endif %}
-
-        {% if page.title %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
-
-        {{ content }}
-    </div>
-    {% include footer.html %}
-    <script>var siteBaseurl = "{{ site.baseurl }}";</script>
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+  {% include topnav.html %}
+  {% include sidebar.html %}
+  <div class="main-content-wrapper" id="main-content">
+    {% if site.breadcrumb_display %}
+    {% include breadcrumb.html %}
+    {% endif %}
+    {% if page.title %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
+    {{ content }}
+  </div>
+  {% include footer.html %}
+  <script>var siteBaseurl = "{{ site.baseurl }}";</script>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/main.js"></script>
 </body>
 </html>
