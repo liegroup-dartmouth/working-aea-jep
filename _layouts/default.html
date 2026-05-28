@@ -15,8 +15,48 @@
     MathJax = {
       tex: {
         inlineMath: [['$', '$']],
-        displayMath: [['$$', '$$']],
-        processEscapes: true
+        displayMath: [['$$', '$$']]
+      },
+      startup: {
+        ready() {
+          // Protect currency dollar signs ($followed by digit) from being treated
+          // as math delimiters. Kramdown (GFM mode) strips the backslash from \$,
+          // so we must handle this in JS before MathJax scans the document.
+          const content = document.getElementById('main-content');
+          if (content) {
+            const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
+            const textNodes = [];
+            let node;
+            while ((node = walker.nextNode()) !== null) {
+              if (!node.parentElement.closest('script,style,code,pre,.tex2jax_ignore')) {
+                textNodes.push(node);
+              }
+            }
+            for (const textNode of textNodes) {
+              const text = textNode.nodeValue;
+              if (!/\$\d/.test(text)) continue;
+              const fragment = document.createDocumentFragment();
+              let last = 0;
+              const re = /\$(\d[\d,.]*)/g;
+              let m;
+              while ((m = re.exec(text)) !== null) {
+                if (m.index > last) {
+                  fragment.appendChild(document.createTextNode(text.slice(last, m.index)));
+                }
+                const span = document.createElement('span');
+                span.className = 'tex2jax_ignore';
+                span.textContent = m[0];
+                fragment.appendChild(span);
+                last = m.index + m[0].length;
+              }
+              if (last < text.length) {
+                fragment.appendChild(document.createTextNode(text.slice(last)));
+              }
+              textNode.parentNode.replaceChild(fragment, textNode);
+            }
+          }
+          MathJax.startup.defaultReady();
+        }
       }
     };
   </script>
