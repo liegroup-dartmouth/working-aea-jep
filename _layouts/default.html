@@ -18,10 +18,11 @@
         displayMath: [['$$', '$$']]
       },
       startup: {
-        ready() {
+        pageReady() {
+          // pageReady() fires after DOMContentLoaded, so #main-content exists.
           // Protect currency dollar signs ($followed by digit) from being treated
           // as math delimiters. Kramdown (GFM mode) strips the backslash from \$,
-          // so we must handle this in JS before MathJax scans the document.
+          // so we handle this in JS before MathJax scans for delimiters.
           const content = document.getElementById('main-content');
           if (content) {
             const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
@@ -55,7 +56,7 @@
               textNode.parentNode.replaceChild(fragment, textNode);
             }
           }
-          MathJax.startup.defaultReady();
+          return MathJax.startup.defaultPageReady();
         }
       }
     };
