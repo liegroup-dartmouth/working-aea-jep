@@ -361,7 +361,11 @@ $$\text{TFR} = \sum_{\text{age}=15}^{49} \text{ASFR}(\text{age}, \text{calendar 
 
 <p id="footnote-004"><sup><a href="#footnote-004-backlink">8</a></sup> For convenience, we sometimes refer to the countries in the HFD or subsets of them as “advanced economies,” but the International Monetary Fund (2025) classifies Belarus, Bulgaria, Hungary, Poland, Ukraine, and Russia as “emerging and developing.”</p>
 
-<p id="footnote-003"><sup><a href="#footnote-003-backlink">9</a></sup> Formally, in a regression of childlessness on cohort fertility using the data points in the figure, we estimate a large and statistically significant effect on an indicator for being an Indian district cohort (rather than an HFD country cohort): At the same level of cohort fertility, Indian observations have 7 percentage points (standard error 1 percentage point) lower cohort childlessness. The estimating equation is \\(\text{fraction childless} = \beta_{0} + \beta_{1}\text{cohort fertility}_{i} + \beta_{2} \textbf{1}[\text{India}_{i} ] + \epsilon_{i}\\), where cohorts are denoted by \\(i\\), \\(\text{India}_{i}\\) is an indicator for an Indian cohort, and \\(\beta_{2}\\) is the coefficient of interest. The regression is available in Geruso and Spears (2025b).</p>
+<p id="footnote-003"><sup><a href="#footnote-003-backlink">9</a></sup> Formally, in a regression of childlessness on cohort fertility using the data points in the figure, we estimate a large and statistically significant effect on an indicator for being an Indian district cohort (rather than an HFD country cohort): At the same level of cohort fertility, Indian observations have 7 percentage points (standard error 1 percentage point) lower cohort childlessness. The estimating equation is 
+
+$$\text{fraction childless} = \beta_{0} + \beta_{1}\text{cohort fertility}_{i} + \beta_{2} \textbf{1}[\text{India}_{i} ] + \epsilon_{i}, $$
+
+where cohorts are denoted by i, $\text{India}_{i}$ is an indicator for an Indian cohort, and $\beta_{2}$ is the coefficient of interest. The regression is available in Geruso and Spears (2025b).</p>
 
 <p id="footnote-002"><sup><a href="#footnote-002-backlink">10</a></sup> Each country is represented multiple times in the figure. Average lifetime fertility among the parous in the HFD country-cohorts is calculated as completed cohort fertility divided by one minus the fraction childless. In the Indian DHS microdata, it is calculated as the simple mean of children ever born among women with one or more births.</p>
 
