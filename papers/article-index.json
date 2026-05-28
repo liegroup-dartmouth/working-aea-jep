@@ -40,7 +40,7 @@
         "Figure 7: Period Rates Can Overstate Policy Impacts: Romanian Total Fertility Rate and Completed Cohort Fertility"
       ],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/geruso-spears/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/geruso-spears/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/geruso-spears/paper.md",
       "figures": [
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/geruso-spears/image/1.jpg",
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/geruso-spears/image/2.jpg",
@@ -81,7 +81,7 @@
         "Figure 4: Adjusted Support Ratio by UN Fertility Scenario"
       ],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/weil/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/weil/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/weil/paper.md",
       "figures": [
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/weil/image/9.jpg",
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/weil/image/10.jpg",
@@ -117,7 +117,7 @@
         "Figure 4: Family Institutions: Marriage Institutions and Inheritance Customs"
       ],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/gobbi-hannusch-rossi/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/gobbi-hannusch-rossi/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/gobbi-hannusch-rossi/paper.md",
       "figures": [
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image/14.jpg",
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/gobbi-hannusch-rossi/image/15.jpg",
@@ -148,7 +148,7 @@
         "Table 2: Implications of Meeting Labor Force Gaps with Permanent Migration"
       ],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/pritchett/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/pritchett/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/pritchett/paper.md",
       "figures": [
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/pritchett/image/18.jpg",
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/pritchett/image/19.jpg",
@@ -178,7 +178,7 @@
         "Figure 2: Evidence on Wage Markdowns"
       ],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/berger-herkenhoff-mongey/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/berger-herkenhoff-mongey/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/berger-herkenhoff-mongey/paper.md",
       "figures": [
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/berger-herkenhoff-mongey/image/21.jpg",
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/berger-herkenhoff-mongey/image/22.jpg"
@@ -204,7 +204,7 @@
         "Figure 1: Clustering SOC Occupation Codes by Cross-Occupation Flows"
       ],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/prager/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/prager/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/prager/paper.md",
       "figures": [
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/prager/image/23.jpg",
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/prager/image/24.jpg"
@@ -227,7 +227,7 @@
       "miniabstract": "Recent empirical evidence shows that noncompete clauses—often applied well beyond roles involving trade secrets—reduce worker mobility, wages, innovation, and entrepreneurship, while less restrictive alternatives can adequately protect firm interests.",
       "figures_titles": [],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/starr/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/starr/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/starr/paper.md",
       "figures": [],
       "figures_data": []
     },
@@ -246,7 +246,7 @@
         "Table 1: Fraction of Labor Force with an Occupational License or Certification, and 20 Largest Occupations with Government-Issued Licenses or Certifications"
       ],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/johnson/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/johnson/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/johnson/paper.md",
       "figures": [
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/johnson/image/25.jpg"
       ],
@@ -275,7 +275,7 @@
         "Table 2: Top Employment Industry by Country of Birth, 1990–2019"
       ],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/postel/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/postel/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/postel/paper.md",
       "figures": [
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/postel/image/26.jpg",
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/postel/image/27.jpg",
@@ -314,7 +314,7 @@
         "Figure 5: Physicians and Nurses in the United States 1990 and 2019"
       ],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/khanna/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/khanna/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/khanna/paper.md",
       "figures": [
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/khanna/image/33.jpg",
         "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/khanna/image/34.jpg",
@@ -341,7 +341,7 @@
       "doi": "https://doi.org/10.1257/jep.20251497",
       "figures_titles": [],
       "abstract_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/taylor/abstract.html",
-      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/taylor/paper.xhtml",
+      "paper_url": "https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/taylor/paper.md",
       "figures": [],
       "figures_data": []
     }

@@ -9,7 +9,7 @@ This is the primary entry point for AI agents accessing this site. Start here be
 
 ## Start Here: Article Index
 
-The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 28 KB and fits within a single response.
+The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text Markdown, abstracts, figures, and data files. It is approximately 28 KB and fits within a single response.
 
 **GitHub Pages URL** (use if reachable):
 ```
@@ -46,7 +46,7 @@ The article index include individual paper metadata (i.e. title, authors, mini-a
 ## What an Agent Can Read
 
 - **Article Index** (`papers/article-index.json`) — All articles, miniabstracts, symposium names, DOIs, and per-article resource URLs. ~28 KB; fits inline.
-- **Full article text** — Title, authors, abstract, all sections, footnotes, and figure captions are embedded in each `paper.xhtml` and readable via its URL. Files are large (70–96 KB); subagent dispatch may be needed.
+- **Full article text** — Title, authors, abstract, all sections, footnotes, and figure captions are embedded in each `paper.html` and readable via its URL. Files are large (70–96 KB); subagent dispatch may be needed. Markdown versions of the file are available through GitHub.
 - **Abstracts** — Each article has a small `abstract.html` file (linked from the article index) that fits within a single call.
 - **CSV and other data files** — Each article has URLs for CSV versions of all figures and tables in `figures_data`. These are generally below 10 KB in size but may be larger for files created through a replication package such as geruso-spears. These filles include title, captions, labels, data points, and all information observed in the JPG version.
 

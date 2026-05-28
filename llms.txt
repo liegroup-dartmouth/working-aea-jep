@@ -1,8 +1,8 @@
 # Journal of Economic Perspectives — LLM-Friendly Companion Files
 
-> Static site hosting machine-readable (XHTML + JSON) companion files for articles published in the *Journal of Economic Perspectives* (American Economic Association, ISSN 0895-3309). Maintained at the repository `liegroup-dartmouth/working-aea-jep`, served from the `gh-pages` branch.
+> Static site hosting machine-readable (Markdown + JSON) companion files for articles published in the *Journal of Economic Perspectives* (American Economic Association, ISSN 0895-3309). Maintained at the repository `liegroup-dartmouth/working-aea-jep`, served from the `gh-pages` branch.
 
-> Note for AI agents: The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text XHTML, abstracts, figures, and data files. It is approximately 28 KB and fits within a single response.
+> Note for AI agents: The structured article index lists every article with its title, authors, miniabstract, DOI, article type, symposium, and URLs for the full-text Markdown, abstracts, figures, and data files. It is approximately 28 KB and fits within a single response.
 
 **GitHub Pages URL** (use if reachable):
 ```
@@ -18,7 +18,7 @@ Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_n
 
 ## Primary entry points
 
-- [papers/article-index.json](https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json): structured JSON catalog of every issue and article — title, authors, pages, DOI, mini-abstract, and URLs for the abstract, full-text XHTML, figures, and associated data files. Use this for programmatic ingestion.
+- [papers/article-index.json](https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json): structured JSON catalog of every issue and article — title, authors, pages, DOI, mini-abstract, and URLs for the abstract, full-text Markdown, figures, and associated data files. Use this for programmatic ingestion.
 - [papers/index.md](https://liegroup-dartmouth.github.io/working-aea-jep/papers/index.md): human-readable Markdown catalog of the same content. Useful when a model prefers prose to JSON.
 
 ## Per-article content
@@ -26,8 +26,8 @@ Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_n
 For every article the article index lists:
 
 - `abstract.html` — short abstract.
-- `paper.xhtml` — full article text (title, authors, abstract, all sections, footnotes, figure captions). Fetch this URL for the article body.
-- `image/*.jpg` — figure image files. Image **bytes** cannot be fetched from most agent environments; figure captions inside the `paper.xhtml` carry the interpretive content (axes, units, principal finding) so a text-only agent can understand each figure without seeing it.
+- `paper.md` — full article text (title, authors, abstract, all sections, footnotes, figure captions). Fetch this URL for the article body.
+- `image/*.jpg` — figure image files. Image **bytes** cannot be fetched from most agent environments; figure captions inside the `paper.md` carry the interpretive content (axes, units, principal finding) so a text-only agent can understand each figure without seeing it.
 - `image-data/*.csv` — underlying data tables for figures (where provided). URLs render the CSV inline and are cleanly extractable.
 
 ## Navigation

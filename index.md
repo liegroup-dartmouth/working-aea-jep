@@ -5,7 +5,7 @@ permalink: /about.html
 sidebar: jep
 ---
 
-This site hosts machine-readable companion files for articles published in the [Journal of Economic Perspectives](https://www.aeaweb.org/journals/jep) (JEP), published by the American Economic Association (ISSN 0895-3309). The goal is to make JEP articles accessible to AI language models and automated research tools by providing structured XHTML full text, a JSON article index, per-figure data in CSV format, and standalone HTML abstracts, all served from stable, publicly accessible URLs.
+This site hosts machine-readable companion files for articles published in the [Journal of Economic Perspectives](https://www.aeaweb.org/journals/jep) (JEP), published by the American Economic Association (ISSN 0895-3309). The goal is to make JEP articles accessible to AI language models and automated research tools by providing structured HTML or Markdown full text, a JSON article index, per-figure data in CSV format, and standalone HTML abstracts, all served from stable, publicly accessible URLs.
 
 Repository: [liegroup-dartmouth/working-aea-jep](https://github.com/liegroup-dartmouth/working-aea-jep/tree/gh-pages) (gh-pages branch)
 
@@ -18,7 +18,7 @@ The article index [article-index.json](https://liegroup-dartmouth.github.io/work
 For every article in Volume 40 Number 1, this site provides:
 
 - Abstract (`abstract.html`): a small standalone HTML file (< 5 KB) containing the abstract and key metadata. Useful for screening articles before fetching full text.
-- Full article text (`paper.xhtml`): full body paper in a single XHTML file. Files are 70–96 KB; both human and machine readable.
+- Full article text (`paper.html`): full body paper in a single HTML file retrievable through this website. Files are 70–96 KB; both human and machine readable. The Markdown version can be found through GitHub.
 - Figure images (`image/*.jpg` or `.png`): one image file per figure and table as it appears in print. Note: image bytes cannot be retrieved from most AI agent network environments.
 - Figure data (`image-data/*.csv`): underlying data for figures and tables in CSV format, including titles, captions, axis labels, data points, and sources. Most files are under 10 KB.
 
@@ -30,8 +30,8 @@ For every article in Volume 40 Number 1, this site provides:
 |------|-------------|
 | [AI Access]({{ site.baseurl }}/index.html) | Primary entry point for AI agents. Recommended access workflow, raw GitHub URLs for the article index, and notes on what agents can and cannot retrieve. |
 | [Article Index]({{ site.baseurl }}/papers/article-index.json) | Structured JSON catalog of all articles along with titles, authors, DOIs, mini-abstracts, symposium names, and per-article resource URLs. Start here for programmatic access. |
-| [View Articles]({{ site.baseurl }}/view-articles.html) | Human readable table of all articles with links to abstracts, full XHTML text, figure images (JPG or PNG), and figure data (CSV). Organized by volume and issue. |
-| [Download Articles]({{ site.baseurl }}/download-articles.html) | Step-by-step instructions for downloading XHTML papers, images, and shared stylesheets from GitHub for local offline viewing. |
+| [View Articles]({{ site.baseurl }}/view-articles.html) | Human readable table of all articles with links to abstracts, full HTML text, figure images (JPG or PNG), and figure data (CSV). Organized by volume and issue. |
+| [Download Articles]({{ site.baseurl }}/download-articles.html) | Step-by-step instructions for downloading Markdown paper files, images, and shared stylesheets from GitHub for local offline viewing. |
 
 ---
 
