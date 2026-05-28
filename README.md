@@ -24,6 +24,8 @@ For full access guidance see [`llms.txt`](https://raw.githubusercontent.com/lieg
 
 > **Note:** HTML versions of articles (`paper.html`) are rendered from Markdown source files by GitHub Pages and are only available at `liegroup-dartmouth.github.io/...` URLs. They are not directly accessible as files within this repository. Use the raw Markdown URLs from the article index instead.
 
+> **Note for agents:** Do not try to infer which articles exist by navigating the GitHub tree UI, browsing `github.com/...` URLs, or probing raw paths manually. GitHub's tree view is blocked by robots.txt in most agent environments, and manually constructed raw paths are error-prone (articles are under `papers/`, not at the repo root). The article index is the authoritative list — fetch it first.
+
 ---
 
 ## Repository Structure

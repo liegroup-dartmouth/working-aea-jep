@@ -29,7 +29,7 @@ Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_n
 
 This repository is published as a GitHub Pages site at `liegroup-dartmouth.github.io`. Most AI agent environments block outbound requests to `*.github.io` hosts. We recommend you use Raw URLs.
 
-The article index include individual paper metadata (i.e. title, authors, mini-abstract, DOI) as well as URLs for the paper's abstract, the full paper, individual JPG (or PNG) figures, and underlying data for all figures in CSV format. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
+The article index include individual paper metadata (i.e. title, authors, mini-abstract, DOI) as well as URLs for the paper's abstract, the full paper, individual JPG (or PNG) figures, and underlying data for all figures in CSV format. See [AI Access](https://liegroup-dartmouth.github.io/working-aea-jep/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
 
 ---
 
@@ -67,4 +67,4 @@ The article index include individual paper metadata (i.e. title, authors, mini-a
 
 If you are building a pipeline that ingests JEP articles, use the article index as your structured index. Each article entry contains fully-qualified URLs for all resources. 
 
-Human visitors can browse articles via the [View Articles]({{ site.baseurl }}/view-articles.html) tab.
+Human visitors can browse articles via the [View Articles](https://liegroup-dartmouth.github.io/working-aea-jep/view-articles.html) tab.

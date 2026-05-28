@@ -14,7 +14,7 @@ https://liegroup-dartmouth.github.io/working-aea-jep/papers/article-index.json
 https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/article-index.json
 ```
 
-Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text. See [AI Access]({{ site.baseurl }}/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
+Fetch the article index first. Use the `title`, `miniabstract`, and `symposium_name` fields to identify relevant articles before fetching any full text. See [AI Access](https://liegroup-dartmouth.github.io/working-aea-jep/ai-access.html) for more detail on what agents can and cannot retrieve through this channel.
 
 ## Primary entry points
 
