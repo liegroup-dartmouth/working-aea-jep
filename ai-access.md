@@ -46,7 +46,7 @@ The article index include individual paper metadata (i.e. title, authors, mini-a
 ## What an Agent Can Read
 
 - **Article Index** (`papers/article-index.json`) — All articles, miniabstracts, symposium names, DOIs, and per-article resource URLs. ~28 KB; fits inline.
-- **Full article text** — Title, authors, abstract, all sections, footnotes, and figure captions are embedded in each `paper.html` and readable via its URL. Files are large (70–96 KB); subagent dispatch may be needed. Markdown versions of the file are available through GitHub.
+- **Full article text** — Title, authors, abstract, all sections, footnotes, and figure captions are in each `paper.md` file, readable via its raw GitHub URL (as listed in the article index). Files are large (70–96 KB); subagent dispatch may be needed. HTML versions of the articles (`paper.html`) are rendered from XHTML source files and are only retrievable through the GitHub Pages site (`liegroup-dartmouth.github.io/...`); they are not directly accessible as files in the GitHub repository.
 - **Abstracts** — Each article has a small `abstract.html` file (linked from the article index) that fits within a single call.
 - **CSV and other data files** — Each article has URLs for CSV versions of all figures and tables in `figures_data`. These are generally below 10 KB in size but may be larger for files created through a replication package such as geruso-spears. These filles include title, captions, labels, data points, and all information observed in the JPG version.
 
