@@ -30,11 +30,23 @@ For every article the article index lists:
 - `image/*.jpg` — figure image files. Image **bytes** cannot be fetched from most agent environments; figure captions inside the `paper.md` carry the interpretive content (axes, units, principal finding) so a text-only agent can understand each figure without seeing it.
 - `image-data/*.csv` — underlying data tables for figures (where provided). URLs render the CSV inline and are cleanly extractable.
 
+## Repository path structure
+
+All paper files are nested under a `papers/` directory. For example, the Starr article on noncompete clauses is at:
+```
+papers/v40n1/starr/paper.md
+```
+Raw URL:
+```
+https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/papers/v40n1/starr/paper.md
+```
+Use the article index (above) to get the correct raw URL for any paper rather than constructing paths manually.
+
 ## Navigation
 
-- [ai-access.md](https://liegroup-dartmouth.github.io/working-aea-jep/ai-access.md): access guidance for agents.
-- [view-articles.md](https://liegroup-dartmouth.github.io/working-aea-jep/view-articles.md): human-facing tabular catalog.
-- [download-articles.md](https://liegroup-dartmouth.github.io/working-aea-jep/download-articles.md): instructions for downloading papers and viewing them locally.
+- [ai-access.md](https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/ai-access.md): access guidance for agents.
+- [view-articles.md](https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/view-articles.md): human-facing tabular catalog.
+- [download-articles.md](https://raw.githubusercontent.com/liegroup-dartmouth/working-aea-jep/refs/heads/gh-pages/download-articles.md): instructions for downloading papers and viewing them locally.
 
 ## Optional
 
